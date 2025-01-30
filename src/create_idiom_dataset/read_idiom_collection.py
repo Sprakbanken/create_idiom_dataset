@@ -1,6 +1,6 @@
 import logging
 from pathlib import Path
-from create_idiom_dataset.utils import filter_and_normalize_idiom_df
+from create_idiom_dataset.utils import normalize_and_filter_idiom_df
 import pandas as pd
 
 logger = logging.getLogger(__name__)
@@ -16,7 +16,7 @@ def idiom_colletion_to_df(
     ]
     idiom_df = pd.DataFrame({"idiom": idioms})
 
-    return filter_and_normalize_idiom_df(
+    return normalize_and_filter_idiom_df(
         idiom_df=idiom_df,
         special_chars=special_chars,
         min_num_words=min_num_words,

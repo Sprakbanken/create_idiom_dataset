@@ -106,13 +106,14 @@ def filter_idiom_df(
     return idiom_df
 
 
-def filter_and_normalize_idiom_df(
+def normalize_and_filter_idiom_df(
     idiom_df: pd.DataFrame, special_chars: list[str], min_num_words: int
 ) -> pd.DataFrame:
+    idiom_df = normalize_idiom_df(idiom_df=idiom_df)
+
     idiom_df = filter_idiom_df(
         idiom_df=idiom_df,
         special_chars=special_chars,
         min_num_words=min_num_words,
     )
-    idiom_df = normalize_idiom_df(idiom_df=idiom_df)
     return idiom_df

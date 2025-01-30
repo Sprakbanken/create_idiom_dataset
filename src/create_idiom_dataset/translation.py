@@ -1,7 +1,7 @@
 import requests
 from typing import TypedDict
 import logging
-from create_idiom_dataset.utils import filter_and_normalize_idiom_df
+from create_idiom_dataset.utils import normalize_and_filter_idiom_df
 from tqdm import tqdm
 from pathlib import Path
 import pandas as pd
@@ -59,7 +59,7 @@ def get_idiom_translations(
 
     logger.info("Filtering and normalizing translated idioms")
     # Filter and normalize the translated idioms
-    idiom_df = filter_and_normalize_idiom_df(
+    idiom_df = normalize_and_filter_idiom_df(
         idiom_df=idiom_df,
         special_chars=special_chars,
         min_num_words=min_num_words,
