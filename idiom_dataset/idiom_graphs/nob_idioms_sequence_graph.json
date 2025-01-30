@@ -19,7 +19,6 @@
         }
     },
     "alle": {
-        "dager": {},
         "gode": {
             "ting": {
                 "er": {
@@ -135,9 +134,6 @@
             }
         }
     },
-    "amerikansk": {
-        "øyemål": {}
-    },
     "ane": {
         "ugler": {
             "i": {
@@ -177,7 +173,6 @@
                 "hest": {}
             }
         },
-        "svart": {},
         "under": {
             "høytrykk": {}
         }
@@ -291,7 +286,6 @@
         }
     },
     "bak": {
-        "kulissene": {},
         "lås": {
             "og": {
                 "slå": {}
@@ -307,16 +301,10 @@
             }
         }
     },
-    "bakke": {
-        "ut": {}
-    },
     "baksiden": {
         "av": {
             "medaljen": {}
         }
-    },
-    "baktale": {
-        "noen": {}
     },
     "balansere": {
         "på": {
@@ -338,12 +326,7 @@
             "rund": {}
         }
     },
-    "ballets": {
-        "dronning": {}
-    },
     "bare": {
-        "blåbær": {},
-        "piss": {},
         "tiden": {
             "og": {
                 "veien": {}
@@ -405,9 +388,6 @@
             "fullt": {}
         }
     },
-    "begrave": {
-        "stridsøksa": {}
-    },
     "begynne": {
         "for": {
             "seg": {
@@ -424,9 +404,6 @@
         "å": {
             "lysne": {}
         }
-    },
-    "bekjempe": {
-        "noe": {}
     },
     "belegge": {
         "sine": {
@@ -468,23 +445,17 @@
             }
         }
     },
-    "bestå": {
-        "ildprøven": {}
-    },
     "betale": {
         "med": {
             "samme": {
                 "mynt": {}
             }
         },
-        "seg": {},
-        "skjorta": {},
         "under": {
             "bordet": {}
         }
     },
     "bevare": {
-        "fatningen": {},
         "sitt": {
             "gode": {
                 "navn": {
@@ -495,18 +466,12 @@
             }
         }
     },
-    "bevares": {
-        "vel": {}
-    },
     "bevege": {
         "seg": {
             "i": {
                 "sneglefart": {}
             }
         }
-    },
-    "bevingede": {
-        "ord": {}
     },
     "bikkja": {
         "i": {
@@ -562,22 +527,12 @@
             "seg": {}
         }
     },
-    "blande": {
-        "blod": {},
-        "kortene": {}
-    },
-    "blank": {
-        "løgn": {}
-    },
     "bli": {
-        "akterutseilt": {},
-        "avkledd": {},
         "bløt": {
             "om": {
                 "hjertet": {}
             }
         },
-        "bønnhørt": {},
         "dagens": {
             "helt": {}
         },
@@ -660,7 +615,6 @@
         "hoppende": {
             "glad": {}
         },
-        "husvarm": {},
         "kastet": {
             "til": {
                 "ulvene": {}
@@ -711,7 +665,6 @@
                 }
             }
         },
-        "oppøst": {},
         "revet": {
             "med": {}
         },
@@ -720,7 +673,6 @@
                 "skinnet": {}
             }
         },
-        "rundlurt": {},
         "satt": {
             "på": {
                 "bar": {
@@ -732,7 +684,6 @@
                 "veggs": {}
             }
         },
-        "sjanghaiet": {},
         "slengt": {
             "veggimellom": {}
         },
@@ -782,7 +733,6 @@
                 "veggen": {}
             }
         },
-        "svarteper": {},
         "tatt": {
             "av": {
                 "dage": {},
@@ -853,7 +803,6 @@
         }
     },
     "blind": {
-        "alarm": {},
         "høne": {
             "finner": {
                 "også": {
@@ -867,8 +816,7 @@
                     }
                 }
             }
-        },
-        "vold": {}
+        }
     },
     "blod": {
         ",": {
@@ -894,12 +842,6 @@
             "biene": {}
         }
     },
-    "blomstre": {
-        "av": {}
-    },
-    "blotte": {
-        "seg": {}
-    },
     "blunke": {
         "til": {
             "noen": {}
@@ -913,19 +855,10 @@
             "noe": {}
         }
     },
-    "blått": {
-        "blod": {}
-    },
-    "blære": {
-        "seg": {}
-    },
     "bomber": {
         "og": {
             "granater": {}
         }
-    },
-    "bordet": {
-        "fanger": {}
     },
     "bort": {
         "i": {
@@ -959,16 +892,10 @@
             "blåner": {}
         }
     },
-    "bortforklare": {
-        "noe": {}
-    },
     "braute": {
         "seg": {
             "fram": {}
         }
-    },
-    "breie": {
-        "seg": {}
     },
     "brenne": {
         "et": {
@@ -977,7 +904,6 @@
         "for": {
             "noe": {}
         },
-        "hjemme": {},
         "inne": {
             "med": {
                 "noe": {}
@@ -1023,11 +949,7 @@
             "verden": {}
         }
     },
-    "brodne": {
-        "kar": {}
-    },
     "bruke": {
-        "albuene": {},
         "apostlenes": {
             "hester": {}
         },
@@ -1037,8 +959,6 @@
         "harde": {
             "ord": {}
         },
-        "kjeft": {},
-        "klubba": {},
         "penger": {
             "som": {
                 "en": {
@@ -1048,15 +968,12 @@
                 }
             }
         },
-        "sparekniven": {},
         "sundt": {
             "bondevett": {}
         },
         "sunn": {
             "fornuft": {}
-        },
-        "vettet": {},
-        "øynene": {}
+        }
     },
     "bruse": {
         "med": {
@@ -1084,21 +1001,15 @@
         "alle": {
             "skranker": {}
         },
-        "isen": {},
-        "lydmuren": {},
-        "løs": {},
         "med": {
             "noen": {}
         },
-        "ned": {},
         "ny": {
             "mark": {}
         },
-        "opp": {},
         "over": {
             "tvert": {}
         },
-        "tausheten": {},
         "ut": {
             "i": {
                 "lys": {
@@ -1179,15 +1090,12 @@
         }
     },
     "bære": {
-        "byrdene": {},
         "fram": {
             "noe": {}
         },
-        "horn": {},
         "preg": {
             "av": {}
         },
-        "seg": {},
         "sitt": {
             "kors": {}
         },
@@ -1224,13 +1132,7 @@
             "livet": {}
         }
     },
-    "bøtte": {
-        "ned": {}
-    },
     "bøye": {
-        "av": {},
-        "hodet": {},
-        "nakken": {},
         "seg": {
             "for": {
                 "noen": {}
@@ -1269,7 +1171,6 @@
         }
     },
     "dagen": {
-        "derpå": {},
         "er": {
             "ennå": {
                 "ung": {}
@@ -1283,21 +1184,10 @@
             }
         }
     },
-    "dagens": {
-        "mann": {},
-        "byrde": {
-            "og": {
-                "hete": {}
-            }
-        }
-    },
     "dann": {
         "og": {
             "vann": {}
         }
-    },
-    "danne": {
-        "skole": {}
     },
     "dansen": {
         "rundt": {
@@ -1500,11 +1390,9 @@
         "omvendte": {
             "verden": {}
         },
-        "onde": {},
         "røde": {
             "tråd": {}
         },
-        "satt": {},
         "siste": {
             "olje": {},
             "reise": {}
@@ -2369,7 +2257,6 @@
                 }
             }
         },
-        "hinsidige": {},
         "hjertet": {
             "er": {
                 "fullt": {
@@ -2918,7 +2805,6 @@
         }
     },
     "din": {
-        "banditt": {},
         "feige": {
             "hund": {}
         },
@@ -2930,16 +2816,10 @@
             }
         }
     },
-    "direkte": {
-        "tale": {}
-    },
     "diskutere": {
         "pavens": {
             "skjegg": {}
         }
-    },
-    "djevelens": {
-        "advokat": {}
     },
     "dolke": {
         "noen": {
@@ -2958,17 +2838,10 @@
             "opp": {}
         }
     },
-    "dommens": {
-        "dag": {}
-    },
-    "dovne": {
-        "seg": {}
-    },
     "dra": {
         "av": {
             "gårde": {}
         },
-        "damer": {},
         "fanden": {
             "i": {
                 "vold": {}
@@ -2991,7 +2864,6 @@
                 "!": {}
             }
         },
-        "tømmerstokker": {},
         "ut": {
             "tiden": {}
         },
@@ -3038,8 +2910,7 @@
             "en": {
                 "svamp": {}
             }
-        },
-        "bryllup": {}
+        }
     },
     "drite": {
         "på": {
@@ -3050,11 +2921,9 @@
         }
     },
     "drive": {
-        "dank": {},
         "det": {
             "langt": {}
         },
-        "flisespikkeri": {},
         "for": {
             "vær": {
                 "og": {
@@ -3073,9 +2942,7 @@
                     "selv": {}
                 }
             }
-        },
-        "tuskhandel": {},
-        "vranglære": {}
+        }
     },
     "drukne": {
         "sine": {
@@ -3169,22 +3036,12 @@
             "prisen": {}
         }
     },
-    "dukke": {
-        "frem": {}
-    },
     "dumme": {
         "seg": {
             "loddrett": {
                 "ut": {}
             }
         }
-    },
-    "dyrenes": {
-        "konge": {}
-    },
-    "dyrke": {
-        "mammon": {},
-        "noen": {}
     },
     "dysse": {
         "ned": {
@@ -3215,9 +3072,6 @@
             "plage": {}
         }
     },
-    "dødens": {
-        "forgård": {}
-    },
     "ebbe": {
         "i": {
             "kassen": {}
@@ -3246,73 +3100,25 @@
             }
         }
     },
-    "ei": {
-        "berte": {},
-        "megge": {},
-        "skrulle": {},
-        "tuppe": {}
-    },
-    "eksemplets": {
-        "makt": {}
-    },
     "en": {
-        "adonis": {},
-        "advokat": {},
-        "agurktid": {},
-        "akilleshæl": {},
-        "allviter": {},
-        "analfabet": {},
-        "andedam": {},
-        "anekdote": {},
         "angrende": {
             "synder": {}
         },
-        "angstbiter": {},
-        "angstfordriver": {},
         "annen": {
             "dans": {}
         },
-        "anstand": {},
-        "anstøtsstein": {},
-        "arbeidshest": {},
-        "arbeidsmaur": {},
         "arg": {
             "konkurrent": {}
         },
-        "aspirasjon": {},
-        "attpåklatt": {},
-        "attpåsleng": {},
-        "attåtnæring": {},
         "av": {
             "gutta": {}
         },
-        "avgrunn": {},
-        "avledningsmanøver": {},
-        "avlegger": {},
-        "bagasje": {},
-        "bakevje": {},
-        "bakstrever": {},
-        "baktanke": {},
-        "bakvaskelse": {},
-        "balansegang": {},
-        "balansekunst": {},
-        "barnestjerne": {},
-        "banemann": {},
-        "barnesykdom": {},
-        "basse": {},
-        "bastion": {},
         "bedre": {
             "middag": {}
         },
-        "bedreviter": {},
-        "bedrift": {},
-        "bengel": {},
-        "besettelse": {},
         "besk": {
             "medisin": {}
         },
-        "bestefarsklokke": {},
-        "bibel": {},
         "billedlig": {
             "framstilling": {}
         },
@@ -3322,9 +3128,6 @@
         "bjelle": {
             "ringer": {}
         },
-        "bjellesau": {},
-        "bjørnetjeneste": {},
-        "blackout": {},
         "blandet": {
             "fornøyelse": {}
         },
@@ -3337,52 +3140,17 @@
                 }
             }
         },
-        "blei": {},
-        "blekke": {},
         "bloddryppende": {
             "historie": {}
         },
-        "blodhevn": {},
-        "blodpris": {},
-        "blodsuger": {},
-        "blomstringstid": {},
-        "blunder": {},
-        "blåkopi": {},
-        "blåstrømpe": {},
-        "blære": {},
-        "blødme": {},
-        "boble": {},
-        "boikott": {},
-        "bombe": {},
-        "bondefanger": {},
-        "bondeknøl": {},
-        "bondetamp": {},
-        "borgfred": {},
-        "brannfakkel": {},
-        "bredside": {},
-        "brems": {},
-        "bremsekloss": {},
-        "brilleslange": {},
         "broder": {
             "i": {
                 "ånden": {}
             }
         },
-        "broiler": {},
         "broket": {
             "forsamling": {}
         },
-        "bråkebøtte": {},
-        "brøde": {},
-        "brølape": {},
-        "busemann": {},
-        "byggekloss": {},
-        "bølgedal": {},
-        "bølle": {},
-        "bøyg": {},
-        "casanova": {},
-        "dagdrøm": {},
-        "dagligtale": {},
         "dags": {
             "tid": {}
         },
@@ -3391,38 +3159,23 @@
                 "roser": {}
             }
         },
-        "danseløve": {},
         "del": {
             "av": {
                 "kaken": {}
             }
         },
-        "demon": {},
-        "devise": {},
-        "dilettant": {},
         "djevelens": {
             "advokat": {}
         },
-        "dobbeltgjenger": {},
-        "dominoeffekt": {},
-        "dommedagsprofet": {},
-        "drage": {},
         "drivende": {
             "kraft": {}
         },
-        "drivkraft": {},
-        "dronning": {},
-        "drukkenbolt": {},
-        "drømmer": {},
         "drøy": {
             "historie": {}
         },
-        "due": {},
-        "dumming": {},
         "dundrende": {
             "suksess": {}
         },
-        "dusinvare": {},
         "dyd": {
             "av": {
                 "nødvendighet": {}
@@ -3437,39 +3190,24 @@
         "dyster": {
             "fremtid": {}
         },
-        "dåd": {},
-        "dåre": {},
-        "dårelokk": {},
-        "dåsemikkel": {},
-        "døgenikt": {},
-        "einstøing": {},
-        "eksosrype": {},
         "elefant": {
             "i": {
                 "rommet": {}
             }
         },
-        "elegantier": {},
         "elektrisk": {
             "stemning": {}
         },
         "enkel": {
             "sjel": {}
         },
-        "epistel": {},
-        "eremitt": {},
         "estetisk": {
             "nytelse": {}
         },
-        "eufemisme": {},
-        "fabel": {},
-        "fadese": {},
         "fallen": {
             "engel": {},
             "kvinne": {}
         },
-        "fallhøyde": {},
-        "fallitterklæring": {},
         "falmet": {
             "skjønnhet": {}
         },
@@ -3477,89 +3215,45 @@
             "alarm": {},
             "profet": {}
         },
-        "faneflukt": {},
-        "fargeklatt": {},
-        "feberredning": {},
         "feig": {
             "hund": {}
         },
-        "femtekolonne": {},
-        "femtekolonnist": {},
-        "fengselsfugl": {},
-        "festbrems": {},
-        "fiasko": {},
         "fiffig": {
             "løsning": {}
         },
         "fiks": {
             "idé": {}
         },
-        "filister": {},
-        "fillefant": {},
-        "fillefrans": {},
-        "finansakrobat": {},
-        "fingerspissfølelse": {},
-        "firkløver": {},
-        "fisk": {},
-        "fjolle": {},
-        "fjott": {},
-        "flanør": {},
-        "flaskehals": {},
         "flittig": {
             "gjest": {}
         },
-        "flokse": {},
-        "flopp": {},
-        "flottenheimer": {},
         "flue": {
             "på": {
                 "veggen": {}
             }
         },
-        "flyfille": {},
-        "flyveidé": {},
         "flyvende": {
             "tallerken": {}
         },
-        "flåkjeft": {},
-        "fløtepus": {},
-        "forbryterbane": {},
         "forbuden": {
             "frukt": {}
         },
-        "forpostfektning": {},
         "forsiktig": {
             "general": {}
         },
         "forsmådd": {
             "elsker": {}
         },
-        "forståsegpåer": {},
-        "forsøkskanin": {},
-        "fossil": {},
         "fransk": {
             "visitt": {},
             "åpning": {}
         },
-        "frase": {},
-        "fredsdue": {},
-        "frekkas": {},
         "fremmed": {
             "fugl": {}
         },
-        "frille": {},
-        "friskus": {},
-        "furie": {},
-        "fuskelapp": {},
-        "fyllekule": {},
-        "fyr": {},
         "fyrstelig": {
             "mottagelse": {}
         },
-        "fødselshjelper": {},
-        "galgenfrist": {},
-        "galgenfugl": {},
-        "galning": {},
         "gammel": {
             "jomfru": {},
             "rev": {},
@@ -3567,89 +3261,40 @@
             "ungkar": {},
             "flamme": {}
         },
-        "gap": {},
-        "gategutt": {},
-        "gatepike": {},
         "gave": {
             "fra": {
                 "himmelen": {},
                 "oven": {}
             }
         },
-        "generaltabbe": {},
-        "generasjonskløft": {},
-        "gentlemanns": {},
-        "gjenganger": {},
-        "gjennomgangsmelodi": {},
-        "gjerrigknark": {},
-        "gjøkunge": {},
         "glad": {
             "laks": {}
         },
-        "glansperiode": {},
         "gledelig": {
             "begivenhet": {}
         },
         "gledens": {
             "dag": {}
         },
-        "gledesdreper": {},
-        "gledespike": {},
-        "gledesspreder": {},
-        "glorie": {},
-        "gneldrebikkje": {},
-        "godfjott": {},
-        "gratissjanse": {},
-        "gravrøst": {},
-        "gressenke": {},
-        "gressenkemann": {},
-        "gris": {},
         "grå": {
             "mus": {}
         },
-        "gråtass": {},
         "grønn": {
             "lunge": {}
         },
-        "grønnsak": {},
-        "grøt": {},
-        "gudegave": {},
         "guds": {
             "lykke": {}
         },
-        "gullfugl": {},
-        "gullgutt": {},
-        "gulrot": {},
-        "guttevalp": {},
-        "gåte": {},
-        "hai": {},
-        "hakkekylling": {},
-        "halvgud": {},
-        "ham": {},
-        "hanekylling": {},
-        "hannkatt": {},
         "hard": {
             "hals": {},
             "negl": {}
         },
-        "hardhaus": {},
-        "hare": {},
-        "hauk": {},
-        "he": {},
-        "hedersgjest": {},
-        "hedersmann": {},
         "heidundrende": {
             "fest": {}
         },
-        "heimføding": {},
-        "heisatur": {},
-        "heksedoktor": {},
-        "hekseprosess": {},
-        "heksering": {},
         "heldig": {
             "stjerne": {}
         },
-        "helgenglorie": {},
         "hellig": {
             "allianse": {},
             "ku": {}
@@ -3657,39 +3302,25 @@
         "helstøpt": {
             "personlighet": {}
         },
-        "helt": {},
-        "heltedåd": {},
-        "heltetenor": {},
-        "hengemyr": {},
         "herostratisk": {
             "berømmelse": {}
         },
-        "herrekost": {},
         "het": {
             "potet": {}
         },
-        "hetebølge": {},
-        "hissigpropp": {},
-        "hivert": {},
         "hjelpende": {
             "hånd": {}
         },
-        "hjertesak": {},
         "hjerteskjærende": {
             "gråt": {},
             "scene": {}
         },
-        "hjertevenn": {},
         "homerisk": {
             "latter": {}
         },
-        "horebukk": {},
         "hoven": {
             "mine": {}
         },
-        "hulder": {},
-        "hund": {},
-        "husmannsånd": {},
         "hvit": {
             "flekk": {
                 "på": {
@@ -3698,33 +3329,12 @@
             },
             "løgn": {}
         },
-        "hvitvasking": {},
-        "hybelkanin": {},
-        "hyrdetime": {},
-        "håndfull": {},
-        "håndjager": {},
-        "håndvending": {},
-        "høneblund": {},
-        "høvding": {},
-        "ildprøve": {},
-        "ildsjel": {},
         "indre": {
             "stemme": {}
         },
-        "intrigemaker": {},
-        "jentefut": {},
-        "jette": {},
-        "jomfru": {},
-        "jomfrutur": {},
-        "jordmor": {},
-        "jukselapp": {},
-        "jypling": {},
-        "kakelinne": {},
         "kald": {
             "skulder": {}
         },
-        "kalddusj": {},
-        "kameleon": {},
         "kamp": {
             "mot": {
                 "klokka": {},
@@ -3741,37 +3351,11 @@
                 }
             }
         },
-        "kamphane": {},
-        "kanalje": {},
-        "kanonade": {},
-        "kanossagang": {},
-        "kardinaldyd": {},
-        "kardinalfeil": {},
-        "karismatiker": {},
-        "karrierejeger": {},
-        "karusell": {},
-        "kassasuksess": {},
-        "kasteball": {},
-        "kilevink": {},
-        "kinnhest": {},
-        "kjeftesmelle": {},
-        "kjendis": {},
-        "kjentmann": {},
-        "kjerringknute": {},
-        "klakør": {},
         "klapp": {
             "på": {
                 "skulderen": {}
             }
         },
-        "klassiker": {},
-        "klippe": {},
-        "klippetro": {},
-        "klisjé": {},
-        "klisterhjerne": {},
-        "klossmajor": {},
-        "klump": {},
-        "klyse": {},
         "knakende": {
             "kjekk": {
                 "kar": {}
@@ -3782,39 +3366,16 @@
                 "tråden": {}
             }
         },
-        "knøl": {},
-        "koffertløper": {},
-        "kollbøtte": {},
         "koloss": {
             "på": {
                 "leirføtter": {}
             }
         },
-        "kongstanke": {},
-        "konkursrytter": {},
-        "kop": {},
-        "korsvei": {},
-        "kortslutning": {},
-        "kraftidiot": {},
-        "kraftkar": {},
-        "kraftsalve": {},
-        "krake": {},
-        "kranglefant": {},
         "krig": {
             "på": {
                 "kniven": {}
             }
         },
-        "krokvei": {},
-        "kronjuvel": {},
-        "kruttønne": {},
-        "krystallkule": {},
-        "kubikksjarmør": {},
-        "kunstpause": {},
-        "kurtisane": {},
-        "kvakksalver": {},
-        "kverulant": {},
-        "kvikkas": {},
         "kvise": {
             "på": {
                 "samfunnets": {
@@ -3822,24 +3383,12 @@
                 }
             }
         },
-        "kylling": {},
-        "labb": {},
-        "lakei": {},
-        "larv": {},
-        "ledestjerne": {},
-        "lefse": {},
         "lekker": {
             "sak": {}
         },
-        "lenkegjeng": {},
-        "lesbe": {},
-        "lesehest": {},
-        "levemann": {},
         "levende": {
             "fakkel": {}
         },
-        "likemann": {},
-        "linselus": {},
         "lise": {
             "for": {
                 "kropp": {
@@ -3858,32 +3407,18 @@
         "lokal": {
             "størrelse": {}
         },
-        "lokkedue": {},
-        "lokkefugl": {},
-        "lurendreier": {},
-        "lus": {},
-        "lusekjører": {},
-        "lykkeridder": {},
-        "lykkestjerne": {},
         "lys": {
             "idé": {}
         },
         "lystig": {
             "fyr": {}
         },
-        "lystløgner": {},
-        "lærepenge": {},
-        "løgnhals": {},
-        "løpegutt": {},
         "løs": {
             "ende": {}
         },
-        "magiker": {},
         "magisk": {
             "grense": {}
         },
-        "majestetsforbrytelse": {},
-        "maktdemonstrasjon": {},
         "mann": {
             "av": {
                 "den": {
@@ -3901,124 +3436,48 @@
                 }
             }
         },
-        "mannsgris": {},
-        "mare": {},
-        "marionett": {},
-        "masekopp": {},
-        "matrone": {},
-        "megge": {},
-        "melkeku": {},
-        "mellommann": {},
-        "meningsfelle": {},
-        "menneskealder": {},
-        "mentor": {},
-        "merkedag": {},
-        "merr": {},
-        "mester": {},
-        "millimeter": {},
-        "mine": {},
         "moralens": {
             "vokter": {}
         },
-        "moralpreken": {},
-        "muldvarp": {},
         "myk": {
             "mann": {}
         },
-        "myrsnipe": {},
-        "målkonge": {},
-        "målmann": {},
-        "møkkaspreder": {},
         "mørkets": {
             "engel": {}
         },
-        "natterangler": {},
-        "natteravn": {},
-        "naturbegavelse": {},
-        "nedsabling": {},
-        "nedtur": {},
-        "nerd": {},
-        "nidvise": {},
-        "novise": {},
         "ny": {
             "verdensborger": {}
         },
         "nyttig": {
             "idiot": {}
         },
-        "nøkkelperson": {},
-        "nøtt": {},
-        "oddsbombe": {},
         "ond": {
             "sirkel": {}
         },
-        "oppreisning": {},
-        "oppstiver": {},
-        "oppvigler": {},
-        "ordensmann": {},
-        "ordgyter": {},
-        "ordkløver": {},
-        "original": {},
         "overført": {
             "betydning": {}
         },
-        "overmann": {},
-        "pakkeløsning": {},
-        "pakketur": {},
-        "palassrevolusjon": {},
-        "papegøye": {},
-        "papirbestemmelse": {},
-        "papirtiger": {},
-        "paragrafrytter": {},
-        "paraply": {},
-        "paraplyorganisasjon": {},
-        "parasitt": {},
-        "parentes": {},
-        "parole": {},
-        "partifelle": {},
-        "pedant": {},
-        "pekepinn": {},
-        "penneknekt": {},
-        "peppermø": {},
-        "perle": {},
-        "petimeter": {},
-        "pikelill": {},
-        "pingle": {},
-        "pipekonsert": {},
-        "plageånd": {},
         "plass": {
             "i": {
                 "solen": {}
             }
         },
-        "platthet": {},
-        "pokersjanse": {},
         "polsk": {
             "riksdag": {}
         },
-        "praktkar": {},
-        "pralhans": {},
-        "programhelt": {},
-        "propp": {},
         "pryd": {
             "for": {
                 "øyet": {}
             }
         },
-        "prøveballong": {},
-        "prøvekanin": {},
-        "prøveklut": {},
-        "pusling": {},
         "pust": {
             "i": {
                 "bakken": {}
             }
         },
-        "pyntedukke": {},
         "på": {
             "trynet": {}
         },
-        "påpakning": {},
         "pæl": {
             "i": {
                 "kjødet": {}
@@ -4029,19 +3488,9 @@
                 "slaktetiden": {}
             }
         },
-        "rambukk": {},
-        "rangstige": {},
-        "rebell": {},
-        "rebus": {},
-        "reddhare": {},
-        "redningsplanke": {},
         "regjerende": {
             "mester": {}
         },
-        "renvasking": {},
-        "resept": {},
-        "retor": {},
-        "rev": {},
         "rik": {
             "onkel": {
                 "i": {
@@ -4049,60 +3498,31 @@
                 }
             }
         },
-        "rosemaling": {},
         "rosenrød": {
             "fremtid": {}
         },
-        "rugekasse": {},
         "rungende": {
             "taushet": {}
         },
-        "rustholk": {},
-        "rågjenger": {},
-        "rødhud": {},
-        "rønner": {},
-        "røverunge": {},
-        "salderingspost": {},
         "salig": {
             "blanding": {}
         },
         "salomonisk": {
             "dom": {}
         },
-        "salongradikaler": {},
-        "saltstøtte": {},
-        "samfunnsstøtte": {},
-        "sandpåstrøer": {},
         "sann": {
             "fryd": {}
         },
-        "saueflokk": {},
-        "seierherre": {},
-        "selvmotsigelse": {},
-        "sentens": {},
-        "sexbombe": {},
-        "sfinks": {},
         "sinnrik": {
             "plan": {}
         },
-        "sirkushest": {},
         "siste": {
             "hilsen": {}
         },
-        "sjargong": {},
-        "sjarmoffensiv": {},
         "sjelden": {
             "gang": {},
             "gjest": {}
         },
-        "sjeldenhet": {},
-        "sjelevandring": {},
-        "skalk": {},
-        "skampæl": {},
-        "skapdranker": {},
-        "skillevei": {},
-        "skipperskrøne": {},
-        "skittentøyvask": {},
         "skjebne": {
             "verre": {
                 "enn": {
@@ -4110,17 +3530,6 @@
                 }
             }
         },
-        "skjelm": {},
-        "skjemtegauk": {},
-        "skjennepreken": {},
-        "skjønnhetsplett": {},
-        "skjørtejeger": {},
-        "skoggerlatter": {},
-        "skrell": {},
-        "skreppe": {},
-        "skrikhals": {},
-        "skrotnisse": {},
-        "skrulle": {},
         "skulder": {
             "å": {
                 "gråte": {
@@ -4128,81 +3537,29 @@
                 }
             }
         },
-        "skurkestrek": {},
-        "skvaldrebøtte": {},
-        "skyggetilværelse": {},
-        "skyteskive": {},
-        "skytsengel": {},
-        "skyttergrav": {},
-        "skyttergravskrig": {},
-        "skårunge": {},
-        "skøyer": {},
-        "skøyerstrek": {},
-        "sladrekjerring": {},
-        "slagmark": {},
-        "slagplan": {},
-        "slengbemerkning": {},
-        "slikkmunn": {},
         "slu": {
             "rev": {}
         },
-        "slubbert": {},
-        "slugger": {},
-        "sluttstrek": {},
         "smal": {
             "sak": {}
         },
-        "smed": {},
         "smittende": {
             "latter": {}
         },
-        "småkonge": {},
-        "smøring": {},
-        "smørtenor": {},
-        "snelle": {},
-        "snobb": {},
-        "snok": {},
-        "snushane": {},
-        "snyltegjest": {},
-        "snøball": {},
-        "snøballeffekt": {},
-        "snørrvalp": {},
-        "sofabonde": {},
-        "sofagris": {},
-        "soper": {},
         "sorgens": {
             "dag": {}
         },
-        "soss": {},
-        "sparkepike": {},
-        "sparringspartner": {},
         "spiker": {
             "i": {
                 "kista": {}
             }
         },
-        "spire": {},
-        "spissborger": {},
-        "spisskompetanse": {},
-        "spissrotgang": {},
-        "sprellemann": {},
-        "språkforsker": {},
-        "spyttslikker": {},
-        "spøkefugl": {},
-        "staffasje": {},
-        "stamfar": {},
-        "stamgjest": {},
-        "statist": {},
-        "stayer": {},
-        "stemningsbølge": {},
         "stille": {
             "overenskomst": {}
         },
-        "stivnakke": {},
         "stor": {
             "kanon": {}
         },
-        "stordåd": {},
         "storm": {
             "i": {
                 "et": {
@@ -4210,24 +3567,9 @@
                 }
             }
         },
-        "strandløve": {},
-        "strateg": {},
-        "strategi": {},
-        "streber": {},
-        "strek": {},
         "stri": {
             "tørn": {}
         },
-        "strikkball": {},
-        "stuegris": {},
-        "stymper": {},
-        "styrketår": {},
-        "ståpikk": {},
-        "støkk": {},
-        "suksessformel": {},
-        "sunnhetsapostel": {},
-        "suppedas": {},
-        "surpomp": {},
         "svale": {
             "gjør": {
                 "ingen": {
@@ -4235,60 +3577,24 @@
                 }
             }
         },
-        "svanesang": {},
         "svart": {
             "humor": {}
         },
-        "sverm": {},
-        "svermer": {},
-        "svingdør": {},
-        "svint": {},
-        "svovelpredikant": {},
-        "syklubb": {},
-        "sylfide": {},
-        "syndebukk": {},
         "syndens": {
             "pøl": {}
         },
-        "synser": {},
-        "synsvinkel": {},
-        "såpeopera": {},
-        "særling": {},
-        "søtmons": {},
-        "søtsuppe": {},
-        "tabbe": {},
-        "taburett": {},
         "takknemlig": {
             "oppgave": {}
         },
-        "taktikker": {},
-        "talestrøm": {},
-        "tankeflukt": {},
-        "tankevekker": {},
-        "tante": {},
-        "titan": {},
-        "tjuagutt": {},
-        "tornerosesøvn": {},
-        "torpedo": {},
-        "tramp": {},
         "trang": {
             "fødsel": {}
         },
-        "tredemølle": {},
-        "trekant": {},
-        "tributt": {},
         "tro": {
             "tjener": {}
         },
         "trojansk": {
             "hest": {}
         },
-        "trope": {},
-        "tropenatt": {},
-        "trump": {},
-        "trøstepremie": {},
-        "tumleplass": {},
-        "tungetaler": {},
         "tur": {
             "i": {
                 "det": {
@@ -4296,17 +3602,9 @@
                 }
             }
         },
-        "turistmagnet": {},
-        "tusenkunstner": {},
-        "tusseladd": {},
         "tynn": {
             "forklaring": {}
         },
-        "tåkeheim": {},
-        "tåreperse": {},
-        "tøffelhelt": {},
-        "tøs": {},
-        "ugagnskråke": {},
         "ukronet": {
             "dronning": {}
         },
@@ -4329,21 +3627,12 @@
             "fisk": {},
             "skrue": {}
         },
-        "undermåler": {},
-        "underverden": {},
-        "ungkarskvinne": {},
-        "uskikk": {},
         "uslepen": {
             "diamant": {}
         },
-        "utflukt": {},
         "utro": {
             "tjener": {}
         },
-        "val": {},
-        "valfart": {},
-        "vampyr": {},
-        "vandrehistorie": {},
         "vanlig": {
             "foreteelse": {}
         },
@@ -4351,40 +3640,15 @@
             "mottagelse": {},
             "potet": {}
         },
-        "varselklokke": {},
-        "vaskeseddel": {},
-        "velling": {},
-        "vellysting": {},
-        "verdensborger": {},
-        "verdensmester": {},
         "verpesjuk": {
             "høne": {}
         },
-        "versemaker": {},
-        "viktigper": {},
-        "villbasse": {},
-        "villkatt": {},
         "viss": {
             "mann": {}
         },
-        "vitsemaker": {},
-        "vriompeis": {},
-        "våghals": {},
         "våt": {
             "drøm": {}
         },
-        "værhane": {},
-        "xantippe": {},
-        "ågerkarl": {},
-        "ånd": {},
-        "årgangsvin": {},
-        "æresrunde": {},
-        "ødeland": {},
-        "øm": {},
-        "ørnenese": {},
-        "ønskedrøm": {},
-        "ønskekvist": {},
-        "øyentjener": {},
         "finger": {
             "med": {
                 "i": {
@@ -4518,17 +3782,9 @@
         }
     },
     "et": {
-        "A": {},
-        "adelsmerke": {},
-        "akterspeil": {},
-        "alvorsord": {},
-        "arbeidsjern": {},
         "avsluttet": {
             "kapittel": {}
         },
-        "bakteppe": {},
-        "ballespark": {},
-        "barometer": {},
         "bevinget": {
             "ord": {}
         },
@@ -4546,29 +3802,18 @@
         "billig": {
             "poeng": {}
         },
-        "blekansikt": {},
-        "blikkfang": {},
-        "blindspor": {},
-        "blodsbånd": {},
-        "bondefangeri": {},
         "brennende": {
             "spørsmål": {}
         },
-        "bruderov": {},
-        "bøllefrø": {},
         "columbi": {
             "egg": {}
         },
-        "comeback": {},
         "delikat": {
             "spørsmål": {}
         },
         "djevelens": {
             "verk": {}
         },
-        "dobbeltspill": {},
-        "dollarglis": {},
-        "dragsug": {},
         "drikk": {
             "og": {
                 "vær": {
@@ -4579,52 +3824,24 @@
         "drøyt": {
             "stykke": {}
         },
-        "dydsmønster": {},
         "dødfødt": {
             "barn": {}
         },
-        "dødskyss": {},
         "ekte": {
             "mannfolk": {}
         },
-        "elfenbeinstårn": {},
-        "elskovsrede": {},
-        "esel": {},
-        "ess": {},
-        "falkeblikk": {},
-        "fallrep": {},
-        "fantasibilde": {},
-        "farvann": {},
         "fast": {
             "uttrykk": {}
         },
-        "feilspor": {},
-        "fengsel": {},
-        "filigransarbeid": {},
         "flammende": {
             "blikk": {}
         },
-        "fnugg": {},
-        "fornuftsekteskap": {},
-        "forspill": {},
-        "forsvinningsnummer": {},
-        "fossil": {},
-        "frimerke": {},
         "fromt": {
             "ønske": {}
         },
-        "froskeperspektiv": {},
-        "froskeskudd": {},
-        "fugleperspektiv": {},
-        "fyndord": {},
-        "fyrtårn": {},
         "første": {
             "skritt": {}
         },
-        "gjenferd": {},
-        "glansbilde": {},
-        "glasshus": {},
-        "glasstak": {},
         "glemselens": {
             "slør": {}
         },
@@ -4642,13 +3859,9 @@
         "gullkantet": {
             "papir": {}
         },
-        "halmstrå": {},
         "hardnakket": {
             "rykte": {}
         },
-        "harehjerte": {},
-        "hasardspill": {},
-        "hekseskudd": {},
         "helvete": {
             "på": {
                 "jord": {}
@@ -4657,32 +3870,17 @@
         "helvetes": {
             "liv": {}
         },
-        "hemmelighetskremmeri": {},
-        "herremåltid": {},
         "herrens": {
             "vær": {}
         },
-        "hespetre": {},
-        "hestehode": {},
         "himmelsk": {
             "måltid": {}
         },
-        "hjertebarn": {},
-        "hjertesukk": {},
-        "humlebol": {},
-        "hundeliv": {},
-        "hundevær": {},
-        "hverdagsmenneske": {},
-        "hylekor": {},
         "hår": {
             "i": {
                 "suppa": {}
             }
         },
-        "justismord": {},
-        "kaffeslabberas": {},
-        "kall": {},
-        "kallenavn": {},
         "kappløp": {
             "med": {
                 "tiden": {}
@@ -4691,25 +3889,9 @@
         "kinkig": {
             "spørsmål": {}
         },
-        "kjærlighetsbarn": {},
-        "klengenavn": {},
-        "klippekort": {},
         "klokt": {
             "hode": {}
         },
-        "knep": {},
-        "knipetak": {},
-        "knot": {},
-        "kors": {},
-        "kort": {},
-        "kraftuttrykk": {},
-        "krakk": {},
-        "krigshyl": {},
-        "kråkemål": {},
-        "kråkeslott": {},
-        "kråketing": {},
-        "kupp": {},
-        "kvantesprang": {},
         "langt": {
             "lerret": {
                 "å": {
@@ -4717,8 +3899,6 @@
                 }
             }
         },
-        "lappverk": {},
-        "lavmål": {},
         "ledende": {
             "spørsmål": {}
         },
@@ -4726,52 +3906,20 @@
             "lik": {},
             "lys": {}
         },
-        "lotteri": {},
         "lukket": {
             "kapitel": {}
         },
-        "lurveleven": {},
-        "lyn": {},
-        "lyspunkt": {},
         "lystig": {
             "lag": {}
         },
-        "låneord": {},
         "lønnlig": {
             "håp": {}
         },
-        "malapropos": {},
-        "malerskrin": {},
-        "mareritt": {},
-        "matfat": {},
-        "mehe": {},
-        "mellomspill": {},
-        "mellomværende": {},
-        "melodrama": {},
-        "men": {},
-        "miksmaks": {},
-        "monstrum": {},
-        "motto": {},
-        "muldvarparbeid": {},
-        "munnhuggeri": {},
-        "museskritt": {},
-        "nappetak": {},
-        "natursvin": {},
-        "nummer": {},
-        "nurk": {},
-        "nådestøt": {},
-        "nåløye": {},
-        "nødrop": {},
-        "nødskrik": {},
-        "offer": {},
         "oppgjør": {
             "på": {
                 "kammerset": {}
             }
         },
-        "oppnavn": {},
-        "oppstøt": {},
-        "orakel": {},
         "ord": {
             "er": {
                 "et": {
@@ -4779,13 +3927,6 @@
                 }
             }
         },
-        "ordgyteri": {},
-        "ordtak": {},
-        "overflødighetshorn": {},
-        "pakk": {},
-        "paradoks": {},
-        "pengesluk": {},
-        "pokerfjes": {},
         "pust": {
             "fra": {
                 "den": {
@@ -4798,34 +3939,19 @@
                 "sivet": {}
             }
         },
-        "rabalder": {},
-        "radarpar": {},
-        "ramaskrik": {},
-        "rottereir": {},
-        "rulleblad": {},
-        "råskinn": {},
         "rødt": {
             "kort": {}
         },
-        "røverkjøp": {},
-        "selvbedrag": {},
-        "selvmål": {},
-        "sidespor": {},
-        "signalbygg": {},
         "sikkert": {
             "kort": {}
         },
-        "sisyfosarbeid": {},
-        "skipperskjønn": {},
         "skjevt": {
             "ord": {},
             "smil": {}
         },
-        "skoleeksempel": {},
         "skrekkens": {
             "eksempel": {}
         },
-        "skrekkvelde": {},
         "skritt": {
             "i": {
                 "riktig": {
@@ -4841,7 +3967,6 @@
                 "blinde": {}
             }
         },
-        "skuldertrekk": {},
         "slag": {
             "i": {
                 "lufta": {}
@@ -4850,19 +3975,6 @@
                 "beltestedet": {}
             }
         },
-        "slagord": {},
-        "slangemenneske": {},
-        "sleivspark": {},
-        "slengkyss": {},
-        "slumpetreff": {},
-        "smellkyss": {},
-        "smutthull": {},
-        "smørøye": {},
-        "snakketøy": {},
-        "snyltedyr": {},
-        "solbad": {},
-        "solskinnsbarn": {},
-        "spark": {},
         "spill": {
             "av": {
                 "tid": {
@@ -4884,10 +3996,6 @@
                 }
             }
         },
-        "spøkelsesslott": {},
-        "stamtre": {},
-        "statusjag": {},
-        "statussymbol": {},
         "steg": {
             "i": {
                 "riktig": {
@@ -4895,68 +4003,42 @@
                 }
             }
         },
-        "stinkdyr": {},
         "stivt": {
             "blikk": {}
         },
         "strå": {
             "hvassere": {}
         },
-        "strømpeskudd": {},
         "stående": {
             "uttrykk": {}
         },
-        "supperåd": {},
         "svaiende": {
             "siv": {}
         },
         "svakt": {
             "punkt": {}
         },
-        "svarteperspill": {},
-        "svartsyn": {},
         "sørgelig": {
             "kapitel": {}
         },
         "takknemlig": {
             "offer": {}
         },
-        "takras": {},
-        "tankegods": {},
-        "tankekorn": {},
-        "tigersprang": {},
         "tilfeldighetenes": {
             "spill": {}
         },
-        "tilnavn": {},
-        "trekantforhold": {},
-        "troll": {},
-        "trumfkort": {},
-        "trylleslag": {},
-        "trynetillegg": {},
-        "trøstemål": {},
         "tveegget": {
             "sverd": {}
         },
-        "tvisyn": {},
         "uekte": {
             "barn": {}
         },
-        "umenneske": {},
-        "unikum": {},
         "urent": {
             "farvann": {}
         },
-        "urinstinkt": {},
-        "utdrikkingslag": {},
-        "utnavn": {},
-        "uttrykk": {},
         "vandrende": {
             "leksikon": {}
         },
-        "vanedyr": {},
-        "vanemenneske": {},
-        "vepsebol": {},
         "viktig": {
             "skritt": {
                 "på": {
@@ -4964,29 +4046,12 @@
                 }
             }
         },
-        "villnis": {},
-        "vink": {},
-        "vrak": {},
-        "vrengebilde": {},
         "vulgært": {
             "språk": {}
         },
-        "åndsverk": {},
-        "åsyn": {},
-        "æresord": {},
         "ømtålig": {
             "emne": {}
         },
-        "ørneblikk": {},
-        "øye": {
-            "på": {
-                "hver": {
-                    "finger": {}
-                }
-            }
-        },
-        "øyekast": {},
-        "øyenvitne": {},
         "Columbi": {
             "egg": {}
         },
@@ -4995,6 +4060,13 @@
         },
         "steinkast": {
             "unna": {}
+        },
+        "øye": {
+            "på": {
+                "hver": {
+                    "finger": {}
+                }
+            }
         },
         "skår": {
             "i": {
@@ -5051,8 +4123,6 @@
         "fattig": {
             "evne": {}
         },
-        "hånden": {},
-        "læreboka": {},
         "moden": {
             "overveielse": {}
         },
@@ -5068,7 +4138,6 @@
         }
     },
     "faen": {
-        "heller": {},
         "i": {
             "helvete": {}
         }
@@ -5086,7 +4155,6 @@
         "heldig": {
             "ut": {}
         },
-        "hodestups": {},
         "i": {
             "gråt": {},
             "søvn": {},
@@ -5098,20 +4166,16 @@
                 "jord": {}
             }
         },
-        "igjennom": {},
         "mellom": {
             "to": {
                 "stoler": {}
             }
         },
-        "nesegrus": {},
         "noen": {
             "til": {
                 "byrde": {}
             }
         },
-        "om": {},
-        "pladask": {},
         "på": {
             "steingrunn": {}
         },
@@ -5130,9 +4194,6 @@
                 "rollen": {}
             }
         }
-    },
-    "falsk": {
-        "alarm": {}
     },
     "famle": {
         "etter": {
@@ -5158,19 +4219,6 @@
             "løs": {}
         }
     },
-    "fare": {
-        "ille": {},
-        "sammen": {}
-    },
-    "fast": {
-        "eiendom": {}
-    },
-    "fatte": {
-        "seg": {}
-    },
-    "favne": {
-        "vidt": {}
-    },
     "feie": {
         "all": {
             "tvil": {
@@ -5180,12 +4228,6 @@
             }
         }
     },
-    "feiende": {
-        "flott": {}
-    },
-    "felle": {
-        "krokodilletårer": {}
-    },
     "feste": {
         "seg": {
             "ved": {
@@ -5194,9 +4236,6 @@
         }
     },
     "finne": {
-        "formen": {},
-        "hverandre": {},
-        "lykken": {},
         "opp": {
             "hjulet": {
                 "på": {
@@ -5243,27 +4282,12 @@
             }
         }
     },
-    "flakke": {
-        "omkring": {}
-    },
-    "flaske": {
-        "opp": {}
-    },
     "flat": {
         "som": {
             "en": {
                 "pannekake": {}
             }
         }
-    },
-    "flekke": {
-        "tenner": {}
-    },
-    "flippe": {
-        "ut": {}
-    },
-    "flire": {
-        "bredt": {}
     },
     "fly": {
         "etter": {
@@ -5272,19 +4296,11 @@
         "i": {
             "flint": {}
         },
-        "opp": {},
         "ute": {
             "om": {
                 "kveldene": {}
             }
         }
-    },
-    "flytte": {
-        "grenser": {},
-        "sammen": {}
-    },
-    "folk": {
-        "flest": {}
     },
     "for": {
         "alle": {
@@ -5323,7 +4339,6 @@
                 }
             }
         },
-        "helvete": {},
         "knapper": {
             "og": {
                 "glansbilder": {}
@@ -5366,9 +4381,6 @@
             }
         }
     },
-    "forløfte": {
-        "seg": {}
-    },
     "fornemme": {
         "historiens": {
             "sus": {}
@@ -5391,15 +4403,6 @@
                 }
             }
         }
-    },
-    "forslitte": {
-        "fraser": {}
-    },
-    "forsnakke": {
-        "seg": {}
-    },
-    "forstrekke": {
-        "seg": {}
     },
     "forstå": {
         "det": {
@@ -5437,12 +4440,6 @@
                 }
             }
         }
-    },
-    "forsømme": {
-        "seg": {}
-    },
-    "fort": {
-        "vekk": {}
     },
     "forut": {
         "for": {
@@ -5515,8 +4512,7 @@
             "til": {
                 "fotsålen": {}
             }
-        },
-        "arildstid": {}
+        }
     },
     "fram": {
         "og": {
@@ -5560,9 +4556,6 @@
             "fuglen": {}
         }
     },
-    "frie": {
-        "tøyler": {}
-    },
     "frisk": {
         "som": {
             "en": {
@@ -5570,27 +4563,10 @@
             }
         }
     },
-    "friskt": {
-        "blod": {},
-        "mot": {}
-    },
     "fråde": {
         "av": {
             "raseri": {}
         }
-    },
-    "fugl": {
-        "Føniks": {}
-    },
-    "full": {
-        "pakke": {},
-        "pott": {},
-        "som": {
-            "en": {
-                "alke": {}
-            }
-        },
-        "baluba": {}
     },
     "fullt": {
         "hus": {
@@ -5693,7 +4669,6 @@
             "grunnskudd": {},
             "hint": {}
         },
-        "fingeren": {},
         "fingrene": {
             "i": {
                 "noe": {}
@@ -5708,14 +4683,11 @@
         "full": {
             "pakke": {}
         },
-        "fyken": {},
-        "gjennomgå": {},
         "greie": {
             "på": {
                 "noe": {}
             }
         },
-        "grisebank": {},
         "gult": {
             "kort": {}
         },
@@ -5724,7 +4696,6 @@
                 "noen": {}
             }
         },
-        "hetta": {},
         "hodet": {
             "over": {
                 "vannet": {}
@@ -5733,7 +4704,6 @@
         "huden": {
             "full": {}
         },
-        "jernteppe": {},
         "kloa": {
             "i": {
                 "noe": {}
@@ -5744,11 +4714,9 @@
                 "strupen": {}
             }
         },
-        "kurven": {},
         "lang": {
             "nese": {}
         },
-        "latterkrampe": {},
         "lønn": {
             "for": {
                 "strevet": {},
@@ -5757,7 +4725,6 @@
                 }
             }
         },
-        "løpepass": {},
         "mye": {
             "for": {
                 "pengene": {}
@@ -5799,9 +4766,6 @@
         "opp": {
             "dampen": {}
         },
-        "oppreisning": {},
-        "planke": {},
-        "primadonnanykker": {},
         "riper": {
             "i": {
                 "lakken": {}
@@ -5854,7 +4818,6 @@
                 "bånn": {}
             }
         },
-        "stryk": {},
         "så": {
             "ørene": {
                 "flagrer": {}
@@ -5975,11 +4938,7 @@
             "eget": {
                 "hode": {}
             }
-        },
-        "slavisk": {}
-    },
-    "følges": {
-        "ad": {}
+        }
     },
     "før": {
         "hanen": {
@@ -5992,7 +4951,6 @@
         }
     },
     "føre": {
-        "an": {},
         "det": {
             "store": {
                 "ord": {}
@@ -6007,7 +4965,6 @@
         "til": {
             "slakterbenken": {}
         },
-        "vill": {},
         "noen": {
             "bak": {
                 "lyset": {}
@@ -6028,11 +4985,6 @@
                 "skade": {}
             }
         }
-    },
-    "gamle": {
-        "dager": {},
-        "kumpaner": {},
-        "synder": {}
     },
     "gammel": {
         "kjærlighet": {
@@ -6082,9 +5034,6 @@
                 "brød": {}
             }
         },
-        "fødselshjelp": {},
-        "gass": {},
-        "gjenklang": {},
         "igjen": {
             "med": {
                 "renter": {},
@@ -6093,7 +5042,6 @@
                 }
             }
         },
-        "jernet": {},
         "med": {
             "rund": {
                 "hånd": {}
@@ -6181,7 +5129,6 @@
                 }
             }
         },
-        "anskrik": {},
         "det": {
             "forbi": {},
             "helt": {
@@ -6218,8 +5165,6 @@
             "kvantesprang": {},
             "varp": {}
         },
-        "fakter": {},
-        "furore": {},
         "gagns": {
             "arbeid": {}
         },
@@ -6232,7 +5177,6 @@
                 }
             }
         },
-        "grimaser": {},
         "gull": {
             "av": {
                 "gråstein": {}
@@ -6250,7 +5194,6 @@
                 "noen": {}
             }
         },
-        "kvalm": {},
         "kål": {
             "på": {
                 "noen": {}
@@ -6261,7 +5204,6 @@
                 "seg": {}
             }
         },
-        "miner": {},
         "natt": {
             "til": {
                 "dag": {}
@@ -6288,7 +5230,6 @@
                 "bestikk": {}
             }
         },
-        "rampestreker": {},
         "rent": {
             "bord": {}
         },
@@ -6357,9 +5298,6 @@
                 "seg": {}
             }
         },
-        "ugagn": {},
-        "underverker": {},
-        "utslaget": {},
         "vesen": {
             "av": {
                 "seg": {}
@@ -6386,8 +5324,7 @@
             "til": {
                 "vin": {}
             }
-        },
-        "baut": {}
+        }
     },
     "glatt": {
         "som": {
@@ -6422,9 +5359,6 @@
             "øyet": {}
         }
     },
-    "glimte": {
-        "til": {}
-    },
     "gni": {
         "salt": {
             "i": {
@@ -6442,16 +5376,6 @@
             "gull": {}
         }
     },
-    "gode": {
-        "busser": {},
-        "miner": {
-            "til": {
-                "slett": {
-                    "spill": {}
-                }
-            }
-        }
-    },
     "gods": {
         "og": {
             "gull": {}
@@ -6462,8 +5386,7 @@
             ",": {
                 "løve": {}
             }
-        },
-        "parti": {}
+        }
     },
     "granske": {
         "hjerter": {
@@ -6473,18 +5396,11 @@
         }
     },
     "grave": {
-        "grøfter": {},
         "sin": {
             "egen": {
                 "grav": {}
             }
         }
-    },
-    "grei": {
-        "skuring": {}
-    },
-    "greie": {
-        "brasene": {}
     },
     "gresset": {
         "er": {
@@ -6507,17 +5423,9 @@
                 "pungen": {}
             }
         },
-        "inn": {},
-        "sjansen": {},
         "til": {
             "sverd": {}
         }
-    },
-    "grov": {
-        "kjeft": {}
-    },
-    "grovt": {
-        "skyts": {}
     },
     "gråte": {
         "over": {
@@ -6535,7 +5443,6 @@
         }
     },
     "gud": {
-        "forby": {},
         "og": {
             "hvermann": {}
         },
@@ -6556,9 +5463,6 @@
         "og": {
             "blå": {}
         }
-    },
-    "gullet": {
-        "mitt": {}
     },
     "gå": {
         "all": {
@@ -6581,12 +5485,6 @@
             },
             "stabelen": {}
         },
-        "bakveier": {},
-        "bananas": {},
-        "beit": {},
-        "berserk": {},
-        "bort": {},
-        "botsgang": {},
         "både": {
             "vinter": {
                 "og": {
@@ -6616,7 +5514,6 @@
         "fem": {
             "på": {}
         },
-        "fiskebein": {},
         "for": {
             "egen": {
                 "maskin": {}
@@ -6639,7 +5536,6 @@
             },
             "seg": {}
         },
-        "foran": {},
         "fra": {
             "dør": {
                 "til": {
@@ -6678,23 +5574,19 @@
                 }
             }
         },
-        "føyken": {},
         "glipp": {
             "av": {
                 "noe": {}
             }
         },
-        "gradene": {},
         "grundig": {
             "til": {
                 "verks": {}
             }
         },
-        "heden": {},
         "hele": {
             "veien": {}
         },
-        "hjem": {},
         "hull": {
             "på": {
                 "byllen": {}
@@ -6745,7 +5637,6 @@
             "ball": {},
             "boks": {}
         },
-        "igjen": {},
         "imot": {
             "strømmen": {}
         },
@@ -6881,7 +5772,6 @@
                 "veier": {}
             }
         },
-        "smertefritt": {},
         "som": {
             "fot": {
                 "i": {
@@ -6895,14 +5785,12 @@
                 "hvetebrød": {}
             }
         },
-        "spissrotgang": {},
         "stille": {
             "i": {
                 "dørene": {},
                 "gangene": {}
             }
         },
-        "tapt": {},
         "til": {
             "Bloksberg": {},
             "Canossa": {},
@@ -6947,7 +5835,6 @@
             "åket": {},
             "jorden": {}
         },
-        "unna": {},
         "ut": {
             "i": {
                 "hundre": {}
@@ -7017,10 +5904,7 @@
         },
         "ad": {
             "undas": {}
-        },
-        "amok": {},
-        "fløyten": {},
-        "kanossagang": {}
+        }
     },
     "går": {
         "det": {
@@ -7049,8 +5933,6 @@
         "antennene": {
             "ute": {}
         },
-        "appell": {},
-        "barnetekke": {},
         "bange": {
             "anelser": {}
         },
@@ -7272,15 +6154,11 @@
             },
             "sovehjerte": {}
         },
-        "griseflaks": {},
-        "hastverk": {},
         "hellet": {
             "med": {
                 "seg": {}
             }
         },
-        "hjertebank": {},
-        "hjertelag": {},
         "hodet": {
             "med": {
                 "seg": {}
@@ -7302,7 +6180,6 @@
         "kort": {
             "lunte": {}
         },
-        "lampefeber": {},
         "lang": {
             "lunte": {}
         },
@@ -7317,7 +6194,6 @@
         "livets": {
             "rett": {}
         },
-        "magemål": {},
         "magiske": {
             "evner": {}
         },
@@ -7333,8 +6209,6 @@
                 }
             }
         },
-        "mannsmot": {},
-        "medvind": {},
         "mer": {
             "inne": {},
             "på": {
@@ -7392,7 +6266,6 @@
                 "ryggen": {}
             }
         },
-        "næringsvett": {},
         "ondt": {
             "i": {
                 "sinne": {}
@@ -7405,7 +6278,6 @@
                 }
             }
         },
-        "orkesterplass": {},
         "penger": {
             "mellom": {
                 "hendene": {}
@@ -7417,8 +6289,6 @@
         "plettfri": {
             "vandel": {}
         },
-        "pokerfjes": {},
-        "primadonnanykker": {},
         "rene": {
             "linjer": {}
         },
@@ -7465,7 +6335,6 @@
                 }
             }
         },
-        "skamvett": {},
         "skarpe": {
             "kanter": {}
         },
@@ -7509,7 +6378,6 @@
         "store": {
             "ører": {}
         },
-        "stålkontroll": {},
         "støv": {
             "på": {
                 "hjernen": {}
@@ -7522,7 +6390,6 @@
                 }
             }
         },
-        "teft": {},
         "tiden": {
             "for": {
                 "seg": {}
@@ -7536,7 +6403,6 @@
                 "barnesko": {}
             }
         },
-        "utstråling": {},
         "vettet": {
             "i": {
                 "behold": {}
@@ -7610,18 +6476,12 @@
             }
         }
     },
-    "hale": {
-        "innpå": {}
-    },
     "halvparten": {
         "kunne": {
             "vært": {
                 "nok": {}
             }
         }
-    },
-    "hamre": {
-        "løs": {}
     },
     "han": {
         "ba": {
@@ -7704,19 +6564,10 @@
             }
         }
     },
-    "hard": {
-        "valuta": {}
-    },
-    "harve": {
-        "over": {}
-    },
     "hastverk": {
         "er": {
             "lastverk": {}
         }
-    },
-    "havets": {
-        "sølv": {}
     },
     "havne": {
         "i": {
@@ -7731,9 +6582,6 @@
             "galeien": {},
             "viddene": {}
         }
-    },
-    "hei": {
-        "sveis": {}
     },
     "heise": {
         "hvitt": {
@@ -7750,10 +6598,7 @@
             "til": {
                 "ende": {}
             }
-        },
-        "kostebinderiet": {},
-        "suppa": {},
-        "sulamitten": {}
+        }
     },
     "helle": {
         "kaldt": {
@@ -7773,15 +6618,6 @@
                 "bølgene": {}
             }
         }
-    },
-    "helt": {
-        "pyton": {},
-        "i": {
-            "hundre": {}
-        }
-    },
-    "helvete": {
-        "heller": {}
     },
     "henge": {
         "bjella": {
@@ -7869,17 +6705,10 @@
             "der": {}
         }
     },
-    "hevde": {
-        "seg": {}
-    },
     "heve": {
-        "lista": {},
-        "pekefingeren": {},
         "sin": {
             "røst": {}
-        },
-        "taffelet": {},
-        "øyenbrynene": {}
+        }
     },
     "hevnen": {
         "er": {
@@ -7967,8 +6796,6 @@
             "hevd": {},
             "sjakk": {}
         },
-        "koken": {},
-        "krigsråd": {},
         "kruttet": {
             "tørt": {}
         },
@@ -8050,18 +6877,11 @@
                 "ren": {}
             }
         },
-        "skansen": {},
-        "stand": {},
-        "stikk": {},
         "tann": {
             "for": {
                 "tunge": {}
             }
         },
-        "tett": {},
-        "tråden": {},
-        "vann": {},
-        "været": {},
         "åpent": {
             "hus": {}
         },
@@ -8099,8 +6919,6 @@
             },
             "karusellen": {}
         },
-        "bukk": {},
-        "inn": {},
         "over": {
             "der": {
                 "gjerdet": {
@@ -8111,7 +6929,6 @@
             },
             "noe": {}
         },
-        "paradis": {},
         "på": {
             "noe": {}
         },
@@ -8130,9 +6947,6 @@
                 "fall": {}
             }
         }
-    },
-    "huff": {
-        "da": {}
     },
     "hummer": {
         "og": {
@@ -8165,7 +6979,6 @@
         }
     },
     "hva": {
-        "behager": {},
         "byr": {
             "du": {
                 "meg": {}
@@ -8222,9 +7035,6 @@
                 }
             }
         }
-    },
-    "hvem": {
-        "vet": {}
     },
     "hver": {
         "evige": {
@@ -8377,8 +7187,6 @@
         "englene": {
             "synge": {}
         },
-        "hjemme": {},
-        "innom": {},
         "til": {
             "dagens": {
                 "orden": {}
@@ -8388,14 +7196,6 @@
         "en": {
             "knappenål": {
                 "falle": {}
-            }
-        }
-    },
-    "høste": {
-        "laurbær": {},
-        "som": {
-            "man": {
-                "sår": {}
             }
         }
     },
@@ -8416,7 +7216,6 @@
         }
     },
     "i": {
-        "adamsdrakt": {},
         "all": {
             "beskjedenhet": {},
             "sin": {
@@ -8439,12 +7238,9 @@
         "bare": {
             "nettoen": {}
         },
-        "beit": {},
         "bokstavelig": {
             "forstand": {}
         },
-        "bøttevis": {},
-        "dag": {},
         "daglig": {
             "tale": {}
         },
@@ -8493,8 +7289,6 @@
         "dobbelt": {
             "forstand": {}
         },
-        "dusinvis": {},
-        "dødvanne": {},
         "egne": {
             "øyne": {}
         },
@@ -8504,7 +7298,6 @@
         "ett": {
             "jafs": {}
         },
-        "evadrakt": {},
         "flokk": {
             "og": {
                 "følge": {}
@@ -8526,7 +7319,6 @@
         "god": {
             "tid": {}
         },
-        "grus": {},
         "hine": {
             "hårde": {
                 "dager": {}
@@ -8556,11 +7348,9 @@
         "kampens": {
             "hete": {}
         },
-        "klartekst": {},
         "langsom": {
             "kino": {}
         },
-        "lengden": {},
         "ly": {
             "av": {}
         },
@@ -8603,7 +7393,6 @@
         "parentes": {
             "bemerket": {}
         },
-        "rad": {},
         "ro": {
             "og": {
                 "mak": {}
@@ -8646,11 +7435,9 @@
                 "tale": {}
             }
         },
-        "slag": {},
         "smult": {
             "vann": {}
         },
-        "sneglefart": {},
         "storm": {
             "og": {
                 "stille": {}
@@ -8684,14 +7471,12 @@
         "ungdommens": {
             "vår": {}
         },
-        "vigør": {},
         "åndeløs": {
             "spenning": {}
         },
         "årenes": {
             "løp": {}
         },
-        "øyeblikket": {},
         "grevens": {
             "tid": {}
         },
@@ -8815,7 +7600,6 @@
                 }
             }
         },
-        "flisa": {},
         "friste": {
             "skjebnen": {}
         },
@@ -9116,7 +7900,6 @@
                 "lys": {}
             }
         },
-        "ueffen": {},
         "utfordre": {
             "skjebnen": {}
         },
@@ -9278,7 +8061,6 @@
                 }
             }
         },
-        "årsak": {},
         "roser": {
             "uten": {
                 "torner": {}
@@ -9315,7 +8097,6 @@
     },
     "ja": {
         ",": {
-            "bevares": {},
             "det": {
                 "skal": {
                     "jeg": {
@@ -9336,7 +8117,6 @@
                 "det": {}
             }
         },
-        "takk": {},
         "og": {
             "amen": {}
         }
@@ -9532,12 +8312,6 @@
             }
         }
     },
-    "jon": {
-        "Blund": {}
-    },
-    "jordisk": {
-        "gods": {}
-    },
     "jubelen": {
         "står": {
             "i": {
@@ -9550,9 +8324,6 @@
             "krona": {}
         }
     },
-    "jøye": {
-        "seg": {}
-    },
     "kan": {
         "du": {
             "fatte": {
@@ -9562,11 +8333,7 @@
             }
         }
     },
-    "kari": {
-        "Nordmann": {}
-    },
     "kaste": {
-        "anker": {},
         "blår": {
             "i": {
                 "øynene": {
@@ -9584,8 +8351,6 @@
                 }
             }
         },
-        "kortene": {},
-        "lodd": {},
         "lys": {
             "over": {
                 "noe": {}
@@ -9644,9 +8409,6 @@
             "klær": {}
         }
     },
-    "kirsten": {
-        "Giftekniv": {}
-    },
     "kjefte": {
         "og": {
             "smelle": {}
@@ -9698,9 +8460,6 @@
         "sin": {
             "besøkelsestid": {}
         }
-    },
-    "kjente": {
-        "strofer": {}
     },
     "kjerringa": {
         "mot": {
@@ -9772,15 +8531,11 @@
         }
     },
     "klare": {
-        "brasene": {},
         "det": {
             "kunststykket": {
                 "å": {}
             }
         }
-    },
-    "klin": {
-        "kokos": {}
     },
     "klokka": {
         "er": {
@@ -9809,7 +8564,6 @@
         }
     },
     "knekke": {
-        "koden": {},
         "sammen": {
             "av": {
                 "latter": {}
@@ -9824,13 +8578,6 @@
                 }
             }
         }
-    },
-    "knuse": {
-        "noen": {}
-    },
-    "knytte": {
-        "nevene": {},
-        "vennskapsbånd": {}
     },
     "koble": {
         "inn": {
@@ -9873,7 +8620,6 @@
                 "verden": {}
             }
         },
-        "fykende": {},
         "først": {
             "til": {
                 "mølla": {}
@@ -10130,12 +8876,6 @@
             }
         }
     },
-    "konfirmere": {
-        "noen": {}
-    },
-    "kong": {
-        "Alkohol": {}
-    },
     "kort": {
         "og": {
             "godt": {}
@@ -10147,9 +8887,7 @@
     "koste": {
         "en": {
             "formue": {}
-        },
-        "på": {},
-        "skjorta": {}
+        }
     },
     "krake": {
         "søker": {
@@ -10236,18 +8974,12 @@
             "makt": {}
         }
     },
-    "kutte": {
-        "navlestrengen": {}
-    },
     "kvele": {
         "noe": {
             "i": {
                 "fødselen": {}
             }
         }
-    },
-    "kvesse": {
-        "pennen": {}
     },
     "kvinnens": {
         "eldste": {
@@ -10280,7 +9012,6 @@
                 }
             }
         },
-        "gå": {},
         "handling": {
             "følge": {
                 "ord": {}
@@ -10336,9 +9067,6 @@
             }
         }
     },
-    "lade": {
-        "batteriene": {}
-    },
     "lage": {
         "et": {
             "forsvinningsnummer": {}
@@ -10354,9 +9082,7 @@
                     "bak": {}
                 }
             }
-        },
-        "spetakkel": {},
-        "spillopper": {}
+        }
     },
     "lakke": {
         "og": {
@@ -10365,9 +9091,6 @@
         "mot": {
             "enden": {}
         }
-    },
-    "late": {
-        "vannet": {}
     },
     "legge": {
         "ansiktet": {
@@ -10406,7 +9129,6 @@
         "godviljen": {
             "til": {}
         },
-        "gullegget": {},
         "hendene": {
             "i": {
                 "fanget": {}
@@ -10631,7 +9353,6 @@
                 }
             }
         },
-        "sammen": {},
         "som": {
             "en": {
                 "greve": {}
@@ -10643,9 +9364,6 @@
             }
         }
     },
-    "levere": {
-        "varene": {}
-    },
     "lide": {
         "av": {
             "stormannsgalskap": {}
@@ -10654,17 +9372,14 @@
             "ublid": {
                 "skjebne": {}
             }
-        },
-        "nederlag": {}
+        }
     },
     "ligge": {
-        "bak": {},
         "et": {
             "hakk": {
                 "over": {}
             }
         },
-        "frempå": {},
         "hulter": {
             "til": {
                 "bulter": {}
@@ -10685,7 +9400,6 @@
         "med": {
             "noen": {}
         },
-        "paddeflat": {},
         "på": {
             "det": {
                 "siste": {}
@@ -10754,16 +9468,10 @@
             "lemmer": {}
         }
     },
-    "lodde": {
-        "stemningen": {}
-    },
     "loddet": {
         "er": {
             "kastet": {}
         }
-    },
-    "loppe": {
-        "noen": {}
     },
     "love": {
         "bot": {
@@ -10787,9 +9495,6 @@
                 }
             }
         }
-    },
-    "lufte": {
-        "noe": {}
     },
     "luke": {
         "bort": {
@@ -10836,9 +9541,6 @@
             }
         }
     },
-    "lykkens": {
-        "pamfilius": {}
-    },
     "lynet": {
         "slår": {
             "ned": {}
@@ -10877,15 +9579,13 @@
         "i": {
             "flokk": {}
         },
-        "pekefingeren": {},
         "seg": {
             "selv": {
                 "etter": {
                     "håret": {}
                 }
             }
-        },
-        "øyenbrynene": {}
+        }
     },
     "løpe": {
         "beina": {
@@ -10912,23 +9612,7 @@
             "gordiske": {
                 "knute": {}
             }
-        },
-        "floken": {}
-    },
-    "løst": {
-        "krutt": {},
-        "snakk": {}
-    },
-    "løvens": {
-        "gap": {},
-        "huie": {},
-        "klo": {}
-    },
-    "mager": {
-        "kost": {}
-    },
-    "maktens": {
-        "tinde": {}
+        }
     },
     "male": {
         "med": {
@@ -11109,10 +9793,6 @@
             }
         }
     },
-    "mangle": {
-        "gangsyn": {},
-        "ryggrad": {}
-    },
     "mann": {
         "og": {
             "mus": {}
@@ -11141,9 +9821,6 @@
             "guder": {}
         }
     },
-    "mate": {
-        "krabbene": {}
-    },
     "med": {
         "andre": {
             "ord": {}
@@ -11159,7 +9836,6 @@
         "blandede": {
             "følelser": {}
         },
-        "bravur": {},
         "bred": {
             "penn": {}
         },
@@ -11178,7 +9854,6 @@
                 }
             }
         },
-        "dødsforakt": {},
         "et": {
             "pennestrøk": {},
             "smil": {
@@ -11276,11 +9951,9 @@
                 }
             }
         },
-        "rakettfart": {},
         "rund": {
             "hånd": {}
         },
-        "sjumilsstøvler": {},
         "skam": {
             "å": {
                 "melde": {}
@@ -11364,9 +10037,6 @@
             }
         }
     },
-    "meg": {
-        "her": {}
-    },
     "meie": {
         "sin": {
             "egen": {
@@ -11380,8 +10050,6 @@
                 "veden": {}
             }
         },
-        "brødre": {},
-        "linjene": {},
         "oss": {
             "sagt": {}
         },
@@ -11449,9 +10117,6 @@
             "treet": {}
         }
     },
-    "mikkel": {
-        "rev": {}
-    },
     "min": {
         "forstand": {
             "står": {
@@ -11469,27 +10134,6 @@
                 }
             }
         }
-    },
-    "miste": {
-        "bakkekontakten": {},
-        "fatningen": {},
-        "fotfestet": {},
-        "gangsynet": {},
-        "hodet": {},
-        "motet": {},
-        "piffen": {},
-        "tråden": {},
-        "både": {
-            "munn": {
-                "og": {
-                    "mæle": {}
-                }
-            }
-        },
-        "ansikt": {}
-    },
-    "mor": {
-        "Norge": {}
     },
     "mot": {
         "all": {
@@ -11511,9 +10155,6 @@
         "som": {
             "brølte": {}
         }
-    },
-    "mutters": {
-        "alene": {}
     },
     "mye": {
         "skrik": {
@@ -11582,12 +10223,6 @@
             }
         }
     },
-    "mørkets": {
-        "fyrste": {}
-    },
-    "mørklegge": {
-        "noe": {}
-    },
     "mørkt": {
         "som": {
             "i": {
@@ -11626,7 +10261,6 @@
         }
     },
     "naturens": {
-        "luner": {},
         "muntre": {
             "sønn": {}
         }
@@ -11651,8 +10285,7 @@
             "ærlig": {
                 "talt": {}
             }
-        },
-        "takk": {}
+        }
     },
     "nervene": {
         "står": {
@@ -11672,7 +10305,6 @@
                 "smak": {}
             }
         },
-        "muffens": {},
         "skjærer": {
             "seg": {}
         },
@@ -11726,8 +10358,7 @@
             "feier": {
                 "best": {}
             }
-        },
-        "krefter": {}
+        }
     },
     "nyte": {
         "godt": {
@@ -11991,18 +10622,12 @@
             }
         }
     },
-    "ola": {
-        "Nordmann": {}
-    },
     "om": {
         "blikk": {
             "kunne": {
                 "drepe": {}
             }
         },
-        "dagen": {},
-        "enn": {},
-        "forlatelse": {},
         "jeg": {
             "så": {
                 "må": {
@@ -12010,9 +10635,6 @@
                 }
             }
         }
-    },
-    "onkel": {
-        "politi": {}
     },
     "opp": {
         "ad": {
@@ -12060,9 +10682,6 @@
             }
         }
     },
-    "oppriktig": {
-        "talt": {}
-    },
     "ord": {
         "blir": {
             "fattige": {}
@@ -12095,7 +10714,6 @@
         "mitt": {
             "lik": {}
         },
-        "tid": {},
         "stokk": {
             "og": {
                 "stein": {}
@@ -12116,24 +10734,15 @@
             }
         }
     },
-    "overkjøre": {
-        "noen": {}
-    },
     "overleve": {
         "seg": {
             "selv": {}
         }
     },
-    "overta": {
-        "klubba": {},
-        "stafettpinnen": {}
-    },
     "pakke": {
         "inn": {
             "noe": {}
         },
-        "kofferten": {},
-        "sammen": {},
         "snippesken": {
             "og": {
                 "dra": {}
@@ -12141,7 +10750,6 @@
         }
     },
     "passe": {
-        "butikken": {},
         "på": {
             "som": {
                 "en": {
@@ -12149,12 +10757,6 @@
                 }
             }
         }
-    },
-    "passere": {
-        "målstreken": {}
-    },
-    "pavens": {
-        "skjegg": {}
     },
     "peke": {
         "i": {
@@ -12178,9 +10780,6 @@
                 "lomma": {}
             }
         }
-    },
-    "pigge": {
-        "av": {}
     },
     "pisk": {
         "og": {
@@ -12210,12 +10809,6 @@
             }
         }
     },
-    "plaske": {
-        "ned": {}
-    },
-    "plikten": {
-        "kaller": {}
-    },
     "plukke": {
         "på": {
             "noe": {}
@@ -12225,9 +10818,6 @@
         "i": {
             "vold": {}
         }
-    },
-    "prate": {
-        "piss": {}
     },
     "prelle": {
         "av": {
@@ -12250,32 +10840,20 @@
             "i-en": {}
         }
     },
-    "privatlivets": {
-        "fred": {}
-    },
-    "prostituere": {
-        "seg": {}
-    },
     "prøve": {
         "alle": {
             "midler": {}
         },
-        "krefter": {},
-        "lykken": {},
         "på": {
             "ny": {
                 "frisk": {}
             }
         }
     },
-    "pumpe": {
-        "jern": {}
-    },
     "på": {
         "avgrunnens": {
             "rand": {}
         },
-        "barrikadene": {},
         "berømmelsens": {
             "tinde": {}
         },
@@ -12288,7 +10866,6 @@
         "den": {
             "kontoen": {}
         },
-        "djevelskap": {},
         "egen": {
             "kjøl": {}
         },
@@ -12308,28 +10885,18 @@
         "fire": {
             "hjul": {}
         },
-        "folkemunne": {},
-        "forskudd": {},
-        "fote": {},
-        "frifot": {},
-        "gaffelen": {},
-        "grasrota": {},
         "harde": {
             "livet": {}
         },
         "hengende": {
             "håret": {}
         },
-        "høykant": {},
         "høylys": {
             "dag": {}
         },
         "høyt": {
             "plan": {}
         },
-        "kant": {},
-        "kanten": {},
-        "kistebunnen": {},
         "lik": {
             "linje": {
                 "med": {}
@@ -12341,10 +10908,6 @@
         "løpende": {
             "bånd": {}
         },
-        "millimeteren": {},
-        "minuttet": {},
-        "morgenkvisten": {},
-        "netthinnen": {},
         "noens": {
             "bekostning": {}
         },
@@ -12356,9 +10919,6 @@
                 "unåde": {}
             }
         },
-        "plakaten": {},
-        "pletten": {},
-        "rappen": {},
         "rett": {
             "kjøl": {},
             "hylle": {}
@@ -12372,13 +10932,6 @@
                 }
             }
         },
-        "sekundet": {},
-        "sikt": {},
-        "skyggesiden": {},
-        "slump": {},
-        "spreng": {},
-        "talefot": {},
-        "tide": {},
         "toppen": {
             "av": {}
         },
@@ -12387,11 +10940,6 @@
                 "ære": {}
             }
         },
-        "tuppene": {},
-        "tå": {},
-        "villspor": {},
-        "vippen": {},
-        "æresord": {},
         "øverste": {
             "hylle": {}
         },
@@ -12426,7 +10974,6 @@
         "Mose": {
             "stol": {}
         },
-        "fallrepet": {},
         "lykke": {
             "og": {
                 "fromme": {}
@@ -12445,19 +10992,14 @@
                     "ilden": {}
                 }
             }
-        },
-        "veien": {}
+        }
     },
     "rav": {
         "ruskende": {
             "gal": {}
         }
     },
-    "redde": {
-        "stumpene": {}
-    },
     "reise": {
-        "kjerringa": {},
         "seg": {
             "av": {
                 "asken": {}
@@ -12470,12 +11012,6 @@
                 "hånd": {}
             }
         }
-    },
-    "renters": {
-        "rente": {}
-    },
-    "renvaske": {
-        "seg": {}
     },
     "rett": {
         "og": {
@@ -12509,9 +11045,6 @@
                 }
             }
         }
-    },
-    "ride": {
-        "ranke": {}
     },
     "ris": {
         "til": {
@@ -12620,9 +11153,6 @@
             }
         }
     },
-    "russisk": {
-        "rulett": {}
-    },
     "rykke": {
         "frem": {
             "på": {
@@ -12633,40 +11163,17 @@
         },
         "i": {
             "lenkene": {}
-        },
-        "opp": {}
-    },
-    "rynke": {
-        "pannen": {}
+        }
     },
     "råde": {
         "bot": {
             "på": {}
         }
     },
-    "råtne": {
-        "opp": {}
-    },
-    "røde": {
-        "tall": {}
-    },
-    "sage": {
-        "tømmer": {}
-    },
-    "sale": {
-        "om": {}
-    },
     "samle": {
         "i": {
             "lader": {}
-        },
-        "krefter": {},
-        "støv": {},
-        "troppene": {},
-        "trådene": {}
-    },
-    "samvittighetens": {
-        "røst": {}
+        }
     },
     "sand": {
         "i": {
@@ -12682,9 +11189,6 @@
         "for": {
             "dyden": {}
         }
-    },
-    "sareptas": {
-        "krukke": {}
     },
     "satse": {
         "på": {
@@ -12704,7 +11208,6 @@
         "dagens": {
             "lys": {}
         },
-        "fremover": {},
         "gjennom": {
             "fingrene": {
                 "med": {
@@ -12809,20 +11312,10 @@
             ".": {}
         }
     },
-    "selvros": {
-        "stinker": {}
-    },
     "sende": {
         "opp": {
             "røyksignaler": {}
         }
-    },
-    "senke": {
-        "blikket": {},
-        "hodet": {},
-        "lista": {},
-        "skuldrene": {},
-        "stemmen": {}
     },
     "sent": {
         "eller": {
@@ -12866,8 +11359,6 @@
                 "seg": {}
             }
         },
-        "bukkebein": {},
-        "dagsordenen": {},
         "en": {
             "stopper": {
                 "for": {
@@ -12878,7 +11369,6 @@
         "foten": {
             "ned": {}
         },
-        "grenser": {},
         "griller": {
             "i": {
                 "hodet": {
@@ -12991,8 +11481,6 @@
                 }
             }
         },
-        "sjøbein": {},
-        "sluttstrek": {},
         "spaden": {
             "i": {
                 "jorda": {}
@@ -13067,7 +11555,6 @@
                 }
             }
         },
-        "stopp": {},
         "meg": {
             "hva": {
                 "du": {
@@ -13106,9 +11593,6 @@
         "vane": {
             "tro": {}
         }
-    },
-    "sinnets": {
-        "adel": {}
     },
     "siste": {
         "ord": {
@@ -13192,9 +11676,6 @@
             }
         }
     },
-    "sivilisasjonens": {
-        "vugge": {}
-    },
     "skal": {
         "det": {
             "være": {
@@ -13221,8 +11702,6 @@
         }
     },
     "skape": {
-        "furore": {},
-        "historie": {},
         "seg": {
             "en": {
                 "fremtid": {}
@@ -13231,15 +11710,6 @@
                 "navn": {}
             }
         }
-    },
-    "skatten": {
-        "min": {}
-    },
-    "skeie": {
-        "ut": {}
-    },
-    "skifte": {
-        "beite": {}
     },
     "skikk": {
         "og": {
@@ -13281,14 +11751,6 @@
             }
         }
     },
-    "skinne": {
-        "gjennom": {},
-        "som": {
-            "en": {
-                "sol": {}
-            }
-        }
-    },
     "skit": {
         "i": {
             "det": {},
@@ -13297,13 +11759,6 @@
                     "Toten": {}
                 }
             }
-        }
-    },
-    "skitt": {
-        "au": {},
-        "fiske": {},
-        "og": {
-            "kanel": {}
         }
     },
     "skje": {
@@ -13321,11 +11776,9 @@
                 }
             }
         },
-        "grimaser": {},
         "i": {
             "ørene": {}
         },
-        "igjennom": {},
         "inn": {
             "til": {
                 "beinet": {}
@@ -13347,8 +11800,7 @@
             "landet": {
                 "ligger": {}
             }
-        },
-        "tegningen": {}
+        }
     },
     "skjønner": {
         "du": {
@@ -13362,14 +11814,7 @@
             }
         }
     },
-    "skli": {
-        "ut": {}
-    },
-    "skogens": {
-        "konge": {}
-    },
     "skrape": {
-        "bunnen": {},
         "til": {
             "seg": {}
         }
@@ -13396,19 +11841,12 @@
             "veggen": {}
         }
     },
-    "skrike": {
-        "opp": {}
-    },
-    "skrikende": {
-        "farger": {}
-    },
     "skritt": {
         "for": {
             "skritt": {}
         }
     },
     "skrive": {
-        "ned": {},
         "seg": {
             "fra": {},
             "noe": {
@@ -13443,10 +11881,6 @@
             }
         }
     },
-    "skygge": {
-        "banen": {},
-        "noen": {}
-    },
     "skyt": {
         "ikke": {
             "på": {
@@ -13455,7 +11889,6 @@
         }
     },
     "skyte": {
-        "fart": {},
         "hjertet": {
             "opp": {
                 "i": {
@@ -13508,17 +11941,6 @@
             "tapt": {}
         }
     },
-    "slakke": {
-        "tøylene": {}
-    },
-    "slakte": {
-        "gjøkalven": {},
-        "den": {
-            "fete": {
-                "kalv": {}
-            }
-        }
-    },
     "slangen": {
         "i": {
             "paradiset": {}
@@ -13528,9 +11950,6 @@
         "med": {
             "leppa": {}
         }
-    },
-    "slikke": {
-        "sol": {}
     },
     "slippe": {
         "billig": {
@@ -13555,9 +11974,6 @@
             }
         }
     },
-    "sluke": {
-        "ordene": {}
-    },
     "slutte": {
         "mens": {
             "leken": {
@@ -13568,8 +11984,6 @@
         }
     },
     "slå": {
-        "alarm": {},
-        "an": {},
         "barnet": {
             "ut": {
                 "med": {
@@ -13577,9 +11991,6 @@
                 }
             }
         },
-        "den": {},
-        "feil": {},
-        "flikkflakk": {},
         "fra": {
             "seg": {}
         },
@@ -13592,13 +12003,11 @@
         "hælene": {
             "sammen": {}
         },
-        "klikk": {},
         "kron": {
             "og": {
                 "mynt": {}
             }
         },
-        "leir": {},
         "mynt": {
             "på": {
                 "noe": {}
@@ -13609,7 +12018,6 @@
                 "fote": {}
             }
         },
-        "opp": {},
         "på": {
             "de": {
                 "nasjonale": {
@@ -13658,7 +12066,6 @@
                 "brystet": {}
             }
         },
-        "sprekker": {},
         "til": {
             "lyd": {
                 "for": {
@@ -13738,7 +12145,6 @@
         }
     },
     "smile": {
-        "bredt": {},
         "fra": {
             "øre": {
                 "til": {
@@ -13746,9 +12152,6 @@
                 }
             }
         }
-    },
-    "smilets": {
-        "land": {}
     },
     "smykke": {
         "seg": {
@@ -13777,12 +12180,9 @@
             "deg": {
                 "selv": {}
             }
-        },
-        "norsk": {},
-        "vekk": {}
+        }
     },
     "snakke": {
-        "bredt": {},
         "godt": {
             "for": {
                 "seg": {}
@@ -13829,7 +12229,6 @@
         "over": {
             "seg": {}
         },
-        "rent": {},
         "rett": {
             "fra": {
                 "levra": {}
@@ -13881,7 +12280,6 @@
         }
     },
     "snu": {
-        "bunken": {},
         "opp": {
             "ned": {
                 "på": {
@@ -14177,7 +12575,6 @@
         "bort": {
             "tiden": {}
         },
-        "middag": {},
         "på": {
             "sitt": {
                 "grønne": {
@@ -14195,9 +12592,6 @@
                 "søvn": {}
             }
         }
-    },
-    "spar": {
-        "deg": {}
     },
     "spare": {
         "seg": {
@@ -14229,17 +12623,12 @@
             }
         }
     },
-    "spikke": {
-        "fliser": {}
-    },
     "spile": {
         "opp": {
             "øynene": {}
         }
     },
     "spille": {
-        "annenfiolin": {},
-        "bajas": {},
         "ballen": {
             "videre": {}
         },
@@ -14249,7 +12638,6 @@
                 "puss": {}
             }
         },
-        "fallitt": {},
         "for": {
             "galleriet": {}
         },
@@ -14270,9 +12658,6 @@
                 "registret": {}
             }
         },
-        "skuespill": {},
-        "storkar": {},
-        "teater": {},
         "til": {
             "fløyta": {
                 "går": {}
@@ -14309,9 +12694,6 @@
             "bramseil": {}
         }
     },
-    "sporene": {
-        "skremmer": {}
-    },
     "spre": {
         "seg": {
             "som": {
@@ -14333,11 +12715,7 @@
     "springe": {
         "i": {
             "øynene": {}
-        },
-        "lekk": {}
-    },
-    "språklig": {
-        "ugress": {}
+        }
     },
     "spy": {
         "edder": {
@@ -14384,9 +12762,6 @@
             "steinalderen": {}
         }
     },
-    "stammens": {
-        "hyl": {}
-    },
     "stampe": {
         "i": {
             "motvind": {}
@@ -14412,25 +12787,12 @@
             }
         }
     },
-    "stenge": {
-        "døren": {}
-    },
-    "sterke": {
-        "saker": {}
-    },
     "stige": {
         "i": {
             "gradene": {}
         }
     },
-    "stikk": {
-        "den": {},
-        "i": {
-            "strid": {}
-        }
-    },
     "stikke": {
-        "av": {},
         "fingeren": {
             "i": {
                 "jorda": {},
@@ -14527,18 +12889,10 @@
             }
         }
     },
-    "stimle": {
-        "sammen": {}
-    },
     "stjele": {
         "av": {
             "kassen": {}
-        },
-        "seg": {},
-        "showet": {}
-    },
-    "stokke": {
-        "kortene": {}
+        }
     },
     "stole": {
         "blindt": {
@@ -14568,8 +12922,7 @@
                     "flesk": {}
                 }
             }
-        },
-        "penger": {}
+        }
     },
     "storm": {
         "i": {
@@ -14584,13 +12937,11 @@
         }
     },
     "strekke": {
-        "hals": {},
         "seg": {
             "etter": {
                 "stjernene": {}
             }
-        },
-        "våpen": {}
+        }
     },
     "stride": {
         "mot": {
@@ -14605,9 +12956,6 @@
                 "sol": {}
             }
         }
-    },
-    "strømme": {
-        "til": {}
     },
     "stum": {
         "som": {
@@ -14625,12 +12973,9 @@
         }
     },
     "stå": {
-        "av": {},
         "bom": {
             "fast": {}
         },
-        "brud": {},
-        "fjellstøtt": {},
         "for": {
             "tur": {},
             "døren": {}
@@ -14735,8 +13080,6 @@
                 }
             }
         },
-        "skolerett": {},
-        "skrevet": {},
         "som": {
             "fjetret": {},
             "sild": {
@@ -14767,15 +13110,6 @@
             "labben": {}
         }
     },
-    "summe": {
-        "seg": {}
-    },
-    "sunt": {
-        "bondevett": {}
-    },
-    "sure": {
-        "oppstøt": {}
-    },
     "surr": {
         "og": {
             "rot": {}
@@ -14802,15 +13136,6 @@
         "som": {
             "bek": {}
         }
-    },
-    "svarte": {
-        "penger": {}
-    },
-    "sveige": {
-        "noe": {}
-    },
-    "sverte": {
-        "noen": {}
     },
     "sveve": {
         "mellom": {
@@ -14857,7 +13182,6 @@
         }
     },
     "synge": {
-        "rent": {},
         "som": {
             "en": {
                 "engel": {}
@@ -14976,9 +13300,6 @@
             "honning": {}
         }
     },
-    "søta": {
-        "bror": {}
-    },
     "ta": {
         "anstøt": {
             "av": {
@@ -14991,7 +13312,6 @@
                 "nakken": {}
             }
         },
-        "bølgen": {},
         "den": {
             "høye": {
                 "c": {}
@@ -15038,7 +13358,6 @@
             "stikk": {},
             "tak": {}
         },
-        "fart": {},
         "for": {
             "seg": {
                 "av": {
@@ -15069,7 +13388,6 @@
                 "noen": {}
             }
         },
-        "kaka": {},
         "livet": {
             "med": {
                 "ro": {}
@@ -15141,7 +13459,6 @@
             "hansken": {},
             "tråden": {}
         },
-        "ordet": {},
         "på": {
             "kreftene": {},
             "fersk": {
@@ -15158,7 +13475,6 @@
                 "seilene": {}
             }
         },
-        "roret": {},
         "rotta": {
             "på": {
                 "noen": {}
@@ -15198,13 +13514,11 @@
                 }
             }
         },
-        "sjumilssteg": {},
         "skrittet": {
             "fullt": {
                 "ut": {}
             }
         },
-        "telling": {},
         "til": {
             "motmæle": {},
             "takke": {
@@ -15276,11 +13590,9 @@
             "du": {
                 "ha": {}
             }
-        },
-        "skjebne": {}
+        }
     },
     "takke": {
-        "av": {},
         "fanden": {
             "for": {
                 "det": {}
@@ -15339,9 +13651,6 @@
             }
         }
     },
-    "tampen": {
-        "brenner": {}
-    },
     "tant": {
         "og": {
             "fjas": {}
@@ -15357,9 +13666,6 @@
                 }
             }
         }
-    },
-    "tape": {
-        "terreng": {}
     },
     "taushet": {
         "er": {
@@ -15384,7 +13690,6 @@
                 "baner": {}
             }
         },
-        "koffert": {},
         "seg": {
             "om": {
                 "to": {
@@ -15427,7 +13732,6 @@
         }
     },
     "tiden": {
-        "flyr": {},
         "tikker": {
             "og": {
                 "går": {}
@@ -15437,11 +13741,6 @@
             "vise": {}
         }
     },
-    "tidens": {
-        "tann": {
-            "tærer": {}
-        }
-    },
     "til": {
         "all": {
             "lykke": {}
@@ -15449,14 +13748,11 @@
         "det": {
             "kjedsommelige": {}
         },
-        "doms": {},
         "en": {
             "viss": {
                 "grad": {}
             }
         },
-        "fots": {},
-        "fulle": {},
         "ingen": {
             "verdens": {
                 "nytte": {}
@@ -15472,8 +13768,6 @@
         "man": {
             "stuper": {}
         },
-        "nød": {},
-        "overmål": {},
         "sin": {
             "tid": {}
         },
@@ -15513,12 +13807,6 @@
         "i": {
             "manesjen": {}
         }
-    },
-    "tilbe": {
-        "noen": {}
-    },
-    "tine": {
-        "opp": {}
     },
     "tjene": {
         "penger": {
@@ -15562,16 +13850,9 @@
         }
     },
     "tone": {
-        "flagg": {},
         "ned": {
             "noe": {}
         }
-    },
-    "tordenskjolds": {
-        "soldater": {}
-    },
-    "tradisjonen": {
-        "tro": {}
     },
     "trappe": {
         "ned": {
@@ -15611,7 +13892,6 @@
         }
     },
     "trekke": {
-        "blankt": {},
         "det": {
             "korteste": {
                 "strå": {}
@@ -15639,8 +13919,6 @@
             "nødbremsen": {},
             "trådene": {}
         },
-        "lodd": {},
-        "pusten": {},
         "på": {
             "årene": {}
         },
@@ -15665,8 +13943,7 @@
         },
         "ut": {
             "tiden": {}
-        },
-        "vinnerloddet": {}
+        }
     },
     "trinn": {
         "for": {
@@ -15709,17 +13986,10 @@
             "fingrene": {}
         }
     },
-    "troppe": {
-        "opp": {}
-    },
     "trykke": {
         "på": {
             "knappen": {}
         }
-    },
-    "trå": {
-        "til": {},
-        "vannet": {}
     },
     "tråkke": {
         "noen": {
@@ -15746,9 +14016,6 @@
             "vektskålen": {}
         }
     },
-    "tvers": {
-        "igjennom": {}
-    },
     "tåle": {
         "dagens": {
             "lys": {}
@@ -15761,17 +14028,10 @@
             }
         }
     },
-    "tørne": {
-        "sammen": {},
-        "ut": {}
-    },
     "tørr": {
         "bak": {
             "ørene": {}
         }
-    },
-    "tøye": {
-        "strikken": {}
     },
     "ulv": {
         "i": {
@@ -15779,11 +14039,9 @@
         }
     },
     "under": {
-        "bordet": {},
         "dekke": {
             "av": {}
         },
-        "jorda": {},
         "lås": {
             "og": {
                 "slå": {}
@@ -15793,8 +14051,6 @@
             "hatt": {},
             "tak": {}
         },
-        "torva": {},
-        "tøffelen": {},
         "fire": {
             "øyne": {}
         }
@@ -15807,12 +14063,6 @@
                 }
             }
         }
-    },
-    "unge": {
-        "mann": {}
-    },
-    "urent": {
-        "trav": {}
     },
     "ut": {
         "i": {
@@ -15838,9 +14088,6 @@
                 }
             }
         }
-    },
-    "utbrodere": {
-        "noe": {}
     },
     "ute": {
         "av": {
@@ -15869,7 +14116,6 @@
                 "øvrig": {}
             }
         },
-        "videre": {},
         "å": {
             "fortrekke": {
                 "en": {
@@ -15881,19 +14127,10 @@
             "anseelse": {}
         }
     },
-    "uteske": {
-        "noen": {}
-    },
-    "utfordre": {
-        "skjebnen": {}
-    },
     "utlevere": {
         "seg": {
             "selv": {}
         }
-    },
-    "vanens": {
-        "makt": {}
     },
     "vann": {
         "på": {
@@ -15902,9 +14139,6 @@
         "i": {
             "munnen": {}
         }
-    },
-    "varmere": {
-        "himmelstrøk": {}
     },
     "vasse": {
         "i": {
@@ -15951,13 +14185,6 @@
             }
         }
     },
-    "veis": {
-        "ende": {}
-    },
-    "vekke": {
-        "gjenklang": {},
-        "noen": {}
-    },
     "veksle": {
         "et": {
             "par": {
@@ -15966,7 +14193,6 @@
         }
     },
     "vel": {
-        "blåst": {},
         "å": {
             "merke": {}
         }
@@ -16016,9 +14242,6 @@
             }
         }
     },
-    "vente": {
-        "seg": {}
-    },
     "verden": {
         "er": {
             "ikke": {
@@ -16037,12 +14260,9 @@
         }
     },
     "verdens": {
-        "navle": {},
         "største": {
             "under": {}
-        },
-        "tak": {},
-        "undergang": {}
+        }
     },
     "vi": {
         "alminnelige": {
@@ -16088,9 +14308,6 @@
             }
         }
     },
-    "villig": {
-        "vekk": {}
-    },
     "vinden": {
         "har": {
             "snudd": {}
@@ -16104,7 +14321,6 @@
         }
     },
     "vinne": {
-        "gjenklang": {},
         "heder": {
             "og": {
                 "ære": {}
@@ -16125,12 +14341,7 @@
             }
         }
     },
-    "visdommens": {
-        "kilde": {}
-    },
     "vise": {
-        "ansikt": {},
-        "flagget": {},
         "for": {
             "all": {
                 "verden": {}
@@ -16159,8 +14370,6 @@
                 "jeg": {}
             }
         },
-        "tenner": {},
-        "vei": {},
         "en": {
             "kald": {
                 "skulder": {}
@@ -16182,7 +14391,6 @@
         }
     },
     "vondt": {
-        "blod": {},
         "skal": {
             "vondt": {
                 "fordrive": {}
@@ -16214,8 +14422,7 @@
                     }
                 }
             }
-        },
-        "skinnet": {}
+        }
     },
     "våkne": {
         "til": {
@@ -16230,20 +14437,12 @@
             "møttes": {}
         }
     },
-    "vær": {
-        "varsom": {}
-    },
     "være": {
-        "allemannseie": {},
-        "altetende": {},
         "av": {
             "det": {
                 "onde": {}
             }
         },
-        "avblomstret": {},
-        "avholdende": {},
-        "bankers": {},
         "bare": {
             "blåbær": {}
         },
@@ -16262,16 +14461,9 @@
         "bitre": {
             "fiender": {}
         },
-        "blakk": {},
-        "bleik": {},
-        "blind": {},
-        "blærete": {},
-        "bombastisk": {},
         "bryet": {
             "verdt": {}
         },
-        "bråkjekk": {},
-        "dagligdags": {},
         "den": {
             "minste": {
                 "kunst": {}
@@ -16295,8 +14487,6 @@
             "verk": {},
             "advokat": {}
         },
-        "dumdristig": {},
-        "dyptpløyende": {},
         "død": {
             "og": {
                 "begravet": {}
@@ -16305,7 +14495,6 @@
         "dødsens": {
             "alvor": {}
         },
-        "døgnvill": {},
         "dømt": {
             "til": {
                 "å": {
@@ -16313,9 +14502,6 @@
                 }
             }
         },
-        "edelmodig": {},
-        "egensindig": {},
-        "ellevill": {},
         "en": {
             "annen": {
                 "sak": {}
@@ -16372,11 +14558,6 @@
                 }
             }
         },
-        "eneveldig": {},
-        "ensporet": {},
-        "enøyd": {},
-        "eplekjekk": {},
-        "epokegjørende": {},
         "et": {
             "avsluttet": {
                 "kapitel": {}
@@ -16432,19 +14613,14 @@
                 "får": {}
             }
         },
-        "fandenivoldsk": {},
-        "fargeløs": {},
         "fast": {
             "inventar": {}
         },
-        "firkantet": {},
-        "fisefin": {},
         "flink": {
             "med": {
                 "hendene": {}
             }
         },
-        "flintskallet": {},
         "flue": {
             "på": {
                 "veggen": {}
@@ -16462,8 +14638,6 @@
             },
             "hånden": {}
         },
-        "forfinet": {},
-        "fortapt": {},
         "forut": {
             "for": {
                 "sin": {
@@ -16471,7 +14645,6 @@
                 }
             }
         },
-        "forutinntatt": {},
         "fra": {
             "en": {
                 "annen": {
@@ -16484,7 +14657,6 @@
                 }
             }
         },
-        "fredet": {},
         "fri": {
             "og": {
                 "frank": {}
@@ -16513,9 +14685,6 @@
         "føre": {
             "var": {}
         },
-        "gal": {},
-        "giftig": {},
-        "glovarm": {},
         "god": {
             "latin": {},
             "på": {
@@ -16532,7 +14701,6 @@
             "skodd": {},
             "utrustet": {}
         },
-        "godtroende": {},
         "grepet": {
             "ut": {
                 "av": {
@@ -16550,9 +14718,6 @@
                 "klypa": {}
             }
         },
-        "hardhjertet": {},
-        "hardhudet": {},
-        "harry": {},
         "hel": {
             "ved": {}
         },
@@ -16575,8 +14740,6 @@
                 "mål": {}
             }
         },
-        "heltemodig": {},
-        "herdet": {},
         "herre": {
             "i": {
                 "eget": {
@@ -16602,16 +14765,9 @@
                 "happ": {}
             }
         },
-        "hjerteløs": {},
-        "hjulbeint": {},
         "hoppende": {
             "glad": {}
         },
-        "hoven": {},
-        "hudløs": {},
-        "hverdagskost": {},
-        "håndfast": {},
-        "hårreisende": {},
         "høl": {
             "i": {
                 "hue": {}
@@ -16703,7 +14859,6 @@
                 "båt": {}
             }
         },
-        "idiotsikker": {},
         "ille": {
             "faren": {},
             "til": {
@@ -16711,22 +14866,17 @@
             },
             "ute": {}
         },
-        "in": {},
         "innenfor": {
             "murene": {}
         },
-        "iørefallende": {},
-        "iøynefallende": {},
         "jaget": {
             "vilt": {}
         },
-        "jevnbyrdig": {},
         "kald": {
             "som": {
                 "is": {}
             }
         },
-        "kar": {},
         "kjøpt": {
             "og": {
                 "betalt": {}
@@ -16740,7 +14890,6 @@
         "klin": {
             "kokos": {}
         },
-        "klippefast": {},
         "knust": {
             "av": {
                 "sorg": {}
@@ -16753,13 +14902,11 @@
                 }
             }
         },
-        "krampaktig": {},
         "krig": {
             "på": {
                 "kniven": {}
             }
         },
-        "kritthvit": {},
         "kul": {
             "umulig": {}
         },
@@ -16781,7 +14928,6 @@
                 "markedet": {}
             }
         },
-        "legendarisk": {},
         "lett": {
             "på": {
                 "labben": {}
@@ -16797,7 +14943,6 @@
                 }
             }
         },
-        "lettlivet": {},
         "like": {
             "gode": {},
             "langt": {},
@@ -16812,7 +14957,6 @@
                 }
             }
         },
-        "likeglad": {},
         "listig": {
             "som": {
                 "en": {
@@ -16834,7 +14978,6 @@
                 }
             }
         },
-        "lusen": {},
         "lutter": {
             "glede": {},
             "øre": {}
@@ -16844,7 +14987,6 @@
                 "ledig": {}
             }
         },
-        "løsmunnet": {},
         "mann": {
             "for": {
                 "sin": {
@@ -16852,7 +14994,6 @@
                 }
             }
         },
-        "matnyttig": {},
         "med": {
             "i": {
                 "spillet": {}
@@ -16877,7 +15018,6 @@
                 "dage": {}
             }
         },
-        "munnrapp": {},
         "mye": {
             "om": {
                 "å": {
@@ -16888,7 +15028,6 @@
         "myntet": {
             "på": {}
         },
-        "nebbete": {},
         "nede": {
             "i": {
                 "en": {
@@ -16896,7 +15035,6 @@
                 }
             }
         },
-        "nesevis": {},
         "noe": {
             "for": {
                 "enhver": {
@@ -16915,14 +15053,11 @@
                 "å": {}
             }
         },
-        "nærliggende": {},
-        "nærtagende": {},
         "nøye": {
             "på": {
                 "det": {}
             }
         },
-        "omtåket": {},
         "opium": {
             "for": {
                 "folket": {}
@@ -16933,8 +15068,6 @@
                 "avgjort": {}
             }
         },
-        "oppe": {},
-        "overkommelig": {},
         "pengene": {
             "verd": {}
         },
@@ -16957,7 +15090,6 @@
                 }
             }
         },
-        "prippen": {},
         "på": {
             "banen": {},
             "bedringens": {
@@ -17013,7 +15145,6 @@
             "bærtur": {},
             "hjemmebane": {}
         },
-        "påseilet": {},
         "raka": {
             "fant": {}
         },
@@ -17022,7 +15153,6 @@
                 "labben": {}
             }
         },
-        "rebelsk": {},
         "redd": {
             "av": {
                 "seg": {}
@@ -17035,7 +15165,6 @@
                 }
             }
         },
-        "rotløs": {},
         "rund": {
             "i": {
                 "kantene": {}
@@ -17046,14 +15175,9 @@
                 "tennene": {}
             }
         },
-        "rå": {},
-        "råflott": {},
-        "sammen": {},
         "seg": {
             "selv": {}
         },
-        "selvgod": {},
-        "selvinnlysende": {},
         "sin": {
             "egen": {
                 "lykkes": {
@@ -17066,31 +15190,16 @@
                 "bevisst": {}
             }
         },
-        "sjøsterk": {},
-        "skadefro": {},
         "skarp": {
             "i": {
                 "kantene": {}
             }
         },
-        "skarpskodd": {},
-        "skeiv": {},
-        "slagferdig": {},
-        "sleivete": {},
-        "smalsporet": {},
-        "smidig": {},
-        "småborgerlig": {},
-        "smålig": {},
         "smør": {
             "på": {
                 "flesk": {}
             }
         },
-        "smørblid": {},
-        "snakkesalig": {},
-        "snerpete": {},
-        "snorrett": {},
-        "snusfornuftig": {},
         "som": {
             "hund": {
                 "og": {
@@ -17139,15 +15248,11 @@
         "spilt": {
             "møye": {}
         },
-        "spiselig": {},
-        "spissfindig": {},
         "splitter": {
             "pine": {
                 "gal": {}
             }
         },
-        "sprek": {},
-        "sprekkeferdig": {},
         "sprell": {
             "levende": {}
         },
@@ -17161,8 +15266,6 @@
                 }
             }
         },
-        "stivnakket": {},
-        "stivsinnet": {},
         "stokk": {
             "døv": {}
         },
@@ -17176,10 +15279,6 @@
         "stor": {
             "takhøyde": {}
         },
-        "stormannsgal": {},
-        "stripete": {},
-        "strøken": {},
-        "styrtrik": {},
         "støpt": {
             "i": {
                 "samme": {
@@ -17187,7 +15286,6 @@
                 }
             }
         },
-        "svartelistet": {},
         "så": {
             "sin": {
                 "sak": {}
@@ -17200,9 +15298,6 @@
                 }
             }
         },
-        "tafatt": {},
-        "talefør": {},
-        "taletrengt": {},
         "tatt": {
             "ut": {
                 "av": {
@@ -17210,8 +15305,6 @@
                 }
             }
         },
-        "teatralsk": {},
-        "tekkelig": {},
         "tett": {
             "som": {
                 "en": {
@@ -17233,8 +15326,6 @@
                 }
             }
         },
-        "tilbakelent": {},
-        "toneangivende": {},
         "trengt": {
             "opp": {
                 "i": {
@@ -17251,10 +15342,6 @@
                 }
             }
         },
-        "tungnem": {},
-        "tungrodd": {},
-        "tungsindig": {},
-        "tåkete": {},
         "tøff": {
             "'": {
                 "i": {
@@ -17272,11 +15359,9 @@
                 "ørene": {}
             }
         },
-        "tørrvittig": {},
         "umaken": {
             "verd": {}
         },
-        "umusikalsk": {},
         "under": {
             "enhver": {
                 "kritikk": {}
@@ -17284,15 +15369,11 @@
             "oppseiling": {},
             "seil": {}
         },
-        "underdanig": {},
-        "undermåls": {},
         "ung": {
             "og": {
                 "lovende": {}
             }
         },
-        "usmakelig": {},
-        "uspiselig": {},
         "ute": {
             "av": {
                 "funksjon": {},
@@ -17351,13 +15432,11 @@
                 }
             }
         },
-        "veggpryd": {},
         "vel": {
             "og": {
                 "bra": {}
             }
         },
-        "velbeslått": {},
         "venner": {
             "og": {
                 "vel": {
@@ -17370,23 +15449,16 @@
                 "verst": {}
             }
         },
-        "vidsynt": {},
-        "virkelighetsfjern": {},
-        "våken": {},
         "væpnet": {
             "til": {
                 "tennene": {}
             }
         },
-        "åndfull": {},
-        "åndsfraværende": {},
-        "åndsnærværende": {},
         "åpen": {
             "for": {
                 "noe": {}
             }
         },
-        "årvåken": {},
         "bundet": {
             "på": {
                 "hender": {
@@ -17427,21 +15499,10 @@
             }
         }
     },
-    "ånde": {
-        "ut": {}
-    },
-    "åndens": {
-        "sverd": {}
-    },
     "åpent": {
         "og": {
             "ærlig": {}
         }
-    },
-    "åpne": {
-        "ballet": {},
-        "latterdøren": {},
-        "munnen": {}
     },
     "åpner": {
         "alle": {
@@ -17460,9 +15521,6 @@
             "nakken": {}
         }
     },
-    "ærens": {
-        "mark": {}
-    },
     "æres": {
         "den": {
             "som": {
@@ -17472,16 +15530,12 @@
             }
         }
     },
-    "ærlig": {
-        "talt": {}
-    },
     "ærlighet": {
         "varer": {
             "lengst": {}
         }
     },
     "øse": {
-        "ned": {},
         "ut": {
             "penger": {}
         }
@@ -17596,6 +15650,22 @@
     "fuglen": {
         "har": {
             "fløyet": {}
+        }
+    },
+    "full": {
+        "som": {
+            "en": {
+                "alke": {}
+            }
+        }
+    },
+    "gode": {
+        "miner": {
+            "til": {
+                "slett": {
+                    "spill": {}
+                }
+            }
         }
     },
     "grønn": {
@@ -17739,11 +15809,19 @@
             }
         }
     },
+    "miste": {
+        "både": {
+            "munn": {
+                "og": {
+                    "mæle": {}
+                }
+            }
+        }
+    },
     "mo": {
         "i": {
             "knærne": {}
-        },
-        "alene": {}
+        }
     },
     "morgenstund": {
         "har": {
@@ -17819,6 +15897,11 @@
             "kisten": {}
         }
     },
+    "stikk": {
+        "i": {
+            "strid": {}
+        }
+    },
     "striskjorta": {
         "og": {
             "havrelefsa": {}
@@ -17862,6 +15945,11 @@
             "i": {
                 "vann": {}
             }
+        }
+    },
+    "tidens": {
+        "tann": {
+            "tærer": {}
         }
     },
     "tomme": {
@@ -17932,9 +16020,6 @@
             "sjelen": {}
         }
     },
-    "duvende": {
-        "bryster": {}
-    },
     "elefanten": {
         "i": {
             "rommet": {}
@@ -17954,16 +16039,15 @@
             "ermet": {}
         }
     },
-    "fru": {
-        "Blom": {}
-    },
     "gatens": {
         "løse": {
             "fugler": {}
         }
     },
-    "hokus": {
-        "pokus": {}
+    "helt": {
+        "i": {
+            "hundre": {}
+        }
     },
     "hugge": {
         "over": {
@@ -17977,6 +16061,13 @@
     "høna": {
         "eller": {
             "egget": {}
+        }
+    },
+    "høste": {
+        "som": {
+            "man": {
+                "sår": {}
+            }
         }
     },
     "itte": {
@@ -18054,15 +16145,14 @@
             }
         }
     },
-    "rød": {
-        "tråd": {}
-    },
-    "severin": {
-        "Suveren": {}
-    },
     "sine": {
         "meningers": {
             "mot": {}
+        }
+    },
+    "skitt": {
+        "og": {
+            "kanel": {}
         }
     },
     "skudd": {
@@ -18074,9 +16164,6 @@
         "og": {
             "barter": {}
         }
-    },
-    "stante": {
-        "pede": {}
     },
     "støv": {
         "på": {
@@ -18120,6 +16207,13 @@
     "beskikke": {
         "sitt": {
             "hus": {}
+        }
+    },
+    "dagens": {
+        "byrde": {
+            "og": {
+                "hete": {}
+            }
         }
     },
     "danse": {
@@ -18386,6 +16480,20 @@
             "aske": {}
         }
     },
+    "skinne": {
+        "som": {
+            "en": {
+                "sol": {}
+            }
+        }
+    },
+    "slakte": {
+        "den": {
+            "fete": {
+                "kalv": {}
+            }
+        }
+    },
     "slett": {
         "selskap": {
             "forderver": {
@@ -18536,9 +16644,6 @@
         "seg": {
             "ned": {}
         }
-    },
-    "polsk": {
-        "riksdag": {}
     },
     "steke": {
         "i": {

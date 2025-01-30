@@ -1,7 +1,6 @@
 {
     "aldri så galt at det ikke er godt for noe": "",
     "alle": {
-        "dager": "",
         "gode ting er tre": "",
         "mann til pumpene": "",
         "monner drar": "",
@@ -31,7 +30,6 @@
         "kjød er hø": "",
         "mellom himmel og jord": ""
     },
-    "amerikansk øyemål": "",
     "ane": {
         "ugler i mosen": "",
         "fred og ingen fare": ""
@@ -41,7 +39,6 @@
     "arbeide": {
         "i felten": "",
         "som en hest": "",
-        "svart": "",
         "under høytrykk": ""
     },
     "arbeidet adler mannen": "",
@@ -65,23 +62,17 @@
     "avfyre en bredside": "",
     "avvente begivenhetenes gang": "",
     "bak": {
-        "kulissene": "",
         "lås og slå": "",
         "skyene er himmelen alltid blå": ""
     },
-    "bakke ut": "",
     "baksiden av medaljen": "",
-    "baktale noen": "",
     "balansere på": {
         "en knivsegg": "",
         "slakk line": ""
     },
     "balle på seg": "",
     "ballen er rund": "",
-    "ballets dronning": "",
     "bare": {
-        "blåbær": "",
-        "piss": "",
         "tiden og veien": "",
         "hvert jubelår": ""
     },
@@ -103,33 +94,23 @@
         "sent enn aldri": ""
     },
     "begeret er fullt": "",
-    "begrave stridsøksa": "",
     "begynne": {
         "for seg selv": "",
         "med to tomme hender": "",
         "å lysne": ""
     },
-    "bekjempe noe": "",
     "belegge sine ord": "",
     "belme i seg": "",
     "beregne sitt publikum": "",
     "berget fødte en mus": "",
     "beskytte mot vær og vind": "",
     "bestemme hvor skapet skal stå": "",
-    "bestå ildprøven": "",
     "betale": {
         "med samme mynt": "",
-        "seg": "",
-        "skjorta": "",
         "under bordet": ""
     },
-    "bevare": {
-        "fatningen": "",
-        "sitt gode navn og rykte": ""
-    },
-    "bevares vel": "",
+    "bevare sitt gode navn og rykte": "",
     "bevege seg i sneglefart": "",
-    "bevingede ord": "",
     "bikkja i bakken": "",
     "bistå med råd og dåd": "",
     "bite": {
@@ -148,16 +129,8 @@
         "tennene sammen": "",
         "fra seg": ""
     },
-    "blande": {
-        "blod": "",
-        "kortene": ""
-    },
-    "blank løgn": "",
     "bli": {
-        "akterutseilt": "",
-        "avkledd": "",
         "bløt om hjertet": "",
-        "bønnhørt": "",
         "dagens helt": "",
         "dolket i ryggen": "",
         "drevet": {
@@ -180,7 +153,6 @@
             "utenfor": ""
         },
         "hoppende glad": "",
-        "husvarm": "",
         "kastet": {
             "til ulvene": "",
             "ut på dypt vann": ""
@@ -195,10 +167,8 @@
         "mektig vred": "",
         "møtt med en kald skulder": "",
         "narret opp i stry": "",
-        "oppøst": "",
         "revet med": "",
         "ribbet til skinnet": "",
-        "rundlurt": "",
         "satt": {
             "på": {
                 "bar bakke": "",
@@ -206,7 +176,6 @@
             },
             "til veggs": ""
         },
-        "sjanghaiet": "",
         "slengt veggimellom": "",
         "slått": {
             "på målstreken": "",
@@ -222,7 +191,6 @@
         "stemoderlig behandlet": "",
         "stemplet som noe": "",
         "stilt mot veggen": "",
-        "svarteper": "",
         "tatt": {
             "av": {
                 "dage": "",
@@ -252,13 +220,9 @@
         "lerke": "",
         "sol": ""
     },
-    "blind": {
-        "alarm": "",
-        "høne": {
-            "finner også korn": "",
-            "kan også finne korn": ""
-        },
-        "vold": ""
+    "blind høne": {
+        "finner også korn": "",
+        "kan også finne korn": ""
     },
     "blod": {
         ", svette og tårer": "",
@@ -266,17 +230,12 @@
         "på tann": ""
     },
     "blomsten og biene": "",
-    "blomstre av": "",
-    "blotte seg": "",
     "blunke til noen": "",
     "blåse": {
         "seg opp": "",
         "opp noe": ""
     },
-    "blått blod": "",
-    "blære seg": "",
     "bomber og granater": "",
-    "bordet fanger": "",
     "bort i": {
         "hør og heim": "",
         "natta": "",
@@ -287,13 +246,10 @@
         "som en sviske": ""
     },
     "bortenfor alle blåner": "",
-    "bortforklare noe": "",
     "braute seg fram": "",
-    "breie seg": "",
     "brenne": {
         "et straffespark": "",
         "for noe": "",
-        "hjemme": "",
         "inne med noe": "",
         "sine skip": "",
         "sitt lys i begge ender": "",
@@ -303,20 +259,13 @@
     "brette opp ermene": "",
     "brikkene faller på plass": "",
     "bringe til verden": "",
-    "brodne kar": "",
     "bruke": {
-        "albuene": "",
         "apostlenes hester": "",
         "grovt skyts": "",
         "harde ord": "",
-        "kjeft": "",
-        "klubba": "",
         "penger som en full sjømann": "",
-        "sparekniven": "",
         "sundt bondevett": "",
-        "sunn fornuft": "",
-        "vettet": "",
-        "øynene": ""
+        "sunn fornuft": ""
     },
     "bruse med fjærene": "",
     "brygge": {
@@ -326,15 +275,9 @@
     "brystet snører seg sammen": "",
     "bryte": {
         "alle skranker": "",
-        "isen": "",
-        "lydmuren": "",
-        "løs": "",
         "med noen": "",
-        "ned": "",
         "ny mark": "",
-        "opp": "",
         "over tvert": "",
-        "tausheten": "",
         "ut i lys lue": ""
     },
     "brøle som en løve": "",
@@ -355,11 +298,8 @@
     },
     "bånn i bøtta": "",
     "bære": {
-        "byrdene": "",
         "fram noe": "",
-        "horn": "",
         "preg av": "",
-        "seg": "",
         "sitt kors": "",
         "ut jula": "",
         "ved til bålet": "",
@@ -368,11 +308,7 @@
     "bølge frem og tilbake": "",
     "børs og katedral": "",
     "bøte med livet": "",
-    "bøtte ned": "",
     "bøye": {
-        "av": "",
-        "hodet": "",
-        "nakken": "",
         "seg for noen": "",
         "kne for Baal": ""
     },
@@ -385,16 +321,10 @@
     },
     "dag ut og dag inn": "",
     "dagen": {
-        "derpå": "",
         "er ennå ung": "",
         "og timen vet ingen": ""
     },
-    "dagens": {
-        "mann": "",
-        "byrde og hete": ""
-    },
     "dann og vann": "",
-    "danne skole": "",
     "dansen rundt gullkalven": "",
     "de": {
         "edlere deler": "",
@@ -448,9 +378,7 @@
         "nakne sannhet": "",
         "offentlige scene": "",
         "omvendte verden": "",
-        "onde": "",
         "røde tråd": "",
-        "satt": "",
         "siste": {
             "olje": "",
             "reise": ""
@@ -663,7 +591,6 @@
             "ikke noe å si": "",
             "rent mye vann i havet siden": ""
         },
-        "hinsidige": "",
         "hjertet er fullt av , renner munnen over med": "",
         "humper og går": "",
         "høljer ned": "",
@@ -794,23 +721,17 @@
         "tar kaka": ""
     },
     "din": {
-        "banditt": "",
         "feige hund": "",
         "vilje er min lov": ""
     },
-    "direkte tale": "",
     "diskutere pavens skjegg": "",
-    "djevelens advokat": "",
     "dolke": {
         "noen i ryggen": "",
         "en i ryggen": ""
     },
     "dolle seg opp": "",
-    "dommens dag": "",
-    "dovne seg": "",
     "dra": {
         "av gårde": "",
-        "damer": "",
         "fanden i vold": "",
         "i": {
             "felten": "",
@@ -821,7 +742,6 @@
             "Bloksberg": "",
             "Blokksberg !": ""
         },
-        "tømmerstokker": "",
         "ut tiden": "",
         "dit": {
             "pepper ’ n gror": "",
@@ -834,22 +754,17 @@
     "drikke": {
         "den bitre kalk": "",
         "seg fra sans og samling": "",
-        "som en svamp": "",
-        "bryllup": ""
+        "som en svamp": ""
     },
     "drite": {
         "på draget": "",
         "seg ut": ""
     },
     "drive": {
-        "dank": "",
         "det langt": "",
-        "flisespikkeri": "",
         "for vær og vind": "",
         "gjøn med noen": "",
-        "rovdrift på seg selv": "",
-        "tuskhandel": "",
-        "vranglære": ""
+        "rovdrift på seg selv": ""
     },
     "drukne sine sorger": "",
     "dråpen som får begeret til å flyte over": "",
@@ -885,13 +800,7 @@
         },
         "tar prisen": ""
     },
-    "dukke frem": "",
     "dumme seg loddrett ut": "",
-    "dyrenes konge": "",
-    "dyrke": {
-        "mammon": "",
-        "noen": ""
-    },
     "dysse ned noe": "",
     "dø": {
         "mett av dage": "",
@@ -903,223 +812,64 @@
         "pine": "",
         "plage": ""
     },
-    "dødens forgård": "",
     "ebbe i kassen": "",
     "edder og galle": "",
     "eget kjøtt og blod": "",
     "egget vil lære høna å verpe": "",
-    "ei": {
-        "berte": "",
-        "megge": "",
-        "skrulle": "",
-        "tuppe": ""
-    },
-    "eksemplets makt": "",
     "en": {
-        "adonis": "",
-        "advokat": "",
-        "agurktid": "",
-        "akilleshæl": "",
-        "allviter": "",
-        "analfabet": "",
-        "andedam": "",
-        "anekdote": "",
         "angrende synder": "",
-        "angstbiter": "",
-        "angstfordriver": "",
         "annen dans": "",
-        "anstand": "",
-        "anstøtsstein": "",
-        "arbeidshest": "",
-        "arbeidsmaur": "",
         "arg konkurrent": "",
-        "aspirasjon": "",
-        "attpåklatt": "",
-        "attpåsleng": "",
-        "attåtnæring": "",
         "av gutta": "",
-        "avgrunn": "",
-        "avledningsmanøver": "",
-        "avlegger": "",
-        "bagasje": "",
-        "bakevje": "",
-        "bakstrever": "",
-        "baktanke": "",
-        "bakvaskelse": "",
-        "balansegang": "",
-        "balansekunst": "",
-        "barnestjerne": "",
-        "banemann": "",
-        "barnesykdom": "",
-        "basse": "",
-        "bastion": "",
         "bedre middag": "",
-        "bedreviter": "",
-        "bedrift": "",
-        "bengel": "",
-        "besettelse": "",
         "besk medisin": "",
-        "bestefarsklokke": "",
-        "bibel": "",
         "billedlig framstilling": "",
         "bitter pille": "",
         "bjelle ringer": "",
-        "bjellesau": "",
-        "bjørnetjeneste": "",
-        "blackout": "",
         "blandet fornøyelse": "",
         "blanding av børs og katedral": "",
-        "blei": "",
-        "blekke": "",
         "bloddryppende historie": "",
-        "blodhevn": "",
-        "blodpris": "",
-        "blodsuger": "",
-        "blomstringstid": "",
-        "blunder": "",
-        "blåkopi": "",
-        "blåstrømpe": "",
-        "blære": "",
-        "blødme": "",
-        "boble": "",
-        "boikott": "",
-        "bombe": "",
-        "bondefanger": "",
-        "bondeknøl": "",
-        "bondetamp": "",
-        "borgfred": "",
-        "brannfakkel": "",
-        "bredside": "",
-        "brems": "",
-        "bremsekloss": "",
-        "brilleslange": "",
         "broder i ånden": "",
-        "broiler": "",
         "broket forsamling": "",
-        "bråkebøtte": "",
-        "brøde": "",
-        "brølape": "",
-        "busemann": "",
-        "byggekloss": "",
-        "bølgedal": "",
-        "bølle": "",
-        "bøyg": "",
-        "casanova": "",
-        "dagdrøm": "",
-        "dagligtale": "",
         "dags tid": "",
         "dans på roser": "",
-        "danseløve": "",
         "del av kaken": "",
-        "demon": "",
-        "devise": "",
-        "dilettant": "",
         "djevelens advokat": "",
-        "dobbeltgjenger": "",
-        "dominoeffekt": "",
-        "dommedagsprofet": "",
-        "drage": "",
         "drivende kraft": "",
-        "drivkraft": "",
-        "dronning": "",
-        "drukkenbolt": "",
-        "drømmer": "",
         "drøy historie": "",
-        "due": "",
-        "dumming": "",
         "dundrende suksess": "",
-        "dusinvare": "",
         "dyd av nødvendighet": "",
         "dyr spøk": "",
         "dyrekjøpt seier": "",
         "dyster fremtid": "",
-        "dåd": "",
-        "dåre": "",
-        "dårelokk": "",
-        "dåsemikkel": "",
-        "døgenikt": "",
-        "einstøing": "",
-        "eksosrype": "",
         "elefant i rommet": "",
-        "elegantier": "",
         "elektrisk stemning": "",
         "enkel sjel": "",
-        "epistel": "",
-        "eremitt": "",
         "estetisk nytelse": "",
-        "eufemisme": "",
-        "fabel": "",
-        "fadese": "",
         "fallen": {
             "engel": "",
             "kvinne": ""
         },
-        "fallhøyde": "",
-        "fallitterklæring": "",
         "falmet skjønnhet": "",
         "falsk": {
             "alarm": "",
             "profet": ""
         },
-        "faneflukt": "",
-        "fargeklatt": "",
-        "feberredning": "",
         "feig hund": "",
-        "femtekolonne": "",
-        "femtekolonnist": "",
-        "fengselsfugl": "",
-        "festbrems": "",
-        "fiasko": "",
         "fiffig løsning": "",
         "fiks idé": "",
-        "filister": "",
-        "fillefant": "",
-        "fillefrans": "",
-        "finansakrobat": "",
-        "fingerspissfølelse": "",
-        "firkløver": "",
-        "fisk": "",
-        "fjolle": "",
-        "fjott": "",
-        "flanør": "",
-        "flaskehals": "",
         "flittig gjest": "",
-        "flokse": "",
-        "flopp": "",
-        "flottenheimer": "",
         "flue på veggen": "",
-        "flyfille": "",
-        "flyveidé": "",
         "flyvende tallerken": "",
-        "flåkjeft": "",
-        "fløtepus": "",
-        "forbryterbane": "",
         "forbuden frukt": "",
-        "forpostfektning": "",
         "forsiktig general": "",
         "forsmådd elsker": "",
-        "forståsegpåer": "",
-        "forsøkskanin": "",
-        "fossil": "",
         "fransk": {
             "visitt": "",
             "åpning": ""
         },
-        "frase": "",
-        "fredsdue": "",
-        "frekkas": "",
         "fremmed fugl": "",
-        "frille": "",
-        "friskus": "",
-        "furie": "",
-        "fuskelapp": "",
-        "fyllekule": "",
-        "fyr": "",
         "fyrstelig mottagelse": "",
-        "fødselshjelper": "",
-        "galgenfrist": "",
-        "galgenfugl": "",
-        "galning": "",
         "gammel": {
             "jomfru": "",
             "rev": "",
@@ -1127,126 +877,42 @@
             "ungkar": "",
             "flamme": ""
         },
-        "gap": "",
-        "gategutt": "",
-        "gatepike": "",
         "gave fra": {
             "himmelen": "",
             "oven": ""
         },
-        "generaltabbe": "",
-        "generasjonskløft": "",
-        "gentlemanns": "",
-        "gjenganger": "",
-        "gjennomgangsmelodi": "",
-        "gjerrigknark": "",
-        "gjøkunge": "",
         "glad laks": "",
-        "glansperiode": "",
         "gledelig begivenhet": "",
         "gledens dag": "",
-        "gledesdreper": "",
-        "gledespike": "",
-        "gledesspreder": "",
-        "glorie": "",
-        "gneldrebikkje": "",
-        "godfjott": "",
-        "gratissjanse": "",
-        "gravrøst": "",
-        "gressenke": "",
-        "gressenkemann": "",
-        "gris": "",
         "grå mus": "",
-        "gråtass": "",
         "grønn lunge": "",
-        "grønnsak": "",
-        "grøt": "",
-        "gudegave": "",
         "guds lykke": "",
-        "gullfugl": "",
-        "gullgutt": "",
-        "gulrot": "",
-        "guttevalp": "",
-        "gåte": "",
-        "hai": "",
-        "hakkekylling": "",
-        "halvgud": "",
-        "ham": "",
-        "hanekylling": "",
-        "hannkatt": "",
         "hard": {
             "hals": "",
             "negl": ""
         },
-        "hardhaus": "",
-        "hare": "",
-        "hauk": "",
-        "he": "",
-        "hedersgjest": "",
-        "hedersmann": "",
         "heidundrende fest": "",
-        "heimføding": "",
-        "heisatur": "",
-        "heksedoktor": "",
-        "hekseprosess": "",
-        "heksering": "",
         "heldig stjerne": "",
-        "helgenglorie": "",
         "hellig": {
             "allianse": "",
             "ku": ""
         },
         "helstøpt personlighet": "",
-        "helt": "",
-        "heltedåd": "",
-        "heltetenor": "",
-        "hengemyr": "",
         "herostratisk berømmelse": "",
-        "herrekost": "",
         "het potet": "",
-        "hetebølge": "",
-        "hissigpropp": "",
-        "hivert": "",
         "hjelpende hånd": "",
-        "hjertesak": "",
         "hjerteskjærende": {
             "gråt": "",
             "scene": ""
         },
-        "hjertevenn": "",
         "homerisk latter": "",
-        "horebukk": "",
         "hoven mine": "",
-        "hulder": "",
-        "hund": "",
-        "husmannsånd": "",
         "hvit": {
             "flekk på kartet": "",
             "løgn": ""
         },
-        "hvitvasking": "",
-        "hybelkanin": "",
-        "hyrdetime": "",
-        "håndfull": "",
-        "håndjager": "",
-        "håndvending": "",
-        "høneblund": "",
-        "høvding": "",
-        "ildprøve": "",
-        "ildsjel": "",
         "indre stemme": "",
-        "intrigemaker": "",
-        "jentefut": "",
-        "jette": "",
-        "jomfru": "",
-        "jomfrutur": "",
-        "jordmor": "",
-        "jukselapp": "",
-        "jypling": "",
-        "kakelinne": "",
         "kald skulder": "",
-        "kalddusj": "",
-        "kameleon": "",
         "kamp": {
             "mot": {
                 "klokka": "",
@@ -1257,97 +923,22 @@
                 "tørre never": ""
             }
         },
-        "kamphane": "",
-        "kanalje": "",
-        "kanonade": "",
-        "kanossagang": "",
-        "kardinaldyd": "",
-        "kardinalfeil": "",
-        "karismatiker": "",
-        "karrierejeger": "",
-        "karusell": "",
-        "kassasuksess": "",
-        "kasteball": "",
-        "kilevink": "",
-        "kinnhest": "",
-        "kjeftesmelle": "",
-        "kjendis": "",
-        "kjentmann": "",
-        "kjerringknute": "",
-        "klakør": "",
         "klapp på skulderen": "",
-        "klassiker": "",
-        "klippe": "",
-        "klippetro": "",
-        "klisjé": "",
-        "klisterhjerne": "",
-        "klossmajor": "",
-        "klump": "",
-        "klyse": "",
         "knakende kjekk kar": "",
         "knute på tråden": "",
-        "knøl": "",
-        "koffertløper": "",
-        "kollbøtte": "",
         "koloss på leirføtter": "",
-        "kongstanke": "",
-        "konkursrytter": "",
-        "kop": "",
-        "korsvei": "",
-        "kortslutning": "",
-        "kraftidiot": "",
-        "kraftkar": "",
-        "kraftsalve": "",
-        "krake": "",
-        "kranglefant": "",
         "krig på kniven": "",
-        "krokvei": "",
-        "kronjuvel": "",
-        "kruttønne": "",
-        "krystallkule": "",
-        "kubikksjarmør": "",
-        "kunstpause": "",
-        "kurtisane": "",
-        "kvakksalver": "",
-        "kverulant": "",
-        "kvikkas": "",
         "kvise på samfunnets rumpe": "",
-        "kylling": "",
-        "labb": "",
-        "lakei": "",
-        "larv": "",
-        "ledestjerne": "",
-        "lefse": "",
         "lekker sak": "",
-        "lenkegjeng": "",
-        "lesbe": "",
-        "lesehest": "",
-        "levemann": "",
         "levende fakkel": "",
-        "likemann": "",
-        "linselus": "",
         "lise for kropp og sjel": "",
         "listig rev": "",
         "liten tass": "",
         "lokal størrelse": "",
-        "lokkedue": "",
-        "lokkefugl": "",
-        "lurendreier": "",
-        "lus": "",
-        "lusekjører": "",
-        "lykkeridder": "",
-        "lykkestjerne": "",
         "lys idé": "",
         "lystig fyr": "",
-        "lystløgner": "",
-        "lærepenge": "",
-        "løgnhals": "",
-        "løpegutt": "",
         "løs ende": "",
-        "magiker": "",
         "magisk grense": "",
-        "majestetsforbrytelse": "",
-        "maktdemonstrasjon": "",
         "mann": {
             "av": {
                 "den gamle skole": "",
@@ -1355,290 +946,53 @@
             },
             "i sine beste år": ""
         },
-        "mannsgris": "",
-        "mare": "",
-        "marionett": "",
-        "masekopp": "",
-        "matrone": "",
-        "megge": "",
-        "melkeku": "",
-        "mellommann": "",
-        "meningsfelle": "",
-        "menneskealder": "",
-        "mentor": "",
-        "merkedag": "",
-        "merr": "",
-        "mester": "",
-        "millimeter": "",
-        "mine": "",
         "moralens vokter": "",
-        "moralpreken": "",
-        "muldvarp": "",
         "myk mann": "",
-        "myrsnipe": "",
-        "målkonge": "",
-        "målmann": "",
-        "møkkaspreder": "",
         "mørkets engel": "",
-        "natterangler": "",
-        "natteravn": "",
-        "naturbegavelse": "",
-        "nedsabling": "",
-        "nedtur": "",
-        "nerd": "",
-        "nidvise": "",
-        "novise": "",
         "ny verdensborger": "",
         "nyttig idiot": "",
-        "nøkkelperson": "",
-        "nøtt": "",
-        "oddsbombe": "",
         "ond sirkel": "",
-        "oppreisning": "",
-        "oppstiver": "",
-        "oppvigler": "",
-        "ordensmann": "",
-        "ordgyter": "",
-        "ordkløver": "",
-        "original": "",
         "overført betydning": "",
-        "overmann": "",
-        "pakkeløsning": "",
-        "pakketur": "",
-        "palassrevolusjon": "",
-        "papegøye": "",
-        "papirbestemmelse": "",
-        "papirtiger": "",
-        "paragrafrytter": "",
-        "paraply": "",
-        "paraplyorganisasjon": "",
-        "parasitt": "",
-        "parentes": "",
-        "parole": "",
-        "partifelle": "",
-        "pedant": "",
-        "pekepinn": "",
-        "penneknekt": "",
-        "peppermø": "",
-        "perle": "",
-        "petimeter": "",
-        "pikelill": "",
-        "pingle": "",
-        "pipekonsert": "",
-        "plageånd": "",
         "plass i solen": "",
-        "platthet": "",
-        "pokersjanse": "",
         "polsk riksdag": "",
-        "praktkar": "",
-        "pralhans": "",
-        "programhelt": "",
-        "propp": "",
         "pryd for øyet": "",
-        "prøveballong": "",
-        "prøvekanin": "",
-        "prøveklut": "",
-        "pusling": "",
         "pust i bakken": "",
-        "pyntedukke": "",
         "på trynet": "",
-        "påpakning": "",
         "pæl i kjødet": "",
         "pølse i slaktetiden": "",
-        "rambukk": "",
-        "rangstige": "",
-        "rebell": "",
-        "rebus": "",
-        "reddhare": "",
-        "redningsplanke": "",
         "regjerende mester": "",
-        "renvasking": "",
-        "resept": "",
-        "retor": "",
-        "rev": "",
         "rik onkel i Amerika": "",
-        "rosemaling": "",
         "rosenrød fremtid": "",
-        "rugekasse": "",
         "rungende taushet": "",
-        "rustholk": "",
-        "rågjenger": "",
-        "rødhud": "",
-        "rønner": "",
-        "røverunge": "",
-        "salderingspost": "",
         "salig blanding": "",
         "salomonisk dom": "",
-        "salongradikaler": "",
-        "saltstøtte": "",
-        "samfunnsstøtte": "",
-        "sandpåstrøer": "",
         "sann fryd": "",
-        "saueflokk": "",
-        "seierherre": "",
-        "selvmotsigelse": "",
-        "sentens": "",
-        "sexbombe": "",
-        "sfinks": "",
         "sinnrik plan": "",
-        "sirkushest": "",
         "siste hilsen": "",
-        "sjargong": "",
-        "sjarmoffensiv": "",
         "sjelden": {
             "gang": "",
             "gjest": ""
         },
-        "sjeldenhet": "",
-        "sjelevandring": "",
-        "skalk": "",
-        "skampæl": "",
-        "skapdranker": "",
-        "skillevei": "",
-        "skipperskrøne": "",
-        "skittentøyvask": "",
         "skjebne verre enn døden": "",
-        "skjelm": "",
-        "skjemtegauk": "",
-        "skjennepreken": "",
-        "skjønnhetsplett": "",
-        "skjørtejeger": "",
-        "skoggerlatter": "",
-        "skrell": "",
-        "skreppe": "",
-        "skrikhals": "",
-        "skrotnisse": "",
-        "skrulle": "",
         "skulder å gråte på": "",
-        "skurkestrek": "",
-        "skvaldrebøtte": "",
-        "skyggetilværelse": "",
-        "skyteskive": "",
-        "skytsengel": "",
-        "skyttergrav": "",
-        "skyttergravskrig": "",
-        "skårunge": "",
-        "skøyer": "",
-        "skøyerstrek": "",
-        "sladrekjerring": "",
-        "slagmark": "",
-        "slagplan": "",
-        "slengbemerkning": "",
-        "slikkmunn": "",
         "slu rev": "",
-        "slubbert": "",
-        "slugger": "",
-        "sluttstrek": "",
         "smal sak": "",
-        "smed": "",
         "smittende latter": "",
-        "småkonge": "",
-        "smøring": "",
-        "smørtenor": "",
-        "snelle": "",
-        "snobb": "",
-        "snok": "",
-        "snushane": "",
-        "snyltegjest": "",
-        "snøball": "",
-        "snøballeffekt": "",
-        "snørrvalp": "",
-        "sofabonde": "",
-        "sofagris": "",
-        "soper": "",
         "sorgens dag": "",
-        "soss": "",
-        "sparkepike": "",
-        "sparringspartner": "",
         "spiker i kista": "",
-        "spire": "",
-        "spissborger": "",
-        "spisskompetanse": "",
-        "spissrotgang": "",
-        "sprellemann": "",
-        "språkforsker": "",
-        "spyttslikker": "",
-        "spøkefugl": "",
-        "staffasje": "",
-        "stamfar": "",
-        "stamgjest": "",
-        "statist": "",
-        "stayer": "",
-        "stemningsbølge": "",
         "stille overenskomst": "",
-        "stivnakke": "",
         "stor kanon": "",
-        "stordåd": "",
         "storm i et vannglass": "",
-        "strandløve": "",
-        "strateg": "",
-        "strategi": "",
-        "streber": "",
-        "strek": "",
         "stri tørn": "",
-        "strikkball": "",
-        "stuegris": "",
-        "stymper": "",
-        "styrketår": "",
-        "ståpikk": "",
-        "støkk": "",
-        "suksessformel": "",
-        "sunnhetsapostel": "",
-        "suppedas": "",
-        "surpomp": "",
         "svale gjør ingen sommer": "",
-        "svanesang": "",
         "svart humor": "",
-        "sverm": "",
-        "svermer": "",
-        "svingdør": "",
-        "svint": "",
-        "svovelpredikant": "",
-        "syklubb": "",
-        "sylfide": "",
-        "syndebukk": "",
         "syndens pøl": "",
-        "synser": "",
-        "synsvinkel": "",
-        "såpeopera": "",
-        "særling": "",
-        "søtmons": "",
-        "søtsuppe": "",
-        "tabbe": "",
-        "taburett": "",
         "takknemlig oppgave": "",
-        "taktikker": "",
-        "talestrøm": "",
-        "tankeflukt": "",
-        "tankevekker": "",
-        "tante": "",
-        "titan": "",
-        "tjuagutt": "",
-        "tornerosesøvn": "",
-        "torpedo": "",
-        "tramp": "",
         "trang fødsel": "",
-        "tredemølle": "",
-        "trekant": "",
-        "tributt": "",
         "tro tjener": "",
         "trojansk hest": "",
-        "trope": "",
-        "tropenatt": "",
-        "trump": "",
-        "trøstepremie": "",
-        "tumleplass": "",
-        "tungetaler": "",
         "tur i det grønne": "",
-        "turistmagnet": "",
-        "tusenkunstner": "",
-        "tusseladd": "",
         "tynn forklaring": "",
-        "tåkeheim": "",
-        "tåreperse": "",
-        "tøffelhelt": "",
-        "tøs": "",
-        "ugagnskråke": "",
         "ukronet dronning": "",
         "ulmende uro": "",
         "ulv i fåreklær": "",
@@ -1647,50 +1001,16 @@
             "fisk": "",
             "skrue": ""
         },
-        "undermåler": "",
-        "underverden": "",
-        "ungkarskvinne": "",
-        "uskikk": "",
         "uslepen diamant": "",
-        "utflukt": "",
         "utro tjener": "",
-        "val": "",
-        "valfart": "",
-        "vampyr": "",
-        "vandrehistorie": "",
         "vanlig foreteelse": "",
         "varm": {
             "mottagelse": "",
             "potet": ""
         },
-        "varselklokke": "",
-        "vaskeseddel": "",
-        "velling": "",
-        "vellysting": "",
-        "verdensborger": "",
-        "verdensmester": "",
         "verpesjuk høne": "",
-        "versemaker": "",
-        "viktigper": "",
-        "villbasse": "",
-        "villkatt": "",
         "viss mann": "",
-        "vitsemaker": "",
-        "vriompeis": "",
-        "våghals": "",
         "våt drøm": "",
-        "værhane": "",
-        "xantippe": "",
-        "ågerkarl": "",
-        "ånd": "",
-        "årgangsvin": "",
-        "æresrunde": "",
-        "ødeland": "",
-        "øm": "",
-        "ørnenese": "",
-        "ønskedrøm": "",
-        "ønskekvist": "",
-        "øyentjener": "",
         "finger med i spillet": "",
         "fugl i hånden er bedre enn ti på taket": "",
         "god latter forlenger livet": "",
@@ -1722,282 +1042,90 @@
         }
     },
     "et": {
-        "A": "",
-        "adelsmerke": "",
-        "akterspeil": "",
-        "alvorsord": "",
-        "arbeidsjern": "",
         "avsluttet kapittel": "",
-        "bakteppe": "",
-        "ballespark": "",
-        "barometer": "",
         "bevinget ord": "",
         "bilde sier mer enn tusen ord": "",
         "billig poeng": "",
-        "blekansikt": "",
-        "blikkfang": "",
-        "blindspor": "",
-        "blodsbånd": "",
-        "bondefangeri": "",
         "brennende spørsmål": "",
-        "bruderov": "",
-        "bøllefrø": "",
         "columbi egg": "",
-        "comeback": "",
         "delikat spørsmål": "",
         "djevelens verk": "",
-        "dobbeltspill": "",
-        "dollarglis": "",
-        "dragsug": "",
         "drikk og vær glad": "",
         "drøyt stykke": "",
-        "dydsmønster": "",
         "dødfødt barn": "",
-        "dødskyss": "",
         "ekte mannfolk": "",
-        "elfenbeinstårn": "",
-        "elskovsrede": "",
-        "esel": "",
-        "ess": "",
-        "falkeblikk": "",
-        "fallrep": "",
-        "fantasibilde": "",
-        "farvann": "",
         "fast uttrykk": "",
-        "feilspor": "",
-        "fengsel": "",
-        "filigransarbeid": "",
         "flammende blikk": "",
-        "fnugg": "",
-        "fornuftsekteskap": "",
-        "forspill": "",
-        "forsvinningsnummer": "",
-        "fossil": "",
-        "frimerke": "",
         "fromt ønske": "",
-        "froskeperspektiv": "",
-        "froskeskudd": "",
-        "fugleperspektiv": "",
-        "fyndord": "",
-        "fyrtårn": "",
         "første skritt": "",
-        "gjenferd": "",
-        "glansbilde": "",
-        "glasshus": "",
-        "glasstak": "",
         "glemselens slør": "",
         "grepa kvinnfolk": "",
         "gudsforlatt sted": "",
         "gudsord fra landet": "",
         "gullkantet papir": "",
-        "halmstrå": "",
         "hardnakket rykte": "",
-        "harehjerte": "",
-        "hasardspill": "",
-        "hekseskudd": "",
         "helvete på jord": "",
         "helvetes liv": "",
-        "hemmelighetskremmeri": "",
-        "herremåltid": "",
         "herrens vær": "",
-        "hespetre": "",
-        "hestehode": "",
         "himmelsk måltid": "",
-        "hjertebarn": "",
-        "hjertesukk": "",
-        "humlebol": "",
-        "hundeliv": "",
-        "hundevær": "",
-        "hverdagsmenneske": "",
-        "hylekor": "",
         "hår i suppa": "",
-        "justismord": "",
-        "kaffeslabberas": "",
-        "kall": "",
-        "kallenavn": "",
         "kappløp med tiden": "",
         "kinkig spørsmål": "",
-        "kjærlighetsbarn": "",
-        "klengenavn": "",
-        "klippekort": "",
         "klokt hode": "",
-        "knep": "",
-        "knipetak": "",
-        "knot": "",
-        "kors": "",
-        "kort": "",
-        "kraftuttrykk": "",
-        "krakk": "",
-        "krigshyl": "",
-        "kråkemål": "",
-        "kråkeslott": "",
-        "kråketing": "",
-        "kupp": "",
-        "kvantesprang": "",
         "langt lerret å bleke": "",
-        "lappverk": "",
-        "lavmål": "",
         "ledende spørsmål": "",
         "levende": {
             "lik": "",
             "lys": ""
         },
-        "lotteri": "",
         "lukket kapitel": "",
-        "lurveleven": "",
-        "lyn": "",
-        "lyspunkt": "",
         "lystig lag": "",
-        "låneord": "",
         "lønnlig håp": "",
-        "malapropos": "",
-        "malerskrin": "",
-        "mareritt": "",
-        "matfat": "",
-        "mehe": "",
-        "mellomspill": "",
-        "mellomværende": "",
-        "melodrama": "",
-        "men": "",
-        "miksmaks": "",
-        "monstrum": "",
-        "motto": "",
-        "muldvarparbeid": "",
-        "munnhuggeri": "",
-        "museskritt": "",
-        "nappetak": "",
-        "natursvin": "",
-        "nummer": "",
-        "nurk": "",
-        "nådestøt": "",
-        "nåløye": "",
-        "nødrop": "",
-        "nødskrik": "",
-        "offer": "",
         "oppgjør på kammerset": "",
-        "oppnavn": "",
-        "oppstøt": "",
-        "orakel": "",
         "ord er et ord": "",
-        "ordgyteri": "",
-        "ordtak": "",
-        "overflødighetshorn": "",
-        "pakk": "",
-        "paradoks": "",
-        "pengesluk": "",
-        "pokerfjes": "",
         "pust": {
             "fra den store verden": "",
             "i sivet": ""
         },
-        "rabalder": "",
-        "radarpar": "",
-        "ramaskrik": "",
-        "rottereir": "",
-        "rulleblad": "",
-        "råskinn": "",
         "rødt kort": "",
-        "røverkjøp": "",
-        "selvbedrag": "",
-        "selvmål": "",
-        "sidespor": "",
-        "signalbygg": "",
         "sikkert kort": "",
-        "sisyfosarbeid": "",
-        "skipperskjønn": "",
         "skjevt": {
             "ord": "",
             "smil": ""
         },
-        "skoleeksempel": "",
         "skrekkens eksempel": "",
-        "skrekkvelde": "",
         "skritt i riktig retning": "",
         "skudd": {
             "for baugen": "",
             "i blinde": ""
         },
-        "skuldertrekk": "",
         "slag": {
             "i lufta": "",
             "under beltestedet": ""
         },
-        "slagord": "",
-        "slangemenneske": "",
-        "sleivspark": "",
-        "slengkyss": "",
-        "slumpetreff": "",
-        "smellkyss": "",
-        "smutthull": "",
-        "smørøye": "",
-        "snakketøy": "",
-        "snyltedyr": "",
-        "solbad": "",
-        "solskinnsbarn": "",
-        "spark": "",
         "spill av tid og krefter": "",
         "spisst svar": "",
         "sprang ut i det uvisse": "",
-        "spøkelsesslott": "",
-        "stamtre": "",
-        "statusjag": "",
-        "statussymbol": "",
         "steg i riktig retning": "",
-        "stinkdyr": "",
         "stivt blikk": "",
         "strå hvassere": "",
-        "strømpeskudd": "",
         "stående uttrykk": "",
-        "supperåd": "",
         "svaiende siv": "",
         "svakt punkt": "",
-        "svarteperspill": "",
-        "svartsyn": "",
         "sørgelig kapitel": "",
         "takknemlig offer": "",
-        "takras": "",
-        "tankegods": "",
-        "tankekorn": "",
-        "tigersprang": "",
         "tilfeldighetenes spill": "",
-        "tilnavn": "",
-        "trekantforhold": "",
-        "troll": "",
-        "trumfkort": "",
-        "trylleslag": "",
-        "trynetillegg": "",
-        "trøstemål": "",
         "tveegget sverd": "",
-        "tvisyn": "",
         "uekte barn": "",
-        "umenneske": "",
-        "unikum": "",
         "urent farvann": "",
-        "urinstinkt": "",
-        "utdrikkingslag": "",
-        "utnavn": "",
-        "uttrykk": "",
         "vandrende leksikon": "",
-        "vanedyr": "",
-        "vanemenneske": "",
-        "vepsebol": "",
         "viktig skritt på vegen": "",
-        "villnis": "",
-        "vink": "",
-        "vrak": "",
-        "vrengebilde": "",
         "vulgært språk": "",
-        "åndsverk": "",
-        "åsyn": "",
-        "æresord": "",
         "ømtålig emne": "",
-        "ørneblikk": "",
-        "øye på hver finger": "",
-        "øyekast": "",
-        "øyenvitne": "",
         "Columbi egg": "",
         "kaldt hjerte": "",
         "steinkast unna": "",
+        "øye på hver finger": "",
         "skår i gleden": ""
     },
     "ete": {
@@ -2011,22 +1139,16 @@
         "alt å dømme": "",
         "beste evne": "",
         "fattig evne": "",
-        "hånden": "",
-        "læreboka": "",
         "moden overveielse": "",
         "oss kommer syndfloden": "",
         "sitt eget hode": ""
     },
-    "faen": {
-        "heller": "",
-        "i helvete": ""
-    },
+    "faen i helvete": "",
     "falle": {
         "av stolen": "",
         "blant røvere": "",
         "for fote": "",
         "heldig ut": "",
-        "hodestups": "",
         "i": {
             "gråt": "",
             "søvn": "",
@@ -2036,18 +1158,13 @@
             "fristelse": "",
             "god jord": ""
         },
-        "igjennom": "",
         "mellom to stoler": "",
-        "nesegrus": "",
         "noen til byrde": "",
-        "om": "",
-        "pladask": "",
         "på steingrunn": "",
         "til jorden": "",
         "tilbake til gamle synder": "",
         "ut av rollen": ""
     },
-    "falsk alarm": "",
     "famle": {
         "etter noe": "",
         "seg frem": "",
@@ -2058,21 +1175,9 @@
         "og hans oldemor": "",
         "er løs": ""
     },
-    "fare": {
-        "ille": "",
-        "sammen": ""
-    },
-    "fast eiendom": "",
-    "fatte seg": "",
-    "favne vidt": "",
     "feie all tvil til side": "",
-    "feiende flott": "",
-    "felle krokodilletårer": "",
     "feste seg ved noe": "",
     "finne": {
-        "formen": "",
-        "hverandre": "",
-        "lykken": "",
         "opp hjulet på nytt": "",
         "seg": {
             "selv": "",
@@ -2085,23 +1190,12 @@
     "fiske i rørt vann": "",
     "fit for fight": "",
     "flagge på halv stang": "",
-    "flakke omkring": "",
-    "flaske opp": "",
     "flat som en pannekake": "",
-    "flekke tenner": "",
-    "flippe ut": "",
-    "flire bredt": "",
     "fly": {
         "etter jentene": "",
         "i flint": "",
-        "opp": "",
         "ute om kveldene": ""
     },
-    "flytte": {
-        "grenser": "",
-        "sammen": ""
-    },
-    "folk flest": "",
     "for": {
         "alle tilfellers skyld": "",
         "alt i verden": "",
@@ -2111,7 +1205,6 @@
         "et vær": "",
         "full rulle": "",
         "godt til å være sant": "",
-        "helvete": "",
         "knapper og glansbilder": "",
         "lukkede dører": "",
         "ordens skyld": "",
@@ -2122,13 +1215,9 @@
         "å gjøre en lang historie kort": "",
         "Gud er alt mulig": ""
     },
-    "forløfte seg": "",
     "fornemme historiens sus": "",
     "fornøyelsen er på min side": "",
     "forsikre på ære og samvittighet": "",
-    "forslitte fraser": "",
-    "forsnakke seg": "",
-    "forstrekke seg": "",
     "forstå": {
         "det den som kan": "",
         "en halvkvedet vise": ""
@@ -2138,8 +1227,6 @@
         "i løse luften": "",
         "som en ånd i en fillehaug": ""
     },
-    "forsømme seg": "",
-    "fort vekk": "",
     "forut for sin tid": "",
     "fra": {
         "a til å": "",
@@ -2153,8 +1240,7 @@
         "topp til tå": "",
         "øverste hylle": "",
         "asken til ilden": "",
-        "issen til fotsålen": "",
-        "arildstid": ""
+        "issen til fotsålen": ""
     },
     "fram og tilbake er like langt": "",
     "fred og ingen fare": "",
@@ -2164,20 +1250,8 @@
         "og bevare meg vel": "",
         "som fuglen": ""
     },
-    "frie tøyler": "",
     "frisk som en fisk": "",
-    "friskt": {
-        "blod": "",
-        "mot": ""
-    },
     "fråde av raseri": "",
-    "fugl Føniks": "",
-    "full": {
-        "pakke": "",
-        "pott": "",
-        "som en alke": "",
-        "baluba": ""
-    },
     "fullt": {
         "hus og stormende jubel": "",
         "og helt": ""
@@ -2221,31 +1295,22 @@
             "grunnskudd": "",
             "hint": ""
         },
-        "fingeren": "",
         "fingrene i noe": "",
         "foten innenfor": "",
         "fritt løp": "",
         "full pakke": "",
-        "fyken": "",
-        "gjennomgå": "",
         "greie på noe": "",
-        "grisebank": "",
         "gult kort": "",
         "has på noen": "",
-        "hetta": "",
         "hodet over vannet": "",
         "huden full": "",
-        "jernteppe": "",
         "kloa i noe": "",
         "kniven på strupen": "",
-        "kurven": "",
         "lang nese": "",
-        "latterkrampe": "",
         "lønn for": {
             "strevet": "",
             "sitt strev": ""
         },
-        "løpepass": "",
         "mye for pengene": "",
         "noe": {
             "attpå": "",
@@ -2263,9 +1328,6 @@
         },
         "nyss om noe": "",
         "opp dampen": "",
-        "oppreisning": "",
-        "planke": "",
-        "primadonnanykker": "",
         "riper i lakken": "",
         "ro i sjelen": "",
         "rødt lys": "",
@@ -2286,7 +1348,6 @@
         },
         "sitt pass påskrevet": "",
         "snøret i bånn": "",
-        "stryk": "",
         "så": {
             "ørene flagrer": "",
             "hatten passer": ""
@@ -2333,31 +1394,22 @@
             "på kjøpet": "",
             "strømmen": ""
         },
-        "sitt eget hode": "",
-        "slavisk": ""
+        "sitt eget hode": ""
     },
-    "følges ad": "",
     "før": {
         "hanen galer": "",
         "man aner det": ""
     },
     "føre": {
-        "an": "",
         "det store ord": "",
         "for vidt": "",
         "stort hus": "",
         "til slakterbenken": "",
-        "vill": "",
         "noen bak lyset": "",
         "i marken": ""
     },
     "først og fremst": "",
     "føye spott til skade": "",
-    "gamle": {
-        "dager": "",
-        "kumpaner": "",
-        "synder": ""
-    },
     "gammel": {
         "kjærlighet ruster ikke": "",
         "som": {
@@ -2372,14 +1424,10 @@
     "gi": {
         "avkall på noe": "",
         "bakerens barn brød": "",
-        "fødselshjelp": "",
-        "gass": "",
-        "gjenklang": "",
         "igjen med": {
             "renter": "",
             "samme mynt": ""
         },
-        "jernet": "",
         "med rund hånd": "",
         "noen en ørefik": "",
         "og ta": "",
@@ -2403,7 +1451,6 @@
     },
     "gjøre": {
         "alt som står i ens makt": "",
-        "anskrik": "",
         "det": {
             "forbi": "",
             "helt store": "",
@@ -2422,18 +1469,13 @@
             "kvantesprang": "",
             "varp": ""
         },
-        "fakter": "",
-        "furore": "",
         "gagns arbeid": "",
         "gode miner til slett spill": "",
-        "grimaser": "",
         "gull av gråstein": "",
         "hverken fra eller til": "",
         "kur til noen": "",
-        "kvalm": "",
         "kål på noen": "",
         "lite av seg": "",
-        "miner": "",
         "natt til dag": "",
         "noe": {
             "godt igjen": "",
@@ -2446,7 +1488,6 @@
             "et mellomværende": "",
             "sitt bestikk": ""
         },
-        "rampestreker": "",
         "rent bord": "",
         "rett": {
             "for maten": "",
@@ -2475,15 +1516,11 @@
         "studier i marken": "",
         "svart til hvitt": "",
         "svenske av seg": "",
-        "ugagn": "",
-        "underverker": "",
-        "utslaget": "",
         "vesen av seg": "",
         "noen en bjørnetjeneste": "",
         "vei i vellingen": "",
         "livet surt for noen": "",
-        "vann til vin": "",
-        "baut": ""
+        "vann til vin": ""
     },
     "glatt som en barnerumpe": "",
     "gleden er på min side": "",
@@ -2492,50 +1529,31 @@
         "ved sitt fråvær": ""
     },
     "glimt i øyet": "",
-    "glimte til": "",
     "gni": {
         "salt i såret": "",
         "seg i hendene": ""
     },
     "god som gull": "",
-    "gode": {
-        "busser": "",
-        "miner til slett spill": ""
-    },
     "gods og gull": "",
-    "godt": {
-        "brølt , løve": "",
-        "parti": ""
-    },
+    "godt brølt , løve": "",
     "granske hjerter og nyrer": "",
-    "grave": {
-        "grøfter": "",
-        "sin egen grav": ""
-    },
-    "grei skuring": "",
-    "greie brasene": "",
+    "grave sin egen grav": "",
     "gresset er alltid grønnere på den andre siden": "",
     "gripe": {
         "dypt i pungen": "",
-        "inn": "",
-        "sjansen": "",
         "til sverd": ""
     },
-    "grov kjeft": "",
-    "grovt skyts": "",
     "gråte": {
         "over spilt melk": "",
         "som et barn": "",
         "tørre tårer": ""
     },
     "gud": {
-        "forby": "",
         "og hvermann": "",
         "elsker en glad giver": ""
     },
     "gudsord fra landet": "",
     "gul og blå": "",
-    "gullet mitt": "",
     "gå": {
         "all kjødets gang": "",
         "arm i arm": "",
@@ -2545,12 +1563,6 @@
             "seg selv": "",
             "stabelen": ""
         },
-        "bakveier": "",
-        "bananas": "",
-        "beit": "",
-        "berserk": "",
-        "bort": "",
-        "botsgang": "",
         "både vinter og vår": "",
         "den": {
             "tunge gang": "",
@@ -2558,7 +1570,6 @@
         },
         "en dyster fremtid i møte": "",
         "fem på": "",
-        "fiskebein": "",
         "for": {
             "egen maskin": "",
             "full fres": "",
@@ -2567,7 +1578,6 @@
             "lut og kaldt vann": "",
             "seg": ""
         },
-        "foran": "",
         "fra": {
             "dør til dør": "",
             "hus til hus": "",
@@ -2578,13 +1588,9 @@
             "sans og samling": "",
             "vondt til verre": ""
         },
-        "føyken": "",
         "glipp av noe": "",
-        "gradene": "",
         "grundig til verks": "",
-        "heden": "",
         "hele veien": "",
-        "hjem": "",
         "hull på byllen": "",
         "hver": {
             "sin vei": "",
@@ -2617,7 +1623,6 @@
             "ball": "",
             "boks": ""
         },
-        "igjen": "",
         "imot strømmen": "",
         "inn i": {
             "sitt lønnkammer": "",
@@ -2679,18 +1684,15 @@
             "vante gang": ""
         },
         "sine egne veier": "",
-        "smertefritt": "",
         "som": {
             "fot i hose": "",
             "på skinner": "",
             "varmt hvetebrød": ""
         },
-        "spissrotgang": "",
         "stille i": {
             "dørene": "",
             "gangene": ""
         },
-        "tapt": "",
         "til": {
             "Bloksberg": "",
             "Canossa": "",
@@ -2713,7 +1715,6 @@
             "åket": "",
             "jorden": ""
         },
-        "unna": "",
         "ut": {
             "i hundre": "",
             "med noe": "",
@@ -2731,18 +1732,13 @@
         "hus forbi": "",
         "sport i": "",
         "med livet i hendene": "",
-        "ad undas": "",
-        "amok": "",
-        "fløyten": "",
-        "kanossagang": ""
+        "ad undas": ""
     },
     "går det , så går det": "",
     "ha": {
         "adresse til noen": "",
         "alle odds mot seg": "",
         "antennene ute": "",
-        "appell": "",
-        "barnetekke": "",
         "bange anelser": "",
         "begge beina på jorda": "",
         "bukten og begge endene": "",
@@ -2818,11 +1814,7 @@
             "ord på seg": "",
             "sovehjerte": ""
         },
-        "griseflaks": "",
-        "hastverk": "",
         "hellet med seg": "",
-        "hjertebank": "",
-        "hjertelag": "",
         "hodet": {
             "med seg": "",
             "over vannet": ""
@@ -2830,19 +1822,15 @@
         "is i magen": "",
         "kniven på strupen": "",
         "kort lunte": "",
-        "lampefeber": "",
         "lang lunte": "",
         "lange ører": "",
         "lett for det": "",
         "livets rett": "",
-        "magemål": "",
         "magiske evner": "",
         "mange": {
             "jern i ilden": "",
             "år på baken": ""
         },
-        "mannsmot": "",
-        "medvind": "",
         "mer": {
             "inne": "",
             "på lager": ""
@@ -2872,17 +1860,13 @@
             }
         },
         "noen i ryggen": "",
-        "næringsvett": "",
         "ondt i sinne": "",
         "ordet i sin makt": "",
-        "orkesterplass": "",
         "penger": {
             "mellom hendene": "",
             "som gress": ""
         },
         "plettfri vandel": "",
-        "pokerfjes": "",
-        "primadonnanykker": "",
         "rene linjer": "",
         "rent rulleblad": "",
         "ro i sjelen": "",
@@ -2901,7 +1885,6 @@
             "å stri med": "",
             "på det tørre": ""
         },
-        "skamvett": "",
         "skarpe kanter": "",
         "skumle hensikter": "",
         "skutt gullfuglen": "",
@@ -2917,14 +1900,11 @@
             "takhøyde": ""
         },
         "store ører": "",
-        "stålkontroll": "",
         "støv på hjernen": "",
         "svar på rede hånd": "",
-        "teft": "",
         "tiden for seg": "",
         "trange kår": "",
         "trådt sine barnesko": "",
-        "utstråling": "",
         "vettet i behold": "",
         "værgudene med seg": "",
         "bein i nesen": "",
@@ -2940,9 +1920,7 @@
     "hadde jeg nesten sagt": "",
     "hakk i plata": "",
     "hal i og dra": "",
-    "hale innpå": "",
     "halvparten kunne vært nok": "",
-    "hamre løs": "",
     "han": {
         "ba om det": "",
         "er": {
@@ -2964,10 +1942,7 @@
         "du klave , får du ku": "",
         "man sagt A , får man si B": ""
     },
-    "hard valuta": "",
-    "harve over": "",
     "hastverk er lastverk": "",
-    "havets sølv": "",
     "havne": {
         "i rennesteinen": "",
         "midt i smørøyet": "",
@@ -2976,25 +1951,14 @@
             "viddene": ""
         }
     },
-    "hei sveis": "",
     "heise hvitt flagg": "",
     "hekte seg på": "",
-    "hele": {
-        "dagen til ende": "",
-        "kostebinderiet": "",
-        "suppa": "",
-        "sulamitten": ""
-    },
+    "hele dagen til ende": "",
     "helle": {
         "kaldt vann i blodet": "",
         "malurt i begeret": "",
         "olje på bølgene": ""
     },
-    "helt": {
-        "pyton": "",
-        "i hundre": ""
-    },
-    "helvete heller": "",
     "henge": {
         "bjella på katten": "",
         "i": {
@@ -3029,14 +1993,7 @@
         "i steinrøysa": "",
         "og der": ""
     },
-    "hevde seg": "",
-    "heve": {
-        "lista": "",
-        "pekefingeren": "",
-        "sin røst": "",
-        "taffelet": "",
-        "øyenbrynene": ""
-    },
+    "heve sin røst": "",
     "hevnen er søt": "",
     "hevnens time er kommet": "",
     "himmel og hav": "",
@@ -3065,8 +2022,6 @@
             "hevd": "",
             "sjakk": ""
         },
-        "koken": "",
-        "krigsråd": "",
         "kruttet tørt": "",
         "liv i håpet": "",
         "nervene i ro": "",
@@ -3104,14 +2059,7 @@
             }
         },
         "sin sti ren": "",
-        "skansen": "",
-        "stand": "",
-        "stikk": "",
         "tann for tunge": "",
-        "tett": "",
-        "tråden": "",
-        "vann": "",
-        "været": "",
         "åpent hus": "",
         "ørene stive": "",
         "øyne og ører åpne": "",
@@ -3127,25 +2075,20 @@
             "i svingen": "",
             "karusellen": ""
         },
-        "bukk": "",
-        "inn": "",
         "over": {
             "der gjerdet er lavest": "",
             "noe": ""
         },
-        "paradis": "",
         "på noe": "",
         "etter Wirkola": ""
     },
     "hoste opp noe": "",
     "hovmod står for fall": "",
-    "huff da": "",
     "hummer og kanari": "",
     "humpe og gå": "",
     "hun er ingen hvem som helst": "",
     "hundre og ett er ute": "",
     "hva": {
-        "behager": "",
         "byr du meg": "",
         "er det": {
             "for en tone": "",
@@ -3155,7 +2098,6 @@
         "kom først , høna eller egget": "",
         "skal det være godt for": ""
     },
-    "hvem vet": "",
     "hver": {
         "evige dag": "",
         "fugl synger med sitt nebb": "",
@@ -3187,24 +2129,17 @@
     "håpet er lysegrønt": "",
     "høre": {
         "englene synge": "",
-        "hjemme": "",
-        "innom": "",
         "til": {
             "dagens orden": "",
             "sjeldenhetene": ""
         },
         "en knappenål falle": ""
     },
-    "høste": {
-        "laurbær": "",
-        "som man sår": ""
-    },
     "høyt": {
         "henger de og sure er de": "",
         "og lavt": ""
     },
     "i": {
-        "adamsdrakt": "",
         "all": {
             "beskjedenhet": "",
             "sin prakt": ""
@@ -3213,10 +2148,7 @@
         "angst og beven": "",
         "annen rekke": "",
         "bare nettoen": "",
-        "beit": "",
         "bokstavelig forstand": "",
-        "bøttevis": "",
-        "dag": "",
         "daglig tale": "",
         "de rette hender": "",
         "den": {
@@ -3237,12 +2169,9 @@
         "disse ulvetider": "",
         "djevelens skinn og bein": "",
         "dobbelt forstand": "",
-        "dusinvis": "",
-        "dødvanne": "",
         "egne øyne": "",
         "en snarvending": "",
         "ett jafs": "",
-        "evadrakt": "",
         "flokk og følge": "",
         "full": {
             "krigsmaling": "",
@@ -3256,7 +2185,6 @@
         },
         "gamle dager": "",
         "god tid": "",
-        "grus": "",
         "hine hårde dager": "",
         "hjemmets lune rede": "",
         "hui og hast": "",
@@ -3266,9 +2194,7 @@
             "pine": ""
         },
         "kampens hete": "",
-        "klartekst": "",
         "langsom kino": "",
-        "lengden": "",
         "ly av": "",
         "løse luften": "",
         "min": {
@@ -3283,7 +2209,6 @@
         "og for seg": "",
         "overskuelig fremtid": "",
         "parentes bemerket": "",
-        "rad": "",
         "ro og mak": "",
         "sammenligning med": "",
         "sin": {
@@ -3298,9 +2223,7 @@
         },
         "sju lange og sju brede": "",
         "skrift og tale": "",
-        "slag": "",
         "smult vann": "",
-        "sneglefart": "",
         "storm og stille": "",
         "stramme tøyler": "",
         "stumper og stykker": "",
@@ -3312,10 +2235,8 @@
         "tolvte time": "",
         "tukt og ære": "",
         "ungdommens vår": "",
-        "vigør": "",
         "åndeløs spenning": "",
         "årenes løp": "",
-        "øyeblikket": "",
         "grevens tid": "",
         "kjølvannet av noe": "",
         "mørket er alle katter grå": "",
@@ -3353,7 +2274,6 @@
         },
         "fatte og begripe": "",
         "finne seg i noe": "",
-        "flisa": "",
         "friste skjebnen": "",
         "få frem et ord": "",
         "gi": {
@@ -3428,7 +2348,6 @@
         "til dags dato": "",
         "tro på julenissen": "",
         "tåle dagens lys": "",
-        "ueffen": "",
         "utfordre skjebnen": "",
         "verdens undergang": "",
         "ville": {
@@ -3478,7 +2397,6 @@
         "slinger i valsen": "",
         "verdens ting": "",
         "vet hvor haren hopper": "",
-        "årsak": "",
         "roser uten torner": "",
         "trær vokser inn i himmelen": ""
     },
@@ -3489,12 +2407,10 @@
     },
     "ja": {
         ",": {
-            "bevares": "",
             "det skal jeg hilse og si": "",
             "er du gal": "",
             "si det": ""
         },
-        "takk": "",
         "og amen": ""
     },
     "jeg": {
@@ -3536,22 +2452,15 @@
         "før , jo heller": "",
         "flere kokker , desto mere søl": ""
     },
-    "jon Blund": "",
-    "jordisk gods": "",
     "jubelen står i taket": "",
     "juvelen i krona": "",
-    "jøye seg": "",
     "kan du fatte og begripe": "",
-    "kari Nordmann": "",
     "kaste": {
-        "anker": "",
         "blår i øynene på": {
             "noen": "",
             "en": ""
         },
         "gode penger etter dårlige": "",
-        "kortene": "",
-        "lodd": "",
         "lys over noe": "",
         "med nakken": "",
         "over bord": "",
@@ -3568,7 +2477,6 @@
         "mynt og kron": ""
     },
     "keiserens nye klær": "",
-    "kirsten Giftekniv": "",
     "kjefte og smelle": "",
     "kjempe": {
         "for en god sak": "",
@@ -3587,7 +2495,6 @@
         "sine pappenheimere": "",
         "sin besøkelsestid": ""
     },
-    "kjente strofer": "",
     "kjerringa mot strømmen": "",
     "kjærlighet gjør blind": "",
     "kjært barn har mange navn": "",
@@ -3605,25 +2512,13 @@
     "kjøtt og blod": "",
     "klage sin nød": "",
     "klappe til kai": "",
-    "klare": {
-        "brasene": "",
-        "det kunststykket å": ""
-    },
-    "klin kokos": "",
+    "klare det kunststykket å": "",
     "klokka er fem på tolv": "",
     "klore til seg": "",
     "klø seg bak øret": "",
     "kneise med nakken": "",
-    "knekke": {
-        "koden": "",
-        "sammen av latter": ""
-    },
+    "knekke sammen av latter": "",
     "knipe igjen det ene øyet": "",
-    "knuse noen": "",
-    "knytte": {
-        "nevene": "",
-        "vennskapsbånd": ""
-    },
     "koble inn turboen": "",
     "koke": {
         "bort i kålen": "",
@@ -3637,7 +2532,6 @@
             "hjertet": ""
         },
         "frem i verden": "",
-        "fykende": "",
         "først til mølla": "",
         "gjennom nåløyet": "",
         "godt med": "",
@@ -3746,17 +2640,11 @@
         "høyt på strå": ""
     },
     "kommer tid , kommer råd": "",
-    "konfirmere noen": "",
-    "kong Alkohol": "",
     "kort": {
         "og godt": "",
         "i ermet": ""
     },
-    "koste": {
-        "en formue": "",
-        "på": "",
-        "skjorta": ""
-    },
+    "koste en formue": "",
     "krake søker make": "",
     "kreti og pleti": "",
     "kronen på verket": "",
@@ -3776,9 +2664,7 @@
         "vente seg": ""
     },
     "kunnskap er makt": "",
-    "kutte navlestrengen": "",
     "kvele noe i fødselen": "",
-    "kvesse pennen": "",
     "kvinnens eldste yrke": "",
     "kysse og kline": "",
     "kysten er klar": "",
@@ -3788,7 +2674,6 @@
             "være sagt": "",
             "gå sport i": ""
         },
-        "gå": "",
         "handling følge ord": "",
         "humla suse": "",
         "noe ligge": "",
@@ -3802,19 +2687,15 @@
         "nåde gå for rett": "",
         "de døde begrave de døde": ""
     },
-    "lade batteriene": "",
     "lage": {
         "et forsvinningsnummer": "",
         "gull av gråstein": "",
-        "ris til egen bak": "",
-        "spetakkel": "",
-        "spillopper": ""
+        "ris til egen bak": ""
     },
     "lakke": {
         "og li": "",
         "mot enden": ""
     },
-    "late vannet": "",
     "legge": {
         "ansiktet i de rette folder": "",
         "beslag på": {
@@ -3828,7 +2709,6 @@
             "alen til sin vekst": ""
         },
         "godviljen til": "",
-        "gullegget": "",
         "hendene i fanget": "",
         "hodet": {
             "i bløt": "",
@@ -3921,22 +2801,17 @@
             "stor fot": "",
             "luft og kjærlighet": ""
         },
-        "sammen": "",
         "som": {
             "en greve": "",
             "hund og katt": ""
         }
     },
-    "levere varene": "",
     "lide": {
         "av stormannsgalskap": "",
-        "en ublid skjebne": "",
-        "nederlag": ""
+        "en ublid skjebne": ""
     },
     "ligge": {
-        "bak": "",
         "et hakk over": "",
-        "frempå": "",
         "hulter til bulter": "",
         "i": {
             "luften": "",
@@ -3945,7 +2820,6 @@
         },
         "lavt i terrenget": "",
         "med noen": "",
-        "paddeflat": "",
         "på": {
             "det siste": "",
             "hjul": "",
@@ -3970,15 +2844,12 @@
         "på kanten": ""
     },
     "liv og lemmer": "",
-    "lodde stemningen": "",
     "loddet er kastet": "",
-    "loppe noen": "",
     "love": {
         "bot og bedring": "",
         "gull og grønne skoger": ""
     },
     "lovens ånd og lovens bokstav": "",
-    "lufte noe": "",
     "luke bort noe": "",
     "lukke": {
         "seg inne i seg selv": "",
@@ -3990,7 +2861,6 @@
         "noen trill rundt": ""
     },
     "lykken står den kjekke bi": "",
-    "lykkens pamfilius": "",
     "lynet slår ned": "",
     "lytte": {
         "med et halvt øre": "",
@@ -4003,9 +2873,7 @@
     "lære i livets skole": "",
     "løfte": {
         "i flokk": "",
-        "pekefingeren": "",
-        "seg selv etter håret": "",
-        "øyenbrynene": ""
+        "seg selv etter håret": ""
     },
     "løpe": {
         "beina av seg": "",
@@ -4013,21 +2881,7 @@
         "i vann": "",
         "linen ut": ""
     },
-    "løse": {
-        "den gordiske knute": "",
-        "floken": ""
-    },
-    "løst": {
-        "krutt": "",
-        "snakk": ""
-    },
-    "løvens": {
-        "gap": "",
-        "huie": "",
-        "klo": ""
-    },
-    "mager kost": "",
-    "maktens tinde": "",
+    "løse den gordiske knute": "",
     "male": {
         "med bred pensel": "",
         "som en katt": "",
@@ -4063,10 +2917,6 @@
         "om beinet": "",
         "skjær i sjøen": ""
     },
-    "mangle": {
-        "gangsyn": "",
-        "ryggrad": ""
-    },
     "mann": {
         "og mus": "",
         "for sin hatt": ""
@@ -4083,18 +2933,15 @@
         }
     },
     "mat for guder": "",
-    "mate krabbene": "",
     "med": {
         "andre ord": "",
         "bevende hjerte": "",
         "bind for øynene": "",
         "blandede følelser": "",
-        "bravur": "",
         "bred penn": "",
         "bristende hjerte": "",
         "det blotte øye": "",
         "djevelens vold og makt": "",
-        "dødsforakt": "",
         "et": {
             "pennestrøk": "",
             "smil om munnen": "",
@@ -4118,9 +2965,7 @@
         "nød og neppe": "",
         "ondt skal ondt fordrives": "",
         "ordet i sin makt": "",
-        "rakettfart": "",
         "rund hånd": "",
-        "sjumilsstøvler": "",
         "skam å melde": "",
         "skrått blikk": "",
         "venstre hånd": "",
@@ -4140,12 +2985,9 @@
         "livet i hendene": "",
         "hud og hår": ""
     },
-    "meg her": "",
     "meie sin egen kake": "",
     "mellom": {
         "barken og veden": "",
-        "brødre": "",
-        "linjene": "",
         "oss sagt": "",
         "to permer": ""
     },
@@ -4169,24 +3011,10 @@
             "treet": ""
         }
     },
-    "mikkel rev": "",
     "min": {
         "forstand står stille": "",
         "munn er lukket med syv segl": ""
     },
-    "miste": {
-        "bakkekontakten": "",
-        "fatningen": "",
-        "fotfestet": "",
-        "gangsynet": "",
-        "hodet": "",
-        "motet": "",
-        "piffen": "",
-        "tråden": "",
-        "både munn og mæle": "",
-        "ansikt": ""
-    },
-    "mor Norge": "",
     "mot": {
         "all sunn fornuft": "",
         "alle odds": "",
@@ -4194,7 +3022,6 @@
         "sin vilje": ""
     },
     "musa som brølte": "",
-    "mutters alene": "",
     "mye": {
         "skrik og lite ull": "",
         "står på spill": "",
@@ -4212,8 +3039,6 @@
         "til pers": "",
         "velge mellom pest og kolera": ""
     },
-    "mørkets fyrste": "",
-    "mørklegge noe": "",
     "mørkt som i en sekk": "",
     "møte": {
         "sin overmann": "",
@@ -4221,24 +3046,17 @@
     },
     "møtes til holmgang": "",
     "narr meg ikke til å le": "",
-    "naturens": {
-        "luner": "",
-        "muntre sønn": ""
-    },
-    "nei": {
-        ",": {
-            "den er for tjukk": "",
-            "er du gal": "",
-            "si det": "",
-            "ærlig talt": ""
-        },
-        "takk": ""
+    "naturens muntre sønn": "",
+    "nei ,": {
+        "den er for tjukk": "",
+        "er du gal": "",
+        "si det": "",
+        "ærlig talt": ""
     },
     "nervene står på høykant": "",
     "noe": {
         "er i gjære": "",
         "for enhver smak": "",
-        "muffens": "",
         "skjærer seg": "",
         "å bite i": ""
     },
@@ -4251,10 +3069,7 @@
     "nord for Sinsenkrysset": "",
     "notere seg for noe": "",
     "null komma niks": "",
-    "nye": {
-        "koster feier best": "",
-        "krefter": ""
-    },
+    "nye koster feier best": "",
     "nyte godt av noe": "",
     "nå": {
         "begynner det å bli moro": "",
@@ -4299,15 +3114,10 @@
         "dermed basta": "",
         "fanden og hans oldemor": ""
     },
-    "ola Nordmann": "",
     "om": {
         "blikk kunne drepe": "",
-        "dagen": "",
-        "enn": "",
-        "forlatelse": "",
         "jeg så må si": ""
     },
-    "onkel politi": "",
     "opp": {
         "ad dage": "",
         "med hodet": "",
@@ -4318,7 +3128,6 @@
     },
     "oppe i det blå": "",
     "opprette ro og orden": "",
-    "oppriktig talt": "",
     "ord": {
         "blir fattige": "",
         "med brodd": "",
@@ -4329,29 +3138,16 @@
         "hals og hode": "",
         "hodet på noen": "",
         "mitt lik": "",
-        "tid": "",
         "stokk og stein": "",
         "skyene er himmelen alltid blå": "",
         "en lav sko": ""
     },
-    "overkjøre noen": "",
     "overleve seg selv": "",
-    "overta": {
-        "klubba": "",
-        "stafettpinnen": ""
-    },
     "pakke": {
         "inn noe": "",
-        "kofferten": "",
-        "sammen": "",
         "snippesken og dra": ""
     },
-    "passe": {
-        "butikken": "",
-        "på som en smed": ""
-    },
-    "passere målstreken": "",
-    "pavens skjegg": "",
+    "passe på som en smed": "",
     "peke": {
         "i retning av": "",
         "på noe": ""
@@ -4361,40 +3157,29 @@
         "på bordet": "",
         "brenner i lomma": ""
     },
-    "pigge av": "",
     "pisk": {
         "og gulrot": "",
         "eller gulrot": ""
     },
     "pisse i buksa for å holde varmen": "",
     "plapre ut med noe": "",
-    "plaske ned": "",
-    "plikten kaller": "",
     "plukke på noe": "",
     "pokker i vold": "",
-    "prate piss": "",
     "prelle av som vann på gåsa": "",
     "prikken over": {
         "i ' en": "",
         "i-en": ""
     },
-    "privatlivets fred": "",
-    "prostituere seg": "",
     "prøve": {
         "alle midler": "",
-        "krefter": "",
-        "lykken": "",
         "på ny frisk": ""
     },
-    "pumpe jern": "",
     "på": {
         "avgrunnens rand": "",
-        "barrikadene": "",
         "berømmelsens tinde": "",
         "bred front": "",
         "bølgen blå": "",
         "den kontoen": "",
-        "djevelskap": "",
         "egen kjøl": "",
         "egne vegne": "",
         "en": {
@@ -4404,52 +3189,23 @@
         "et hår": "",
         "fastende hjerte": "",
         "fire hjul": "",
-        "folkemunne": "",
-        "forskudd": "",
-        "fote": "",
-        "frifot": "",
-        "gaffelen": "",
-        "grasrota": "",
         "harde livet": "",
         "hengende håret": "",
-        "høykant": "",
         "høylys dag": "",
         "høyt plan": "",
-        "kant": "",
-        "kanten": "",
-        "kistebunnen": "",
         "lik linje med": "",
         "livet løs": "",
         "løpende bånd": "",
-        "millimeteren": "",
-        "minuttet": "",
-        "morgenkvisten": "",
-        "netthinnen": "",
         "noens bekostning": "",
         "ny frisk": "",
         "nåde og unåde": "",
-        "plakaten": "",
-        "pletten": "",
-        "rappen": "",
         "rett": {
             "kjøl": "",
             "hylle": ""
         },
         "seg selv kjenner man andre": "",
-        "sekundet": "",
-        "sikt": "",
-        "skyggesiden": "",
-        "slump": "",
-        "spreng": "",
-        "talefot": "",
-        "tide": "",
         "toppen av": "",
         "tro og ære": "",
-        "tuppene": "",
-        "tå": "",
-        "villspor": "",
-        "vippen": "",
-        "æresord": "",
         "øverste hylle": "",
         "god fot": "",
         "kjøretøyet skal storfolk kjennes": "",
@@ -4458,23 +3214,13 @@
         "frukten skal treet kjennes": "",
         "godt og ondt": "",
         "Mose stol": "",
-        "fallrepet": "",
         "lykke og fromme": ""
     },
     "pø om pø": "",
-    "rake": {
-        "kastanjene ut av ilden": "",
-        "veien": ""
-    },
+    "rake kastanjene ut av ilden": "",
     "rav ruskende gal": "",
-    "redde stumpene": "",
-    "reise": {
-        "kjerringa": "",
-        "seg av asken": ""
-    },
+    "reise seg av asken": "",
     "rekke ut en hånd": "",
-    "renters rente": "",
-    "renvaske seg": "",
     "rett": {
         "og": {
             "skjell": "",
@@ -4488,7 +3234,6 @@
         "stormen av": ""
     },
     "ridder av den bedrøvelige skikkelse": "",
-    "ride ranke": "",
     "ris til egen bak": "",
     "riset bak speilet": "",
     "risikere": {
@@ -4514,35 +3259,19 @@
     },
     "rotte seg sammen": "",
     "rottene forlater det synkende skip": "",
-    "russisk rulett": "",
     "rykke": {
         "frem på bred front": "",
-        "i lenkene": "",
-        "opp": ""
+        "i lenkene": ""
     },
-    "rynke pannen": "",
     "råde bot på": "",
-    "råtne opp": "",
-    "røde tall": "",
-    "sage tømmer": "",
-    "sale om": "",
-    "samle": {
-        "i lader": "",
-        "krefter": "",
-        "støv": "",
-        "troppene": "",
-        "trådene": ""
-    },
-    "samvittighetens røst": "",
+    "samle i lader": "",
     "sand i maskineriet": "",
     "sann mine ord": "",
     "sant for dyden": "",
-    "sareptas krukke": "",
     "satse på feil hest": "",
     "se": {
         "både sol og måne": "",
         "dagens lys": "",
-        "fremover": "",
         "gjennom fingrene med noe": "",
         "men ikke røre": "",
         "mørkt ut": "",
@@ -4567,15 +3296,7 @@
     },
     "sekundene tikker og går": "",
     "sekundet ) .": "",
-    "selvros stinker": "",
     "sende opp røyksignaler": "",
-    "senke": {
-        "blikket": "",
-        "hodet": "",
-        "lista": "",
-        "skuldrene": "",
-        "stemmen": ""
-    },
     "sent": {
         "eller aldri": "",
         "og tidlig": ""
@@ -4586,11 +3307,8 @@
         "alle kluter til": "",
         "alt på ett kort": "",
         "bein under seg": "",
-        "bukkebein": "",
-        "dagsordenen": "",
         "en stopper for noe": "",
         "foten ned": "",
-        "grenser": "",
         "griller i hodet på noen": "",
         "grå hår i hodet på noen": "",
         "hardt mot hardt": "",
@@ -4619,8 +3337,6 @@
         },
         "sinnene i kok": "",
         "sitt lys under en skjeppe": "",
-        "sjøbein": "",
-        "sluttstrek": "",
         "spaden i jorda": "",
         "spørsmålstegn ved noe": "",
         "søkelyset på noe": "",
@@ -4639,7 +3355,6 @@
             "amen": ""
         },
         "mer enn tusen ord": "",
-        "stopp": "",
         "meg hva du spiser , og jeg skal si deg hvem du er": ""
     },
     "sikte": {
@@ -4647,7 +3362,6 @@
         "mot stjernene": ""
     },
     "sin vane tro": "",
-    "sinnets adel": "",
     "siste": {
         "ord er sagt": "",
         "spikeren i kisten": ""
@@ -4678,21 +3392,13 @@
             "skjegget i postkassa": ""
         }
     },
-    "sivilisasjonens vugge": "",
     "skal det være , så skal det være": "",
     "skalke alle luker": "",
     "skalte og valte": "",
-    "skape": {
-        "furore": "",
-        "historie": "",
-        "seg": {
-            "en fremtid": "",
-            "et navn": ""
-        }
+    "skape seg": {
+        "en fremtid": "",
+        "et navn": ""
     },
-    "skatten min": "",
-    "skeie ut": "",
-    "skifte beite": "",
     "skikk og bruk": "",
     "skille": {
         "klinten fra": {
@@ -4707,54 +3413,32 @@
         "skitt fra kanel": "",
         "fårene fra bukkene": ""
     },
-    "skinne": {
-        "gjennom": "",
-        "som en sol": ""
-    },
     "skit i": {
         "det": "",
         "Norge leve Toten": ""
     },
-    "skitt": {
-        "au": "",
-        "fiske": "",
-        "og kanel": ""
-    },
     "skje saker og ting": "",
     "skjære": {
         "alle over én kam": "",
-        "grimaser": "",
         "i ørene": "",
-        "igjennom": "",
         "inn til beinet": "",
         "en i hjertet": ""
     },
-    "skjønne": {
-        "hvor": {
-            "det bærer hen": "",
-            "landet ligger": ""
-        },
-        "tegningen": ""
+    "skjønne hvor": {
+        "det bærer hen": "",
+        "landet ligger": ""
     },
     "skjønner": {
         "du ikke norsk": "",
         "ikke et kvekk": ""
     },
-    "skli ut": "",
-    "skogens konge": "",
-    "skrape": {
-        "bunnen": "",
-        "til seg": ""
-    },
+    "skrape til seg": "",
     "skrekk og gru": "",
     "skremme vettet av noen": "",
     "skride til verket": "",
     "skriften på veggen": "",
-    "skrike opp": "",
-    "skrikende farger": "",
     "skritt for skritt": "",
     "skrive": {
-        "ned": "",
         "seg": {
             "fra": "",
             "noe bak øret": ""
@@ -4769,13 +3453,8 @@
         "i ilden": "",
         "jeg til å si": ""
     },
-    "skygge": {
-        "banen": "",
-        "noen": ""
-    },
     "skyt ikke på pianisten": "",
     "skyte": {
-        "fart": "",
         "hjertet opp i livet": "",
         "med skarpt": "",
         "seg en kule for pannen": "",
@@ -4786,14 +3465,8 @@
     "skåre billige poeng": "",
     "slag i slag": "",
     "slaget er tapt": "",
-    "slakke tøylene": "",
-    "slakte": {
-        "gjøkalven": "",
-        "den fete kalv": ""
-    },
     "slangen i paradiset": "",
     "slenge med leppa": "",
-    "slikke sol": "",
     "slippe": {
         "billig unna": "",
         "en vind": "",
@@ -4801,27 +3474,18 @@
         "opp for noe": "",
         "katta ut av sekken": ""
     },
-    "sluke ordene": "",
     "slutte mens leken er god": "",
     "slå": {
-        "alarm": "",
-        "an": "",
         "barnet ut med badevannet": "",
-        "den": "",
-        "feil": "",
-        "flikkflakk": "",
         "fra seg": "",
         "hånden av": {
             "noen": "",
             "en": ""
         },
         "hælene sammen": "",
-        "klikk": "",
         "kron og mynt": "",
-        "leir": "",
         "mynt på noe": "",
         "ned for fote": "",
-        "opp": "",
         "på": {
             "de nasjonale strenger": "",
             "skåka og mene merra": "",
@@ -4842,7 +3506,6 @@
             },
             "for brystet": ""
         },
-        "sprekker": "",
         "til": {
             "lyd for noe": "",
             "ridder": ""
@@ -4871,24 +3534,15 @@
     },
     "smelte som smør": "",
     "smil til verden": "",
-    "smile": {
-        "bredt": "",
-        "fra øre til øre": ""
-    },
-    "smilets land": "",
+    "smile fra øre til øre": "",
     "smykke seg med lånte fjær": "",
     "smør på flesk": "",
     "smøre": {
         "seg bort": "",
         "tjukt på": ""
     },
-    "snakk": {
-        "for deg selv": "",
-        "norsk": "",
-        "vekk": ""
-    },
+    "snakk for deg selv": "",
     "snakke": {
-        "bredt": "",
         "godt for seg": "",
         "med": {
             "seg selv": "",
@@ -4901,7 +3555,6 @@
             "snøen som fait i fjor": ""
         },
         "over seg": "",
-        "rent": "",
         "rett": {
             "fra levra": "",
             "ut av posen": ""
@@ -4915,7 +3568,6 @@
     },
     "snipp , snapp , snute": "",
     "snu": {
-        "bunken": "",
         "opp ned på noe": "",
         "saken på hodet": "",
         "seg i graven": ""
@@ -4981,12 +3633,10 @@
     "sorgen og gleden de vandrer til hope": "",
     "sove": {
         "bort tiden": "",
-        "middag": "",
         "på sitt grønne øre": "",
         "som en stein": "",
         "den rettferdiges søvn": ""
     },
-    "spar deg": "",
     "spare": {
         "seg til fant": "",
         "på skillingen og la daleren gå": ""
@@ -4995,17 +3645,13 @@
         "i grusen": "",
         "noen som ligger nede": ""
     },
-    "spikke fliser": "",
     "spile opp øynene": "",
     "spille": {
-        "annenfiolin": "",
-        "bajas": "",
         "ballen videre": "",
         "en": {
             "hovedrolle": "",
             "et puss": ""
         },
-        "fallitt": "",
         "for galleriet": "",
         "liten rolle": "",
         "på": {
@@ -5014,9 +3660,6 @@
             "harpe": "",
             "hele registret": ""
         },
-        "skuespill": "",
-        "storkar": "",
-        "teater": "",
         "til fløyta går": "",
         "med åpne kort": ""
     },
@@ -5027,14 +3670,9 @@
         "kirsebær med de store": ""
     },
     "splitte mine bramseil": "",
-    "sporene skremmer": "",
     "spre seg som ringer i vannet": "",
     "spres for alle vinder": "",
-    "springe": {
-        "i øynene": "",
-        "lekk": ""
-    },
-    "språklig ugress": "",
+    "springe i øynene": "",
     "spy edder og galle": "",
     "spytte i": {
         "nevene": "",
@@ -5048,7 +3686,6 @@
     },
     "stable seg på beina": "",
     "stamme fra steinalderen": "",
-    "stammens hyl": "",
     "stampe": {
         "i motvind": "",
         "mot brodden": ""
@@ -5060,15 +3697,8 @@
         },
         "på ny frisk": ""
     },
-    "stenge døren": "",
-    "sterke saker": "",
     "stige i gradene": "",
-    "stikk": {
-        "den": "",
-        "i strid": ""
-    },
     "stikke": {
-        "av": "",
         "fingeren i": {
             "jorda": "",
             "været": "",
@@ -5097,42 +3727,25 @@
         "sitt lys under en skjeppe": "",
         "seg i bresjen for": ""
     },
-    "stimle sammen": "",
-    "stjele": {
-        "av kassen": "",
-        "seg": "",
-        "showet": ""
-    },
-    "stokke kortene": "",
+    "stjele av kassen": "",
     "stole blindt på noen": "",
     "stoppe": {
         "mens leken er god": "",
         "munnen på noen": ""
     },
-    "store": {
-        "ord og fett flesk": "",
-        "penger": ""
-    },
+    "store ord og fett flesk": "",
     "storm i et vannglass": "",
     "stramme seg opp": "",
-    "strekke": {
-        "hals": "",
-        "seg etter stjernene": "",
-        "våpen": ""
-    },
+    "strekke seg etter stjernene": "",
     "stride mot all fornuft": "",
     "stråle som en sol": "",
-    "strømme til": "",
     "stum som en fisk": "",
     "styre": {
         "og stell": "",
         "med jernhånd": ""
     },
     "stå": {
-        "av": "",
         "bom fast": "",
-        "brud": "",
-        "fjellstøtt": "",
         "for": {
             "tur": "",
             "døren": ""
@@ -5173,8 +3786,6 @@
             "egne bein": "",
             "pinne for en": ""
         },
-        "skolerett": "",
-        "skrevet": "",
         "som": {
             "fjetret": "",
             "sild i tønne": ""
@@ -5193,9 +3804,6 @@
         "karamellen": "",
         "labben": ""
     },
-    "summe seg": "",
-    "sunt bondevett": "",
-    "sure oppstøt": "",
     "surr og rot": "",
     "svare": {
         "i hytt og vær": "",
@@ -5205,9 +3813,6 @@
         "og hvitt": "",
         "som bek": ""
     },
-    "svarte penger": "",
-    "sveige noe": "",
-    "sverte noen": "",
     "sveve": {
         "mellom himmel og jord": "",
         "oppe i skyene": "",
@@ -5221,7 +3826,6 @@
     "svømme som en fisk": "",
     "sy puter under armene på noen": "",
     "synge": {
-        "rent": "",
         "som en engel": "",
         "på siste verset": ""
     },
@@ -5254,14 +3858,12 @@
     },
     "sønder og sammen": "",
     "søt som honning": "",
-    "søta bror": "",
     "ta": {
         "anstøt av noe": "",
         "beina": {
             "fatt": "",
             "på nakken": ""
         },
-        "bølgen": "",
         "den høye c": "",
         "det": {
             "med ro": "",
@@ -5276,14 +3878,12 @@
             "stikk": "",
             "tak": ""
         },
-        "fart": "",
         "for seg av rettene": "",
         "første stikk": "",
         "i miss": "",
         "igjen det forsømte": "",
         "imot en utstrakt hånd": "",
         "innersvingen på noen": "",
-        "kaka": "",
         "livet med ro": "",
         "loven i egne hender": "",
         "mannen i stedet for ballen": "",
@@ -5309,7 +3909,6 @@
             "hansken": "",
             "tråden": ""
         },
-        "ordet": "",
         "på": {
             "kreftene": "",
             "fersk gjerning": "",
@@ -5318,7 +3917,6 @@
             "med silkehansker": ""
         },
         "rev i seilene": "",
-        "roret": "",
         "rotta på noen": "",
         "seg": {
             "en liten en": "",
@@ -5334,9 +3932,7 @@
             "til hodet": "",
             "vann over hodet": ""
         },
-        "sjumilssteg": "",
         "skrittet fullt ut": "",
-        "telling": "",
         "til": {
             "motmæle": "",
             "takke med noe": ""
@@ -5356,11 +3952,9 @@
     },
     "takk": {
         "og farvel": "",
-        "skal du ha": "",
-        "skjebne": ""
+        "skal du ha": ""
     },
     "takke": {
-        "av": "",
         "fanden for det": "",
         "ja til noe": "",
         "nei til noe": ""
@@ -5377,16 +3971,13 @@
         "er sølv , taushet er gull": "",
         "med to tunger": ""
     },
-    "tampen brenner": "",
     "tant og fjas": "",
     "tap og vinn med samme sinn": "",
-    "tape terreng": "",
     "taushet er gull": "",
     "tegne seg på talerlista": "",
     "telle på knappene": "",
     "tenke": {
         "i nye baner": "",
-        "koffert": "",
         "seg": {
             "om to ganger": "",
             "til noe": ""
@@ -5401,23 +3992,16 @@
     "terningen er kastet": "",
     "tett som sild i tønne": "",
     "tiden": {
-        "flyr": "",
         "tikker og går": "",
         "vil vise": ""
     },
-    "tidens tann tærer": "",
     "til": {
         "all lykke": "",
         "det kjedsommelige": "",
-        "doms": "",
         "en viss grad": "",
-        "fots": "",
-        "fulle": "",
         "ingen verdens nytte": "",
         "lands og til vanns": "",
         "man stuper": "",
-        "nød": "",
-        "overmål": "",
         "sin tid": "",
         "spott og spe": "",
         "å ta og føle på": "",
@@ -5428,8 +4012,6 @@
         "syvende og sist": ""
     },
     "tilbake i manesjen": "",
-    "tilbe noen": "",
-    "tine opp": "",
     "tjene": {
         "penger som gress": "",
         "to herrer": ""
@@ -5443,12 +4025,7 @@
         "skritt frem og ett tilbake": ""
     },
     "toe sine hender": "",
-    "tone": {
-        "flagg": "",
-        "ned noe": ""
-    },
-    "tordenskjolds soldater": "",
-    "tradisjonen tro": "",
+    "tone ned noe": "",
     "trappe ned noe": "",
     "tre": {
         "av på naturens vegne": "",
@@ -5463,7 +4040,6 @@
         "spikeren på hodet": ""
     },
     "trekke": {
-        "blankt": "",
         "det": {
             "korteste strå": "",
             "lengste strå": "",
@@ -5475,16 +4051,13 @@
             "nødbremsen": "",
             "trådene": ""
         },
-        "lodd": "",
-        "pusten": "",
         "på årene": "",
         "seg": {
             "inn i seg selv": "",
             "tilbake fra verden": ""
         },
         "sitt siste sukk": "",
-        "ut tiden": "",
-        "vinnerloddet": ""
+        "ut tiden": ""
     },
     "trinn for trinn": "",
     "trives som fisken i vannet": "",
@@ -5495,12 +4068,7 @@
         "på julenissen": ""
     },
     "tromme med fingrene": "",
-    "troppe opp": "",
     "trykke på knappen": "",
-    "trå": {
-        "til": "",
-        "vannet": ""
-    },
     "tråkke": {
         "noen på tærne": "",
         "i salaten": ""
@@ -5508,32 +4076,20 @@
     "tull og tøys": "",
     "tung om hjertet": "",
     "tungen på vektskålen": "",
-    "tvers igjennom": "",
     "tåle dagens lys": "",
     "tæres av tidens tann": "",
-    "tørne": {
-        "sammen": "",
-        "ut": ""
-    },
     "tørr bak ørene": "",
-    "tøye strikken": "",
     "ulv i fareklær": "",
     "under": {
-        "bordet": "",
         "dekke av": "",
-        "jorda": "",
         "lås og slå": "",
         "samme": {
             "hatt": "",
             "tak": ""
         },
-        "torva": "",
-        "tøffelen": "",
         "fire øyne": ""
     },
     "undrenes tid er ikke forbi": "",
-    "unge mann": "",
-    "urent trav": "",
     "ut": {
         "i": {
             "de små timer": "",
@@ -5543,25 +4099,19 @@
         "å kjøre": ""
     },
     "uta blank , inna krank": "",
-    "utbrodere noe": "",
     "ute av verden": "",
     "uten": {
         "lov og dom": "",
         "mat og drikke duger helten ikke": "",
         "sammenligning for øvrig": "",
-        "videre": "",
         "å fortrekke en mine": "",
         "persons anseelse": ""
     },
-    "uteske noen": "",
-    "utfordre skjebnen": "",
     "utlevere seg selv": "",
-    "vanens makt": "",
     "vann": {
         "på mølla": "",
         "i munnen": ""
     },
-    "varmere himmelstrøk": "",
     "vasse i penger": "",
     "ved": {
         "et skjebnens lune": "",
@@ -5575,16 +4125,8 @@
         "for og imot": "",
         "sine ord på gullvekt": ""
     },
-    "veis ende": "",
-    "vekke": {
-        "gjenklang": "",
-        "noen": ""
-    },
     "veksle et par ord": "",
-    "vel": {
-        "blåst": "",
-        "å merke": ""
-    },
+    "vel å merke": "",
     "velge mellom pest og kolera": "",
     "vende": {
         "noen ryggen": "",
@@ -5600,18 +4142,12 @@
         },
         "kappen etter vinden": ""
     },
-    "vente seg": "",
     "verden": {
         "er ikke stor": "",
         "står ikke til påske": "",
         "vil bedras": ""
     },
-    "verdens": {
-        "navle": "",
-        "største under": "",
-        "tak": "",
-        "undergang": ""
-    },
+    "verdens største under": "",
     "vi": {
         "alminnelige dødelige": "",
         "er": {
@@ -5622,21 +4158,14 @@
     },
     "vifte med ørene": "",
     "ville ha både i pose og sekk": "",
-    "villig vekk": "",
     "vinden": {
         "har snudd": "",
         "blåser dit den vil": ""
     },
-    "vinne": {
-        "gjenklang": "",
-        "heder og ære": ""
-    },
+    "vinne heder og ære": "",
     "vippe noen av pinnen": "",
     "virke som en brannfakkel": "",
-    "visdommens kilde": "",
     "vise": {
-        "ansikt": "",
-        "flagget": "",
         "for all verden": "",
         "gode takter": "",
         "seg": {
@@ -5647,18 +4176,13 @@
             "ansikt": "",
             "jeg": ""
         },
-        "tenner": "",
-        "vei": "",
         "en kald skulder": ""
     },
     "vite": {
         "hvor skoen trykker": "",
         "hverken ut eller inn": ""
     },
-    "vondt": {
-        "blod": "",
-        "skal vondt fordrive": ""
-    },
+    "vondt skal vondt fordrive": "",
     "vri": {
         "på ordene": "",
         "seg": {
@@ -5667,35 +4191,19 @@
         },
         "kniven rundt": ""
     },
-    "våge": {
-        "seg ut på tynn is": "",
-        "skinnet": ""
-    },
+    "våge seg ut på tynn is": "",
     "våkne til liv": "",
     "våre": {
         "veier krysses": "",
         "øyne møttes": ""
     },
-    "vær varsom": "",
     "være": {
-        "allemannseie": "",
-        "altetende": "",
         "av det onde": "",
-        "avblomstret": "",
-        "avholdende": "",
-        "bankers": "",
         "bare blåbær": "",
         "barn av sin tid": "",
         "bastet og bundet": "",
         "bitre fiender": "",
-        "blakk": "",
-        "bleik": "",
-        "blind": "",
-        "blærete": "",
-        "bombastisk": "",
         "bryet verdt": "",
-        "bråkjekk": "",
-        "dagligdags": "",
         "den": {
             "minste kunst": "",
             "rake motsetning": "",
@@ -5709,15 +4217,9 @@
             "verk": "",
             "advokat": ""
         },
-        "dumdristig": "",
-        "dyptpløyende": "",
         "død og begravet": "",
         "dødsens alvor": "",
-        "døgnvill": "",
         "dømt til å ...": "",
-        "edelmodig": "",
-        "egensindig": "",
-        "ellevill": "",
         "en": {
             "annen sak": "",
             "av gutta": "",
@@ -5738,11 +4240,6 @@
             "solstråle": "",
             "ulv i fåreklær": ""
         },
-        "eneveldig": "",
-        "ensporet": "",
-        "enøyd": "",
-        "eplekjekk": "",
-        "epokegjørende": "",
         "et": {
             "avsluttet kapitel": "",
             "eksempel til skrekk og advarsel": "",
@@ -5760,27 +4257,18 @@
         },
         "etter boka": "",
         "familiens sorte får": "",
-        "fandenivoldsk": "",
-        "fargeløs": "",
         "fast inventar": "",
-        "firkantet": "",
-        "fisefin": "",
         "flink med hendene": "",
-        "flintskallet": "",
         "flue på veggen": "",
         "for": {
             "godt til å være sant": "",
             "hånden": ""
         },
-        "forfinet": "",
-        "fortapt": "",
         "forut for sin tid": "",
-        "forutinntatt": "",
         "fra": {
             "en annen planet": "",
             "sans og samling": ""
         },
-        "fredet": "",
         "fri": {
             "og frank": "",
             "som fuglen": ""
@@ -5789,9 +4277,6 @@
         "full som en alke": "",
         "fyr og flamme": "",
         "føre var": "",
-        "gal": "",
-        "giftig": "",
-        "glovarm": "",
         "god": {
             "latin": "",
             "på bunnen": "",
@@ -5802,13 +4287,9 @@
             "skodd": "",
             "utrustet": ""
         },
-        "godtroende": "",
         "grepet ut av luften": "",
         "grønn av misunnelse": "",
         "hard i klypa": "",
-        "hardhjertet": "",
-        "hardhudet": "",
-        "harry": "",
         "hel ved": "",
         "helt": {
             "fra seg": "",
@@ -5821,8 +4302,6 @@
             "sprø": "",
             "bak mål": ""
         },
-        "heltemodig": "",
-        "herdet": "",
         "herre": {
             "i eget hus": "",
             "over situasjonen": ""
@@ -5830,14 +4309,7 @@
         "hevet over kritikk": "",
         "hinsides all fornuft": "",
         "hipp som happ": "",
-        "hjerteløs": "",
-        "hjulbeint": "",
         "hoppende glad": "",
-        "hoven": "",
-        "hudløs": "",
-        "hverdagskost": "",
-        "håndfast": "",
-        "hårreisende": "",
         "høl i hue": "",
         "høy på pæra": "",
         "høyt oppe og langt nede": "",
@@ -5879,60 +4351,45 @@
             "kritthuset": "",
             "samme båt": ""
         },
-        "idiotsikker": "",
         "ille": {
             "faren": "",
             "til mote": "",
             "ute": ""
         },
-        "in": "",
         "innenfor murene": "",
-        "iørefallende": "",
-        "iøynefallende": "",
         "jaget vilt": "",
-        "jevnbyrdig": "",
         "kald som is": "",
-        "kar": "",
         "kjøpt og betalt": "",
         "klar til dyst": "",
         "klin kokos": "",
-        "klippefast": "",
         "knust av sorg": "",
         "konge for en dag": "",
-        "krampaktig": "",
         "krig på kniven": "",
-        "kritthvit": "",
         "kul umulig": "",
         "kvikk i replikken": "",
         "langt nede": "",
         "lavt under taket": "",
         "ledig på markedet": "",
-        "legendarisk": "",
         "lett": {
             "på labben": "",
             "til sinns": ""
         },
         "lettere sagt enn gjort": "",
-        "lettlivet": "",
         "like": {
             "gode": "",
             "langt": "",
             "om hjørnet": "",
             "som to dråper vann": ""
         },
-        "likeglad": "",
         "listig som en slange": "",
         "livet om å gjøre": "",
         "lur som en rev": "",
-        "lusen": "",
         "lutter": {
             "glede": "",
             "øre": ""
         },
         "løs og ledig": "",
-        "løsmunnet": "",
         "mann for sin hatt": "",
-        "matnyttig": "",
         "med": {
             "i spillet": "",
             "på": {
@@ -5943,31 +4400,22 @@
         },
         "mer til skade enn gagn": "",
         "mett av dage": "",
-        "munnrapp": "",
         "mye om å gjøre": "",
         "myntet på": "",
-        "nebbete": "",
         "nede i en bølgedal": "",
-        "nesevis": "",
         "noe": {
             "for enhver smak": "",
             "til kar": ""
         },
         "null verdt": "",
         "nær ved å": "",
-        "nærliggende": "",
-        "nærtagende": "",
         "nøye på det": "",
-        "omtåket": "",
         "opium for folket": "",
         "opp og avgjort": "",
-        "oppe": "",
-        "overkommelig": "",
         "pengene verd": "",
         "platt umulig": "",
         "preget av stundens alvor": "",
         "prikken over i ' en": "",
-        "prippen": "",
         "på": {
             "banen": "",
             "bedringens vei": "",
@@ -6003,40 +4451,17 @@
             "bærtur": "",
             "hjemmebane": ""
         },
-        "påseilet": "",
         "raka fant": "",
         "rask på labben": "",
-        "rebelsk": "",
         "redd av seg": "",
         "roten til alt ondt": "",
-        "rotløs": "",
         "rund i kantene": "",
         "rustet til tennene": "",
-        "rå": "",
-        "råflott": "",
-        "sammen": "",
         "seg selv": "",
-        "selvgod": "",
-        "selvinnlysende": "",
         "sin egen lykkes smed": "",
         "sitt ansvar bevisst": "",
-        "sjøsterk": "",
-        "skadefro": "",
         "skarp i kantene": "",
-        "skarpskodd": "",
-        "skeiv": "",
-        "slagferdig": "",
-        "sleivete": "",
-        "smalsporet": "",
-        "smidig": "",
-        "småborgerlig": "",
-        "smålig": "",
         "smør på flesk": "",
-        "smørblid": "",
-        "snakkesalig": "",
-        "snerpete": "",
-        "snorrett": "",
-        "snusfornuftig": "",
         "som": {
             "hund og katt": "",
             "ild og vann": "",
@@ -6049,64 +4474,36 @@
             }
         },
         "spilt møye": "",
-        "spiselig": "",
-        "spissfindig": "",
         "splitter pine gal": "",
-        "sprek": "",
-        "sprekkeferdig": "",
         "sprell levende": "",
         "stille": {
             "før stormen": "",
             "som en mus": ""
         },
-        "stivnakket": "",
-        "stivsinnet": "",
         "stokk døv": "",
         "stolt som en hane": "",
         "stor takhøyde": "",
-        "stormannsgal": "",
-        "stripete": "",
-        "strøken": "",
-        "styrtrik": "",
         "støpt i samme form": "",
-        "svartelistet": "",
         "så sin sak": "",
         "sønn av sin far": "",
-        "tafatt": "",
-        "talefør": "",
-        "taletrengt": "",
         "tatt ut av luften": "",
-        "teatralsk": "",
-        "tekkelig": "",
         "tett som en potte": "",
         "til å": {
             "leve med": "",
             "ta og føle på": ""
         },
-        "tilbakelent": "",
-        "toneangivende": "",
         "trengt opp i et hjørne": "",
         "trygg på seg selv": "",
-        "tungnem": "",
-        "tungrodd": "",
-        "tungsindig": "",
-        "tåkete": "",
         "tøff ' i trynet": "",
         "tøffere enn toget": "",
         "tørr bak ørene": "",
-        "tørrvittig": "",
         "umaken verd": "",
-        "umusikalsk": "",
         "under": {
             "enhver kritikk": "",
             "oppseiling": "",
             "seil": ""
         },
-        "underdanig": "",
-        "undermåls": "",
         "ung og lovende": "",
-        "usmakelig": "",
-        "uspiselig": "",
         "ute": {
             "av": {
                 "funksjon": "",
@@ -6133,20 +4530,11 @@
             "god helse": "",
             "sine fulle fem": ""
         },
-        "veggpryd": "",
         "vel og bra": "",
-        "velbeslått": "",
         "venner og vel forlikte": "",
         "verre enn verst": "",
-        "vidsynt": "",
-        "virkelighetsfjern": "",
-        "våken": "",
         "væpnet til tennene": "",
-        "åndfull": "",
-        "åndsfraværende": "",
-        "åndsnærværende": "",
         "åpen for noe": "",
-        "årvåken": "",
         "bundet på hender og føtter": "",
         "gammel nok": "",
         "bløt på pæra": "",
@@ -6157,14 +4545,7 @@
         "du er en engel": "",
         "jeg ber": ""
     },
-    "ånde ut": "",
-    "åndens sverd": "",
     "åpent og ærlig": "",
-    "åpne": {
-        "ballet": "",
-        "latterdøren": "",
-        "munnen": ""
-    },
     "åpner alle dører": "",
     "år": {
         "for år": "",
@@ -6174,14 +4555,9 @@
             "nakken": ""
         }
     },
-    "ærens mark": "",
     "æres den som æres bør": "",
-    "ærlig talt": "",
     "ærlighet varer lengst": "",
-    "øse": {
-        "ned": "",
-        "ut penger": ""
-    },
+    "øse ut penger": "",
     "øve vold mot noen": "",
     "øye for øye , tann for tann": "",
     "øyne": {
@@ -6202,6 +4578,8 @@
     "fortere enn svint": "",
     "fryd og gammen": "",
     "fuglen har fløyet": "",
+    "full som en alke": "",
+    "gode miner til slett spill": "",
     "grønn i ansiktet": "",
     "gutten i røyken": "",
     "hals over hode": "",
@@ -6227,10 +4605,8 @@
     "lått og løye": "",
     "løgn og forbannet dikt": "",
     "løs kanon på dekk": "",
-    "mo": {
-        "i knærne": "",
-        "alene": ""
-    },
+    "miste både munn og mæle": "",
+    "mo i knærne": "",
     "morgenstund har gull i munn": "",
     "mumle i skjegget": "",
     "perler for svin": "",
@@ -6243,6 +4619,7 @@
     "smi mens jernet er varmt": "",
     "smis i hymens lenker": "",
     "spikeren i kisten": "",
+    "stikk i strid": "",
     "striskjorta og havrelefsa": "",
     "strø salt i såret": "",
     "sugd av eget bryst": "",
@@ -6250,6 +4627,7 @@
     "tapt bak en vogn": "",
     "tatt med buksene nede": "",
     "tennene løper i vann": "",
+    "tidens tann tærer": "",
     "tomme tønner": {
         "romler mest": "",
         "ramler mest": ""
@@ -6268,15 +4646,14 @@
     "væpnet til tennene": "",
     "albue seg frem": "",
     "balsam for sjelen": "",
-    "duvende bryster": "",
     "elefanten i rommet": "",
     "elementært , min kjære Watson": "",
     "ess i ermet": "",
-    "fru Blom": "",
     "gatens løse fugler": "",
-    "hokus pokus": "",
+    "helt i hundre": "",
     "hugge over den gordiske knute": "",
     "høna eller egget": "",
+    "høste som man sår": "",
     "itte no knussel": "",
     "julekvelden på kjerringa": "",
     "klar som et egg": "",
@@ -6290,12 +4667,10 @@
     "politikk og pølser": "",
     "ridderen av den bedrøvelige skikkelse": "",
     "ridende rytter til hest": "",
-    "rød tråd": "",
-    "severin Suveren": "",
     "sine meningers mot": "",
+    "skitt og kanel": "",
     "skudd for baugen": "",
     "snørr og barter": "",
-    "stante pede": "",
     "støv på hjernen": "",
     "trumf i ermet": "",
     "utakk er verdens lønn": "",
@@ -6304,6 +4679,7 @@
     "akk og ve": "",
     "ansikt til ansikt": "",
     "beskikke sitt hus": "",
+    "dagens byrde og hete": "",
     "danse": {
         "rundt gullkalven": "",
         "etter ens pipe": ""
@@ -6348,6 +4724,8 @@
     "roten til alt ondt": "",
     "ryste støvet av sine føtter": "",
     "sekk og aske": "",
+    "skinne som en sol": "",
+    "slakte den fete kalv": "",
     "slett selskap forderver gode seder": "",
     "smuler fra de rikes bord": "",
     "sort som en hårsekk": "",
@@ -6381,7 +4759,6 @@
     "hauk over hauk": "",
     "herre jemini !": "",
     "jekke seg ned": "",
-    "polsk riksdag": "",
     "steke i sitt eget fett": "",
     "stopp en hal": "",
     "tort og svie": "",

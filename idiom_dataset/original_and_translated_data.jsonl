@@ -1454,7 +1454,6 @@
 {"idiom_start":"terningen er","accepted_completions":["kasta"],"language":"nno"}
 {"idiom_start":"tett som sild i","accepted_completions":["t\u00f8nne"],"language":"nno"}
 {"idiom_start":"tida vil","accepted_completions":["visa"],"language":"nno"}
-{"idiom_start":"tid og","accepted_completions":["alder"],"language":"nno"}
 {"idiom_start":"til all","accepted_completions":["lykke"],"language":"nno"}
 {"idiom_start":"i ei viss","accepted_completions":["grad"],"language":"nno"}
 {"idiom_start":"til evig","accepted_completions":["tid"],"language":"nno"}
@@ -1568,7 +1567,6 @@
 {"idiom_start":"auge for auge , tann for","accepted_completions":["tann"],"language":"nno"}
 {"idiom_start":"auge i","accepted_completions":["nakken"],"language":"nno"}
 {"idiom_start":"aldri s\u00e5 galt at det ikke er godt for","accepted_completions":["noe"],"language":"nob"}
-{"idiom_start":"alle","accepted_completions":["dager"],"language":"nob"}
 {"idiom_start":"alle gode ting er","accepted_completions":["tre"],"language":"nob"}
 {"idiom_start":"alle mann til","accepted_completions":["pumpene"],"language":"nob"}
 {"idiom_start":"alle monner","accepted_completions":["drar"],"language":"nob"}
@@ -1586,13 +1584,11 @@
 {"idiom_start":"alt til faget","accepted_completions":["henh\u00f8rende"],"language":"nob"}
 {"idiom_start":"alt til sin","accepted_completions":["tid"],"language":"nob"}
 {"idiom_start":"alt vel","accepted_completions":["."],"language":"nob"}
-{"idiom_start":"amerikansk","accepted_completions":["\u00f8yem\u00e5l"],"language":"nob"}
 {"idiom_start":"ane ugler i","accepted_completions":["mosen"],"language":"nob"}
 {"idiom_start":"angre som en","accepted_completions":["hund"],"language":"nob"}
 {"idiom_start":"angrep er det beste","accepted_completions":["forsvar"],"language":"nob"}
 {"idiom_start":"arbeide i","accepted_completions":["felten"],"language":"nob"}
 {"idiom_start":"arbeide som en","accepted_completions":["hest"],"language":"nob"}
-{"idiom_start":"arbeide","accepted_completions":["svart"],"language":"nob"}
 {"idiom_start":"arbeide under","accepted_completions":["h\u00f8ytrykk"],"language":"nob"}
 {"idiom_start":"arbeidet adler","accepted_completions":["mannen"],"language":"nob"}
 {"idiom_start":"at det g\u00e5r","accepted_completions":["an"],"language":"nob"}
@@ -1606,17 +1602,12 @@
 {"idiom_start":"av to onder velger man det","accepted_completions":["minste"],"language":"nob"}
 {"idiom_start":"avfyre en","accepted_completions":["bredside"],"language":"nob"}
 {"idiom_start":"avvente begivenhetenes","accepted_completions":["gang"],"language":"nob"}
-{"idiom_start":"bak","accepted_completions":["kulissene"],"language":"nob"}
 {"idiom_start":"bak l\u00e5s og","accepted_completions":["sl\u00e5"],"language":"nob"}
-{"idiom_start":"bakke","accepted_completions":["ut"],"language":"nob"}
 {"idiom_start":"baksiden av","accepted_completions":["medaljen"],"language":"nob"}
-{"idiom_start":"baktale","accepted_completions":["noen"],"language":"nob"}
 {"idiom_start":"balansere p\u00e5 en","accepted_completions":["knivsegg"],"language":"nob"}
 {"idiom_start":"balansere p\u00e5 slakk","accepted_completions":["line"],"language":"nob"}
 {"idiom_start":"balle p\u00e5","accepted_completions":["seg"],"language":"nob"}
 {"idiom_start":"ballen er","accepted_completions":["rund"],"language":"nob"}
-{"idiom_start":"ballets","accepted_completions":["dronning"],"language":"nob"}
-{"idiom_start":"bare","accepted_completions":["bl\u00e5b\u00e6r","piss"],"language":"nob"}
 {"idiom_start":"bare tiden og","accepted_completions":["veien"],"language":"nob"}
 {"idiom_start":"be en stille","accepted_completions":["b\u00f8nn"],"language":"nob"}
 {"idiom_start":"be for","accepted_completions":["seg"],"language":"nob"}
@@ -1628,26 +1619,19 @@
 {"idiom_start":"bedre lykke neste","accepted_completions":["gang"],"language":"nob"}
 {"idiom_start":"bedre sent enn","accepted_completions":["aldri"],"language":"nob"}
 {"idiom_start":"begeret er","accepted_completions":["fullt"],"language":"nob"}
-{"idiom_start":"begrave","accepted_completions":["strids\u00f8ksa"],"language":"nob"}
 {"idiom_start":"begynne for seg","accepted_completions":["selv"],"language":"nob"}
 {"idiom_start":"begynne med to tomme","accepted_completions":["hender"],"language":"nob"}
 {"idiom_start":"begynne \u00e5","accepted_completions":["lysne"],"language":"nob"}
-{"idiom_start":"bekjempe","accepted_completions":["noe"],"language":"nob"}
 {"idiom_start":"belegge sine","accepted_completions":["ord"],"language":"nob"}
 {"idiom_start":"belme i","accepted_completions":["seg"],"language":"nob"}
 {"idiom_start":"beregne sitt","accepted_completions":["publikum"],"language":"nob"}
 {"idiom_start":"berget f\u00f8dte en","accepted_completions":["mus"],"language":"nob"}
 {"idiom_start":"beskytte mot v\u00e6r og","accepted_completions":["vind"],"language":"nob"}
 {"idiom_start":"bestemme hvor skapet skal","accepted_completions":["st\u00e5"],"language":"nob"}
-{"idiom_start":"best\u00e5","accepted_completions":["ildpr\u00f8ven"],"language":"nob"}
 {"idiom_start":"betale med samme","accepted_completions":["mynt"],"language":"nob"}
-{"idiom_start":"betale","accepted_completions":["seg","skjorta"],"language":"nob"}
 {"idiom_start":"betale under","accepted_completions":["bordet"],"language":"nob"}
-{"idiom_start":"bevare","accepted_completions":["fatningen"],"language":"nob"}
 {"idiom_start":"bevare sitt gode navn og","accepted_completions":["rykte"],"language":"nob"}
-{"idiom_start":"bevares","accepted_completions":["vel"],"language":"nob"}
 {"idiom_start":"bevege seg i","accepted_completions":["sneglefart"],"language":"nob"}
-{"idiom_start":"bevingede","accepted_completions":["ord"],"language":"nob"}
 {"idiom_start":"bikkja i","accepted_completions":["bakken"],"language":"nob"}
 {"idiom_start":"bist\u00e5 med r\u00e5d og","accepted_completions":["d\u00e5d"],"language":"nob"}
 {"idiom_start":"bite hodet av all","accepted_completions":["skam"],"language":"nob"}
@@ -1657,9 +1641,6 @@
 {"idiom_start":"bite seg i","accepted_completions":["tunga"],"language":"nob"}
 {"idiom_start":"bite smerten i","accepted_completions":["seg"],"language":"nob"}
 {"idiom_start":"bite tennene","accepted_completions":["sammen"],"language":"nob"}
-{"idiom_start":"blande","accepted_completions":["blod","kortene"],"language":"nob"}
-{"idiom_start":"blank","accepted_completions":["l\u00f8gn"],"language":"nob"}
-{"idiom_start":"bli","accepted_completions":["akterutseilt","avkledd","b\u00f8nnh\u00f8rt","husvarm","opp\u00f8st","rundlurt","sjanghaiet","svarteper"],"language":"nob"}
 {"idiom_start":"bli bl\u00f8t om","accepted_completions":["hjertet"],"language":"nob"}
 {"idiom_start":"bli dagens","accepted_completions":["helt"],"language":"nob"}
 {"idiom_start":"bli dolket i","accepted_completions":["ryggen"],"language":"nob"}
@@ -1714,30 +1695,21 @@
 {"idiom_start":"bli varmt","accepted_completions":["mottatt"],"language":"nob"}
 {"idiom_start":"bli vippet av","accepted_completions":["pinnen"],"language":"nob"}
 {"idiom_start":"blid som en","accepted_completions":["lerke","sol"],"language":"nob"}
-{"idiom_start":"blind","accepted_completions":["alarm","vold"],"language":"nob"}
 {"idiom_start":"blind h\u00f8ne finner ogs\u00e5","accepted_completions":["korn"],"language":"nob"}
 {"idiom_start":"blod , svette og","accepted_completions":["t\u00e5rer"],"language":"nob"}
 {"idiom_start":"blod er tykkere enn","accepted_completions":["vann"],"language":"nob"}
 {"idiom_start":"blomsten og","accepted_completions":["biene"],"language":"nob"}
-{"idiom_start":"blomstre","accepted_completions":["av"],"language":"nob"}
-{"idiom_start":"blotte","accepted_completions":["seg"],"language":"nob"}
 {"idiom_start":"blunke til","accepted_completions":["noen"],"language":"nob"}
 {"idiom_start":"bl\u00e5se seg","accepted_completions":["opp"],"language":"nob"}
-{"idiom_start":"bl\u00e5tt","accepted_completions":["blod"],"language":"nob"}
-{"idiom_start":"bl\u00e6re","accepted_completions":["seg"],"language":"nob"}
 {"idiom_start":"bomber og","accepted_completions":["granater"],"language":"nob"}
-{"idiom_start":"bordet","accepted_completions":["fanger"],"language":"nob"}
 {"idiom_start":"bort i h\u00f8r og","accepted_completions":["heim"],"language":"nob"}
 {"idiom_start":"bort i","accepted_completions":["natta","veggene"],"language":"nob"}
 {"idiom_start":"borte bra , men hjemme","accepted_completions":["best"],"language":"nob"}
 {"idiom_start":"borte som en","accepted_completions":["sviske"],"language":"nob"}
 {"idiom_start":"bortenfor alle","accepted_completions":["bl\u00e5ner"],"language":"nob"}
-{"idiom_start":"bortforklare","accepted_completions":["noe"],"language":"nob"}
 {"idiom_start":"braute seg","accepted_completions":["fram"],"language":"nob"}
-{"idiom_start":"breie","accepted_completions":["seg"],"language":"nob"}
 {"idiom_start":"brenne et","accepted_completions":["straffespark"],"language":"nob"}
 {"idiom_start":"brenne for","accepted_completions":["noe"],"language":"nob"}
-{"idiom_start":"brenne","accepted_completions":["hjemme"],"language":"nob"}
 {"idiom_start":"brenne inne med","accepted_completions":["noe"],"language":"nob"}
 {"idiom_start":"brenne sine","accepted_completions":["skip"],"language":"nob"}
 {"idiom_start":"brenne sitt lys i begge","accepted_completions":["ender"],"language":"nob"}
@@ -1745,8 +1717,6 @@
 {"idiom_start":"brette opp","accepted_completions":["ermene"],"language":"nob"}
 {"idiom_start":"brikkene faller p\u00e5","accepted_completions":["plass"],"language":"nob"}
 {"idiom_start":"bringe til","accepted_completions":["verden"],"language":"nob"}
-{"idiom_start":"brodne","accepted_completions":["kar"],"language":"nob"}
-{"idiom_start":"bruke","accepted_completions":["albuene","kjeft","klubba","sparekniven","vettet","\u00f8ynene"],"language":"nob"}
 {"idiom_start":"bruke apostlenes","accepted_completions":["hester"],"language":"nob"}
 {"idiom_start":"bruke grovt","accepted_completions":["skyts"],"language":"nob"}
 {"idiom_start":"bruke harde","accepted_completions":["ord"],"language":"nob"}
@@ -1758,7 +1728,6 @@
 {"idiom_start":"brygge p\u00e5","accepted_completions":["noe"],"language":"nob"}
 {"idiom_start":"brystet sn\u00f8rer seg","accepted_completions":["sammen"],"language":"nob"}
 {"idiom_start":"bryte alle","accepted_completions":["skranker"],"language":"nob"}
-{"idiom_start":"bryte","accepted_completions":["isen","lydmuren","l\u00f8s","ned","opp","tausheten"],"language":"nob"}
 {"idiom_start":"bryte med","accepted_completions":["noen"],"language":"nob"}
 {"idiom_start":"bryte ny","accepted_completions":["mark"],"language":"nob"}
 {"idiom_start":"bryte over","accepted_completions":["tvert"],"language":"nob"}
@@ -1774,7 +1743,6 @@
 {"idiom_start":"b\u00e5de her og","accepted_completions":["der"],"language":"nob"}
 {"idiom_start":"b\u00e5de i pose og","accepted_completions":["sekk"],"language":"nob"}
 {"idiom_start":"b\u00e5nn i","accepted_completions":["b\u00f8tta"],"language":"nob"}
-{"idiom_start":"b\u00e6re","accepted_completions":["byrdene","horn","seg"],"language":"nob"}
 {"idiom_start":"b\u00e6re fram","accepted_completions":["noe"],"language":"nob"}
 {"idiom_start":"b\u00e6re preg","accepted_completions":["av"],"language":"nob"}
 {"idiom_start":"b\u00e6re sitt","accepted_completions":["kors"],"language":"nob"}
@@ -1783,18 +1751,13 @@
 {"idiom_start":"b\u00f8lge frem og","accepted_completions":["tilbake"],"language":"nob"}
 {"idiom_start":"b\u00f8rs og","accepted_completions":["katedral"],"language":"nob"}
 {"idiom_start":"b\u00f8te med","accepted_completions":["livet"],"language":"nob"}
-{"idiom_start":"b\u00f8tte","accepted_completions":["ned"],"language":"nob"}
-{"idiom_start":"b\u00f8ye","accepted_completions":["av","hodet","nakken"],"language":"nob"}
 {"idiom_start":"b\u00f8ye seg for","accepted_completions":["noen"],"language":"nob"}
 {"idiom_start":"da er dagen","accepted_completions":["reddet"],"language":"nob"}
 {"idiom_start":"da er vi","accepted_completions":["to"],"language":"nob"}
 {"idiom_start":"da skal du ha","accepted_completions":["takk"],"language":"nob"}
 {"idiom_start":"dag ut og dag","accepted_completions":["inn"],"language":"nob"}
-{"idiom_start":"dagen","accepted_completions":["derp\u00e5"],"language":"nob"}
 {"idiom_start":"dagen er enn\u00e5","accepted_completions":["ung"],"language":"nob"}
-{"idiom_start":"dagens","accepted_completions":["mann"],"language":"nob"}
 {"idiom_start":"dann og","accepted_completions":["vann"],"language":"nob"}
-{"idiom_start":"danne","accepted_completions":["skole"],"language":"nob"}
 {"idiom_start":"dansen rundt","accepted_completions":["gullkalven"],"language":"nob"}
 {"idiom_start":"de edlere","accepted_completions":["deler"],"language":"nob"}
 {"idiom_start":"de er like","accepted_completions":["gode"],"language":"nob"}
@@ -1837,7 +1800,6 @@
 {"idiom_start":"den nakne","accepted_completions":["sannhet"],"language":"nob"}
 {"idiom_start":"den offentlige","accepted_completions":["scene"],"language":"nob"}
 {"idiom_start":"den omvendte","accepted_completions":["verden"],"language":"nob"}
-{"idiom_start":"den","accepted_completions":["onde","satt"],"language":"nob"}
 {"idiom_start":"den r\u00f8de","accepted_completions":["tr\u00e5d"],"language":"nob"}
 {"idiom_start":"den siste","accepted_completions":["olje","reise"],"language":"nob"}
 {"idiom_start":"den skal tidlig kr\u00f8kes som god krok skal","accepted_completions":["bli"],"language":"nob"}
@@ -1973,7 +1935,6 @@
 {"idiom_start":"det har han godt","accepted_completions":["av"],"language":"nob"}
 {"idiom_start":"det har ikke noe \u00e5","accepted_completions":["si"],"language":"nob"}
 {"idiom_start":"det har rent mye vann i havet","accepted_completions":["siden"],"language":"nob"}
-{"idiom_start":"det","accepted_completions":["hinsidige"],"language":"nob"}
 {"idiom_start":"det hjertet er fullt av , renner munnen over","accepted_completions":["med"],"language":"nob"}
 {"idiom_start":"det humper og","accepted_completions":["g\u00e5r"],"language":"nob"}
 {"idiom_start":"det h\u00f8ljer","accepted_completions":["ned"],"language":"nob"}
@@ -2063,18 +2024,12 @@
 {"idiom_start":"dette lukter det","accepted_completions":["av"],"language":"nob"}
 {"idiom_start":"dette og","accepted_completions":["hint"],"language":"nob"}
 {"idiom_start":"dette tar","accepted_completions":["kaka"],"language":"nob"}
-{"idiom_start":"din","accepted_completions":["banditt"],"language":"nob"}
 {"idiom_start":"din feige","accepted_completions":["hund"],"language":"nob"}
 {"idiom_start":"din vilje er min","accepted_completions":["lov"],"language":"nob"}
-{"idiom_start":"direkte","accepted_completions":["tale"],"language":"nob"}
 {"idiom_start":"diskutere pavens","accepted_completions":["skjegg"],"language":"nob"}
-{"idiom_start":"djevelens","accepted_completions":["advokat"],"language":"nob"}
 {"idiom_start":"dolke noen i","accepted_completions":["ryggen"],"language":"nob"}
 {"idiom_start":"dolle seg","accepted_completions":["opp"],"language":"nob"}
-{"idiom_start":"dommens","accepted_completions":["dag"],"language":"nob"}
-{"idiom_start":"dovne","accepted_completions":["seg"],"language":"nob"}
 {"idiom_start":"dra av","accepted_completions":["g\u00e5rde"],"language":"nob"}
-{"idiom_start":"dra","accepted_completions":["damer","t\u00f8mmerstokker"],"language":"nob"}
 {"idiom_start":"dra fanden i","accepted_completions":["vold"],"language":"nob"}
 {"idiom_start":"dra i","accepted_completions":["felten"],"language":"nob"}
 {"idiom_start":"dra i gang","accepted_completions":["noe"],"language":"nob"}
@@ -2086,7 +2041,6 @@
 {"idiom_start":"drikke seg fra sans og","accepted_completions":["samling"],"language":"nob"}
 {"idiom_start":"drite p\u00e5","accepted_completions":["draget"],"language":"nob"}
 {"idiom_start":"drite seg","accepted_completions":["ut"],"language":"nob"}
-{"idiom_start":"drive","accepted_completions":["dank","flisespikkeri","tuskhandel","vrangl\u00e6re"],"language":"nob"}
 {"idiom_start":"drive det","accepted_completions":["langt"],"language":"nob"}
 {"idiom_start":"drive for v\u00e6r og","accepted_completions":["vind"],"language":"nob"}
 {"idiom_start":"drive gj\u00f8n med","accepted_completions":["noen"],"language":"nob"}
@@ -2109,22 +2063,15 @@
 {"idiom_start":"du slette","accepted_completions":["tid"],"language":"nob"}
 {"idiom_start":"du store","accepted_completions":["min","verden"],"language":"nob"}
 {"idiom_start":"du tar","accepted_completions":["prisen"],"language":"nob"}
-{"idiom_start":"dukke","accepted_completions":["frem"],"language":"nob"}
 {"idiom_start":"dumme seg loddrett","accepted_completions":["ut"],"language":"nob"}
-{"idiom_start":"dyrenes","accepted_completions":["konge"],"language":"nob"}
-{"idiom_start":"dyrke","accepted_completions":["mammon","noen"],"language":"nob"}
 {"idiom_start":"dysse ned","accepted_completions":["noe"],"language":"nob"}
 {"idiom_start":"d\u00f8 mett av","accepted_completions":["dage"],"language":"nob"}
 {"idiom_start":"d\u00f8 p\u00e5","accepted_completions":["sotteseng"],"language":"nob"}
 {"idiom_start":"d\u00f8d og","accepted_completions":["pine","plage"],"language":"nob"}
-{"idiom_start":"d\u00f8dens","accepted_completions":["forg\u00e5rd"],"language":"nob"}
 {"idiom_start":"ebbe i","accepted_completions":["kassen"],"language":"nob"}
 {"idiom_start":"edder og","accepted_completions":["galle"],"language":"nob"}
 {"idiom_start":"eget kj\u00f8tt og","accepted_completions":["blod"],"language":"nob"}
 {"idiom_start":"egget vil l\u00e6re h\u00f8na \u00e5","accepted_completions":["verpe"],"language":"nob"}
-{"idiom_start":"ei","accepted_completions":["berte","megge","skrulle","tuppe"],"language":"nob"}
-{"idiom_start":"eksemplets","accepted_completions":["makt"],"language":"nob"}
-{"idiom_start":"en","accepted_completions":["adonis","advokat","agurktid","akillesh\u00e6l","allviter","analfabet","andedam","anekdote","angstbiter","angstfordriver","anstand","anst\u00f8tsstein","arbeidshest","arbeidsmaur","aspirasjon","attp\u00e5klatt","attp\u00e5sleng","att\u00e5tn\u00e6ring","avgrunn","avledningsman\u00f8ver","avlegger","bagasje","bakevje","bakstrever","baktanke","bakvaskelse","balansegang","balansekunst","barnestjerne","banemann","barnesykdom","basse","bastion","bedreviter","bedrift","bengel","besettelse","bestefarsklokke","bibel","bjellesau","bj\u00f8rnetjeneste","blackout","blei","blekke","blodhevn","blodpris","blodsuger","blomstringstid","blunder","bl\u00e5kopi","bl\u00e5str\u00f8mpe","bl\u00e6re","bl\u00f8dme","boble","boikott","bombe","bondefanger","bondekn\u00f8l","bondetamp","borgfred","brannfakkel","bredside","brems","bremsekloss","brilleslange","broiler","br\u00e5keb\u00f8tte","br\u00f8de","br\u00f8lape","busemann","byggekloss","b\u00f8lgedal","b\u00f8lle","b\u00f8yg","casanova","dagdr\u00f8m","dagligtale","dansel\u00f8ve","demon","devise","dilettant","dobbeltgjenger","dominoeffekt","dommedagsprofet","drage","drivkraft","dronning","drukkenbolt","dr\u00f8mmer","due","dumming","dusinvare","d\u00e5d","d\u00e5re","d\u00e5relokk","d\u00e5semikkel","d\u00f8genikt","einst\u00f8ing","eksosrype","elegantier","epistel","eremitt","eufemisme","fabel","fadese","fallh\u00f8yde","fallitterkl\u00e6ring","faneflukt","fargeklatt","feberredning","femtekolonne","femtekolonnist","fengselsfugl","festbrems","fiasko","filister","fillefant","fillefrans","finansakrobat","fingerspissf\u00f8lelse","firkl\u00f8ver","fisk","fjolle","fjott","flan\u00f8r","flaskehals","flokse","flopp","flottenheimer","flyfille","flyveid\u00e9","fl\u00e5kjeft","fl\u00f8tepus","forbryterbane","forpostfektning","forst\u00e5segp\u00e5er","fors\u00f8kskanin","fossil","frase","fredsdue","frekkas","frille","friskus","furie","fuskelapp","fyllekule","fyr","f\u00f8dselshjelper","galgenfrist","galgenfugl","galning","gap","gategutt","gatepike","generaltabbe","generasjonskl\u00f8ft","gentlemanns","gjenganger","gjennomgangsmelodi","gjerrigknark","gj\u00f8kunge","glansperiode","gledesdreper","gledespike","gledesspreder","glorie","gneldrebikkje","godfjott","gratissjanse","gravr\u00f8st","gressenke","gressenkemann","gris","gr\u00e5tass","gr\u00f8nnsak","gr\u00f8t","gudegave","gullfugl","gullgutt","gulrot","guttevalp","g\u00e5te","hai","hakkekylling","halvgud","ham","hanekylling","hannkatt","hardhaus","hare","hauk","he","hedersgjest","hedersmann","heimf\u00f8ding","heisatur","heksedoktor","hekseprosess","heksering","helgenglorie","helt","helted\u00e5d","heltetenor","hengemyr","herrekost","heteb\u00f8lge","hissigpropp","hivert","hjertesak","hjertevenn","horebukk","hulder","hund","husmanns\u00e5nd","hvitvasking","hybelkanin","hyrdetime","h\u00e5ndfull","h\u00e5ndjager","h\u00e5ndvending","h\u00f8neblund","h\u00f8vding","ildpr\u00f8ve","ildsjel","intrigemaker","jentefut","jette","jomfru","jomfrutur","jordmor","jukselapp","jypling","kakelinne","kalddusj","kameleon","kamphane","kanalje","kanonade","kanossagang","kardinaldyd","kardinalfeil","karismatiker","karrierejeger","karusell","kassasuksess","kasteball","kilevink","kinnhest","kjeftesmelle","kjendis","kjentmann","kjerringknute","klak\u00f8r","klassiker","klippe","klippetro","klisj\u00e9","klisterhjerne","klossmajor","klump","klyse","kn\u00f8l","koffertl\u00f8per","kollb\u00f8tte","koloss","kongstanke","konkursrytter","kop","korsvei","kortslutning","kraftidiot","kraftkar","kraftsalve","krake","kranglefant","krokvei","kronjuvel","krutt\u00f8nne","krystallkule","kubikksjarm\u00f8r","kunstpause","kurtisane","kvakksalver","kverulant","kvikkas","kylling","labb","lakei","larv","ledestjerne","lefse","lenkegjeng","lesbe","lesehest","levemann","likemann","linselus","lokkedue","lokkefugl","lurendreier","lus","lusekj\u00f8rer","lykkeridder","lykkestjerne","lystl\u00f8gner","l\u00e6repenge","l\u00f8gnhals","l\u00f8pegutt","magiker","majestetsforbrytelse","maktdemonstrasjon","mannsgris","mare","marionett","masekopp","matrone","megge","melkeku","mellommann","meningsfelle","menneskealder","mentor","merkedag","merr","mester","millimeter","mine","moralpreken","muldvarp","myrsnipe","m\u00e5lkonge","m\u00e5lmann","m\u00f8kkaspreder","natterangler","natteravn","naturbegavelse","nedsabling","nedtur","nerd","nidvise","novise","n\u00f8kkelperson","n\u00f8tt","oddsbombe","oppreisning","oppstiver","oppvigler","ordensmann","ordgyter","ordkl\u00f8ver","original","overmann","pakkel\u00f8sning","pakketur","palassrevolusjon","papeg\u00f8ye","papirbestemmelse","papirtiger","paragrafrytter","paraply","paraplyorganisasjon","parasitt","parentes","parole","partifelle","pedant","pekepinn","penneknekt","pepperm\u00f8","perle","petimeter","pikelill","pingle","pipekonsert","plage\u00e5nd","platthet","pokersjanse","praktkar","pralhans","programhelt","propp","pr\u00f8veballong","pr\u00f8vekanin","pr\u00f8veklut","pusling","pyntedukke","p\u00e5pakning","rambukk","rangstige","rebell","rebus","reddhare","redningsplanke","renvasking","resept","retor","rev","rosemaling","rugekasse","rustholk","r\u00e5gjenger","r\u00f8dhud","r\u00f8nner","r\u00f8verunge","salderingspost","salongradikaler","saltst\u00f8tte","samfunnsst\u00f8tte","sandp\u00e5str\u00f8er","saueflokk","seierherre","selvmotsigelse","sentens","sexbombe","sfinks","sirkushest","sjargong","sjarmoffensiv","sjeldenhet","sjelevandring","skalk","skamp\u00e6l","skapdranker","skillevei","skipperskr\u00f8ne","skittent\u00f8yvask","skjelm","skjemtegauk","skjennepreken","skj\u00f8nnhetsplett","skj\u00f8rtejeger","skoggerlatter","skrell","skreppe","skrikhals","skrotnisse","skrulle","skurkestrek","skvaldreb\u00f8tte","skyggetilv\u00e6relse","skyteskive","skytsengel","skyttergrav","skyttergravskrig","sk\u00e5runge","sk\u00f8yer","sk\u00f8yerstrek","sladrekjerring","slagmark","slagplan","slengbemerkning","slikkmunn","slubbert","slugger","sluttstrek","smed","sm\u00e5konge","sm\u00f8ring","sm\u00f8rtenor","snelle","snobb","snok","snushane","snyltegjest","sn\u00f8ball","sn\u00f8balleffekt","sn\u00f8rrvalp","sofabonde","sofagris","soper","soss","sparkepike","sparringspartner","spire","spissborger","spisskompetanse","spissrotgang","sprellemann","spr\u00e5kforsker","spyttslikker","sp\u00f8kefugl","staffasje","stamfar","stamgjest","statist","stayer","stemningsb\u00f8lge","stivnakke","stord\u00e5d","strandl\u00f8ve","strateg","strategi","streber","strek","strikkball","stuegris","stymper","styrket\u00e5r","st\u00e5pikk","st\u00f8kk","suksessformel","sunnhetsapostel","suppedas","surpomp","svanesang","svart","sverm","svermer","svingd\u00f8r","svint","svovelpredikant","syklubb","sylfide","syndebukk","synser","synsvinkel","s\u00e5peopera","s\u00e6rling","s\u00f8tmons","s\u00f8tsuppe","tabbe","taburett","taktikker","talestr\u00f8m","tankeflukt","tankevekker","tante","titan","tjuagutt","torneroses\u00f8vn","torpedo","tramp","tredem\u00f8lle","trekant","tributt","trope","tropenatt","trump","tr\u00f8stepremie","tumleplass","tungetaler","turistmagnet","tusenkunstner","tusseladd","t\u00e5keheim","t\u00e5reperse","t\u00f8ffelhelt","t\u00f8s","ugagnskr\u00e5ke","underm\u00e5ler","underverden","ungkarskvinne","uskikk","utflukt","val","valfart","vampyr","vandrehistorie","varselklokke","vaskeseddel","velling","vellysting","verdensborger","verdensmester","versemaker","viktigper","villbasse","villkatt","vitsemaker","vriompeis","v\u00e5ghals","v\u00e6rhane","xantippe","\u00e5gerkarl","\u00e5nd","\u00e5rgangsvin","\u00e6resrunde","\u00f8deland","\u00f8m","\u00f8rnenese","\u00f8nskedr\u00f8m","\u00f8nskekvist","\u00f8yentjener"],"language":"nob"}
 {"idiom_start":"en angrende","accepted_completions":["synder"],"language":"nob"}
 {"idiom_start":"en annen","accepted_completions":["dans"],"language":"nob"}
 {"idiom_start":"en arg","accepted_completions":["konkurrent"],"language":"nob"}
@@ -2278,7 +2225,6 @@
 {"idiom_start":"er det ikke det ene s\u00e5 er det det","accepted_completions":["andre"],"language":"nob"}
 {"idiom_start":"er du fra","accepted_completions":["vettet"],"language":"nob"}
 {"idiom_start":"er du","accepted_completions":["gal","vill"],"language":"nob"}
-{"idiom_start":"et","accepted_completions":["A","adelsmerke","akterspeil","alvorsord","arbeidsjern","bakteppe","ballespark","barometer","blekansikt","blikkfang","blindspor","blodsb\u00e5nd","bondefangeri","bruderov","b\u00f8llefr\u00f8","comeback","dobbeltspill","dollarglis","dragsug","dydsm\u00f8nster","d\u00f8dskyss","elfenbeinst\u00e5rn","elskovsrede","esel","ess","falkeblikk","fallrep","fantasibilde","farvann","feilspor","fengsel","filigransarbeid","fnugg","fornuftsekteskap","forspill","forsvinningsnummer","fossil","frimerke","froskeperspektiv","froskeskudd","fugleperspektiv","fyndord","fyrt\u00e5rn","gjenferd","glansbilde","glasshus","glasstak","halmstr\u00e5","harehjerte","hasardspill","hekseskudd","hemmelighetskremmeri","herrem\u00e5ltid","hespetre","hestehode","hjertebarn","hjertesukk","humlebol","hundeliv","hundev\u00e6r","hverdagsmenneske","hylekor","justismord","kaffeslabberas","kall","kallenavn","kj\u00e6rlighetsbarn","klengenavn","klippekort","knep","knipetak","knot","kors","kort","kraftuttrykk","krakk","krigshyl","kr\u00e5kem\u00e5l","kr\u00e5keslott","kr\u00e5keting","kupp","kvantesprang","lappverk","lavm\u00e5l","lotteri","lurveleven","lyn","lyspunkt","l\u00e5neord","malapropos","malerskrin","mareritt","matfat","mehe","mellomspill","mellomv\u00e6rende","melodrama","men","miksmaks","monstrum","motto","muldvarparbeid","munnhuggeri","museskritt","nappetak","natursvin","nummer","nurk","n\u00e5dest\u00f8t","n\u00e5l\u00f8ye","n\u00f8drop","n\u00f8dskrik","offer","oppnavn","oppst\u00f8t","orakel","ordgyteri","ordtak","overfl\u00f8dighetshorn","pakk","paradoks","pengesluk","pokerfjes","rabalder","radarpar","ramaskrik","rottereir","rulleblad","r\u00e5skinn","r\u00f8verkj\u00f8p","selvbedrag","selvm\u00e5l","sidespor","signalbygg","sisyfosarbeid","skipperskj\u00f8nn","skoleeksempel","skrekkvelde","skuldertrekk","slagord","slangemenneske","sleivspark","slengkyss","slumpetreff","smellkyss","smutthull","sm\u00f8r\u00f8ye","snakket\u00f8y","snyltedyr","solbad","solskinnsbarn","spark","sp\u00f8kelsesslott","stamtre","statusjag","statussymbol","stinkdyr","str\u00f8mpeskudd","supper\u00e5d","svarteperspill","svartsyn","takras","tankegods","tankekorn","tigersprang","tilnavn","trekantforhold","troll","trumfkort","trylleslag","trynetillegg","tr\u00f8stem\u00e5l","tvisyn","umenneske","unikum","urinstinkt","utdrikkingslag","utnavn","uttrykk","vanedyr","vanemenneske","vepsebol","villnis","vink","vrak","vrengebilde","\u00e5ndsverk","\u00e5syn","\u00e6resord","\u00f8rneblikk","\u00f8ye","\u00f8yekast","\u00f8yenvitne"],"language":"nob"}
 {"idiom_start":"et avsluttet","accepted_completions":["kapittel"],"language":"nob"}
 {"idiom_start":"et bevinget","accepted_completions":["ord"],"language":"nob"}
 {"idiom_start":"et bilde sier mer enn tusen","accepted_completions":["ord"],"language":"nob"}
@@ -2355,17 +2301,14 @@
 {"idiom_start":"etter alt \u00e5","accepted_completions":["d\u00f8mme"],"language":"nob"}
 {"idiom_start":"etter beste","accepted_completions":["evne"],"language":"nob"}
 {"idiom_start":"etter fattig","accepted_completions":["evne"],"language":"nob"}
-{"idiom_start":"etter","accepted_completions":["h\u00e5nden","l\u00e6reboka"],"language":"nob"}
 {"idiom_start":"etter moden","accepted_completions":["overveielse"],"language":"nob"}
 {"idiom_start":"etter oss kommer","accepted_completions":["syndfloden"],"language":"nob"}
 {"idiom_start":"etter sitt eget","accepted_completions":["hode"],"language":"nob"}
-{"idiom_start":"faen","accepted_completions":["heller"],"language":"nob"}
 {"idiom_start":"faen i","accepted_completions":["helvete"],"language":"nob"}
 {"idiom_start":"falle av","accepted_completions":["stolen"],"language":"nob"}
 {"idiom_start":"falle blant","accepted_completions":["r\u00f8vere"],"language":"nob"}
 {"idiom_start":"falle for","accepted_completions":["fote"],"language":"nob"}
 {"idiom_start":"falle heldig","accepted_completions":["ut"],"language":"nob"}
-{"idiom_start":"falle","accepted_completions":["hodestups","igjennom","nesegrus","om","pladask"],"language":"nob"}
 {"idiom_start":"falle i","accepted_completions":["gr\u00e5t","s\u00f8vn","tanker","fisk","staver","fristelse"],"language":"nob"}
 {"idiom_start":"falle mellom to","accepted_completions":["stoler"],"language":"nob"}
 {"idiom_start":"falle noen til","accepted_completions":["byrde"],"language":"nob"}
@@ -2373,20 +2316,12 @@
 {"idiom_start":"falle til","accepted_completions":["jorden"],"language":"nob"}
 {"idiom_start":"falle tilbake til gamle","accepted_completions":["synder"],"language":"nob"}
 {"idiom_start":"falle ut av","accepted_completions":["rollen"],"language":"nob"}
-{"idiom_start":"falsk","accepted_completions":["alarm"],"language":"nob"}
 {"idiom_start":"famle etter","accepted_completions":["noe"],"language":"nob"}
 {"idiom_start":"famle seg","accepted_completions":["frem"],"language":"nob"}
 {"idiom_start":"fanden m\u00e5","accepted_completions":["vite"],"language":"nob"}
 {"idiom_start":"fanden og hans","accepted_completions":["oldemor"],"language":"nob"}
-{"idiom_start":"fare","accepted_completions":["ille","sammen"],"language":"nob"}
-{"idiom_start":"fast","accepted_completions":["eiendom"],"language":"nob"}
-{"idiom_start":"fatte","accepted_completions":["seg"],"language":"nob"}
-{"idiom_start":"favne","accepted_completions":["vidt"],"language":"nob"}
 {"idiom_start":"feie all tvil til","accepted_completions":["side"],"language":"nob"}
-{"idiom_start":"feiende","accepted_completions":["flott"],"language":"nob"}
-{"idiom_start":"felle","accepted_completions":["krokodillet\u00e5rer"],"language":"nob"}
 {"idiom_start":"feste seg ved","accepted_completions":["noe"],"language":"nob"}
-{"idiom_start":"finne","accepted_completions":["formen","hverandre","lykken"],"language":"nob"}
 {"idiom_start":"finne opp hjulet p\u00e5","accepted_completions":["nytt"],"language":"nob"}
 {"idiom_start":"finne seg","accepted_completions":["selv"],"language":"nob"}
 {"idiom_start":"finne seg til","accepted_completions":["rette"],"language":"nob"}
@@ -2395,18 +2330,10 @@
 {"idiom_start":"fiske i r\u00f8rt","accepted_completions":["vann"],"language":"nob"}
 {"idiom_start":"fit for","accepted_completions":["fight"],"language":"nob"}
 {"idiom_start":"flagge p\u00e5 halv","accepted_completions":["stang"],"language":"nob"}
-{"idiom_start":"flakke","accepted_completions":["omkring"],"language":"nob"}
-{"idiom_start":"flaske","accepted_completions":["opp"],"language":"nob"}
 {"idiom_start":"flat som en","accepted_completions":["pannekake"],"language":"nob"}
-{"idiom_start":"flekke","accepted_completions":["tenner"],"language":"nob"}
-{"idiom_start":"flippe","accepted_completions":["ut"],"language":"nob"}
-{"idiom_start":"flire","accepted_completions":["bredt"],"language":"nob"}
 {"idiom_start":"fly etter","accepted_completions":["jentene"],"language":"nob"}
 {"idiom_start":"fly i","accepted_completions":["flint"],"language":"nob"}
-{"idiom_start":"fly","accepted_completions":["opp"],"language":"nob"}
 {"idiom_start":"fly ute om","accepted_completions":["kveldene"],"language":"nob"}
-{"idiom_start":"flytte","accepted_completions":["grenser","sammen"],"language":"nob"}
-{"idiom_start":"folk","accepted_completions":["flest"],"language":"nob"}
 {"idiom_start":"for alle tilfellers","accepted_completions":["skyld"],"language":"nob"}
 {"idiom_start":"for alt i","accepted_completions":["verden"],"language":"nob"}
 {"idiom_start":"for d\u00f8ve","accepted_completions":["\u00f8rer"],"language":"nob"}
@@ -2415,7 +2342,6 @@
 {"idiom_start":"for et","accepted_completions":["v\u00e6r"],"language":"nob"}
 {"idiom_start":"for full","accepted_completions":["rulle"],"language":"nob"}
 {"idiom_start":"for godt til \u00e5 v\u00e6re","accepted_completions":["sant"],"language":"nob"}
-{"idiom_start":"for","accepted_completions":["helvete"],"language":"nob"}
 {"idiom_start":"for knapper og","accepted_completions":["glansbilder"],"language":"nob"}
 {"idiom_start":"for lukkede","accepted_completions":["d\u00f8rer"],"language":"nob"}
 {"idiom_start":"for ordens","accepted_completions":["skyld"],"language":"nob"}
@@ -2424,20 +2350,14 @@
 {"idiom_start":"for tusende","accepted_completions":["gang"],"language":"nob"}
 {"idiom_start":"for verdens","accepted_completions":["\u00f8yne"],"language":"nob"}
 {"idiom_start":"for \u00e5 gj\u00f8re en lang historie","accepted_completions":["kort"],"language":"nob"}
-{"idiom_start":"forl\u00f8fte","accepted_completions":["seg"],"language":"nob"}
 {"idiom_start":"fornemme historiens","accepted_completions":["sus"],"language":"nob"}
 {"idiom_start":"forn\u00f8yelsen er p\u00e5 min","accepted_completions":["side"],"language":"nob"}
 {"idiom_start":"forsikre p\u00e5 \u00e6re og","accepted_completions":["samvittighet"],"language":"nob"}
-{"idiom_start":"forslitte","accepted_completions":["fraser"],"language":"nob"}
-{"idiom_start":"forsnakke","accepted_completions":["seg"],"language":"nob"}
-{"idiom_start":"forstrekke","accepted_completions":["seg"],"language":"nob"}
 {"idiom_start":"forst\u00e5 det den som","accepted_completions":["kan"],"language":"nob"}
 {"idiom_start":"forst\u00e5 en halvkvedet","accepted_completions":["vise"],"language":"nob"}
 {"idiom_start":"forsvinne fra jordens","accepted_completions":["overflate"],"language":"nob"}
 {"idiom_start":"forsvinne i l\u00f8se","accepted_completions":["luften"],"language":"nob"}
 {"idiom_start":"forsvinne som en \u00e5nd i en","accepted_completions":["fillehaug"],"language":"nob"}
-{"idiom_start":"fors\u00f8mme","accepted_completions":["seg"],"language":"nob"}
-{"idiom_start":"fort","accepted_completions":["vekk"],"language":"nob"}
 {"idiom_start":"forut for sin","accepted_completions":["tid"],"language":"nob"}
 {"idiom_start":"fra a til","accepted_completions":["\u00e5"],"language":"nob"}
 {"idiom_start":"fra bamsben","accepted_completions":["av"],"language":"nob"}
@@ -2455,12 +2375,8 @@
 {"idiom_start":"frende er frende","accepted_completions":["verst"],"language":"nob"}
 {"idiom_start":"fri og bevare meg","accepted_completions":["vel"],"language":"nob"}
 {"idiom_start":"fri som","accepted_completions":["fuglen"],"language":"nob"}
-{"idiom_start":"frie","accepted_completions":["t\u00f8yler"],"language":"nob"}
 {"idiom_start":"frisk som en","accepted_completions":["fisk"],"language":"nob"}
-{"idiom_start":"friskt","accepted_completions":["blod","mot"],"language":"nob"}
 {"idiom_start":"fr\u00e5de av","accepted_completions":["raseri"],"language":"nob"}
-{"idiom_start":"fugl","accepted_completions":["F\u00f8niks"],"language":"nob"}
-{"idiom_start":"full","accepted_completions":["pakke","pott","baluba"],"language":"nob"}
 {"idiom_start":"fullt hus og stormende","accepted_completions":["jubel"],"language":"nob"}
 {"idiom_start":"fullt og","accepted_completions":["helt"],"language":"nob"}
 {"idiom_start":"fy faen i","accepted_completions":["helvete"],"language":"nob"}
@@ -2481,7 +2397,6 @@
 {"idiom_start":"f\u00e5 en v\u00e5t","accepted_completions":["grav"],"language":"nob"}
 {"idiom_start":"f\u00e5 et","accepted_completions":["anfall","grunnskudd","hint"],"language":"nob"}
 {"idiom_start":"f\u00e5 et bl\u00e5tt","accepted_completions":["\u00f8ye"],"language":"nob"}
-{"idiom_start":"f\u00e5","accepted_completions":["fingeren","fyken","gjennomg\u00e5","grisebank","hetta","jernteppe","kniven","kurven","latterkrampe","l\u00f8pepass","oppreisning","planke","primadonnanykker","sitt","stryk"],"language":"nob"}
 {"idiom_start":"f\u00e5 fingrene i","accepted_completions":["noe"],"language":"nob"}
 {"idiom_start":"f\u00e5 foten","accepted_completions":["innenfor"],"language":"nob"}
 {"idiom_start":"f\u00e5 fritt","accepted_completions":["l\u00f8p"],"language":"nob"}
@@ -2530,26 +2445,21 @@
 {"idiom_start":"f\u00f8lge med p\u00e5","accepted_completions":["kj\u00f8pet"],"language":"nob"}
 {"idiom_start":"f\u00f8lge med","accepted_completions":["str\u00f8mmen"],"language":"nob"}
 {"idiom_start":"f\u00f8lge sitt eget","accepted_completions":["hode"],"language":"nob"}
-{"idiom_start":"f\u00f8lges","accepted_completions":["ad"],"language":"nob"}
 {"idiom_start":"f\u00f8r hanen","accepted_completions":["galer"],"language":"nob"}
 {"idiom_start":"f\u00f8r man aner","accepted_completions":["det"],"language":"nob"}
-{"idiom_start":"f\u00f8re","accepted_completions":["an","vill"],"language":"nob"}
 {"idiom_start":"f\u00f8re det store","accepted_completions":["ord"],"language":"nob"}
 {"idiom_start":"f\u00f8re for","accepted_completions":["vidt"],"language":"nob"}
 {"idiom_start":"f\u00f8re stort","accepted_completions":["hus"],"language":"nob"}
 {"idiom_start":"f\u00f8re til","accepted_completions":["slakterbenken"],"language":"nob"}
 {"idiom_start":"f\u00f8rst og","accepted_completions":["fremst"],"language":"nob"}
 {"idiom_start":"f\u00f8ye spott til","accepted_completions":["skade"],"language":"nob"}
-{"idiom_start":"gamle","accepted_completions":["dager","kumpaner","synder"],"language":"nob"}
 {"idiom_start":"gammel kj\u00e6rlighet ruster","accepted_completions":["ikke"],"language":"nob"}
 {"idiom_start":"gammel som alle","accepted_completions":["haugene"],"language":"nob"}
 {"idiom_start":"gammel vane er vond \u00e5","accepted_completions":["vende"],"language":"nob"}
 {"idiom_start":"gang p\u00e5","accepted_completions":["gang"],"language":"nob"}
-{"idiom_start":"gape","accepted_completions":["over"],"language":"nob"}
 {"idiom_start":"gape over for","accepted_completions":["mye"],"language":"nob"}
 {"idiom_start":"gi avkall p\u00e5","accepted_completions":["noe"],"language":"nob"}
 {"idiom_start":"gi bakerens barn","accepted_completions":["br\u00f8d"],"language":"nob"}
-{"idiom_start":"gi","accepted_completions":["f\u00f8dselshjelp","gass","gjenklang","igjen","jernet"],"language":"nob"}
 {"idiom_start":"gi igjen med","accepted_completions":["renter"],"language":"nob"}
 {"idiom_start":"gi igjen med samme","accepted_completions":["mynt"],"language":"nob"}
 {"idiom_start":"gi med rund","accepted_completions":["h\u00e5nd"],"language":"nob"}
@@ -2566,7 +2476,6 @@
 {"idiom_start":"gid det var s\u00e5","accepted_completions":["vel"],"language":"nob"}
 {"idiom_start":"gjengjelde ondt med","accepted_completions":["godt"],"language":"nob"}
 {"idiom_start":"gj\u00f8re alt som st\u00e5r i ens","accepted_completions":["makt"],"language":"nob"}
-{"idiom_start":"gj\u00f8re","accepted_completions":["anskrik","det","fakter","furore","grimaser","kvalm","miner","rampestreker","sitt","ugagn","underverker","utslaget","baut"],"language":"nob"}
 {"idiom_start":"gj\u00f8re det","accepted_completions":["forbi","m\u00e5nelyst"],"language":"nob"}
 {"idiom_start":"gj\u00f8re det helt","accepted_completions":["store"],"language":"nob"}
 {"idiom_start":"gj\u00f8re det hett for","accepted_completions":["noen"],"language":"nob"}
@@ -2607,36 +2516,25 @@
 {"idiom_start":"gleden er p\u00e5 min","accepted_completions":["side"],"language":"nob"}
 {"idiom_start":"glimre med sitt","accepted_completions":["fr\u00e5v\u00e6r"],"language":"nob"}
 {"idiom_start":"glimt i","accepted_completions":["\u00f8yet"],"language":"nob"}
-{"idiom_start":"glimte","accepted_completions":["til"],"language":"nob"}
 {"idiom_start":"gni salt i","accepted_completions":["s\u00e5ret"],"language":"nob"}
 {"idiom_start":"gni seg i","accepted_completions":["hendene"],"language":"nob"}
 {"idiom_start":"god som","accepted_completions":["gull"],"language":"nob"}
-{"idiom_start":"gode","accepted_completions":["busser"],"language":"nob"}
 {"idiom_start":"gods og","accepted_completions":["gull"],"language":"nob"}
 {"idiom_start":"godt br\u00f8lt ,","accepted_completions":["l\u00f8ve"],"language":"nob"}
 {"idiom_start":"granske hjerter og","accepted_completions":["nyrer"],"language":"nob"}
-{"idiom_start":"grave","accepted_completions":["gr\u00f8fter"],"language":"nob"}
 {"idiom_start":"grave sin egen","accepted_completions":["grav"],"language":"nob"}
-{"idiom_start":"grei","accepted_completions":["skuring"],"language":"nob"}
-{"idiom_start":"greie","accepted_completions":["brasene"],"language":"nob"}
 {"idiom_start":"gresset er alltid gr\u00f8nnere p\u00e5 den andre","accepted_completions":["siden"],"language":"nob"}
 {"idiom_start":"gripe dypt i","accepted_completions":["pungen"],"language":"nob"}
-{"idiom_start":"gripe","accepted_completions":["inn","sjansen"],"language":"nob"}
-{"idiom_start":"grov","accepted_completions":["kjeft"],"language":"nob"}
-{"idiom_start":"grovt","accepted_completions":["skyts"],"language":"nob"}
 {"idiom_start":"gr\u00e5te over spilt","accepted_completions":["melk"],"language":"nob"}
 {"idiom_start":"gr\u00e5te som et","accepted_completions":["barn"],"language":"nob"}
-{"idiom_start":"gud","accepted_completions":["forby"],"language":"nob"}
 {"idiom_start":"gud og","accepted_completions":["hvermann"],"language":"nob"}
 {"idiom_start":"gudsord fra","accepted_completions":["landet"],"language":"nob"}
 {"idiom_start":"gul og","accepted_completions":["bl\u00e5"],"language":"nob"}
-{"idiom_start":"gullet","accepted_completions":["mitt"],"language":"nob"}
 {"idiom_start":"g\u00e5 all kj\u00f8dets","accepted_completions":["gang"],"language":"nob"}
 {"idiom_start":"g\u00e5 arm i","accepted_completions":["arm"],"language":"nob"}
 {"idiom_start":"g\u00e5 av","accepted_completions":["hengslene","stabelen"],"language":"nob"}
 {"idiom_start":"g\u00e5 av med","accepted_completions":["seieren"],"language":"nob"}
 {"idiom_start":"g\u00e5 av seg","accepted_completions":["selv"],"language":"nob"}
-{"idiom_start":"g\u00e5","accepted_completions":["bakveier","bananas","beit","berserk","bort","botsgang","fiskebein","foran","f\u00f8yken","gradene","heden","hjem","igjen","smertefritt","spissrotgang","tapt","under","unna","amok","fl\u00f8yten","kanossagang"],"language":"nob"}
 {"idiom_start":"g\u00e5 b\u00e5de vinter og","accepted_completions":["v\u00e5r"],"language":"nob"}
 {"idiom_start":"g\u00e5 den tunge","accepted_completions":["gang"],"language":"nob"}
 {"idiom_start":"g\u00e5 den veien h\u00f8na","accepted_completions":["sparker"],"language":"nob"}
@@ -2711,7 +2609,6 @@
 {"idiom_start":"ha adresse til","accepted_completions":["noen"],"language":"nob"}
 {"idiom_start":"ha alle odds mot","accepted_completions":["seg"],"language":"nob"}
 {"idiom_start":"ha antennene","accepted_completions":["ute"],"language":"nob"}
-{"idiom_start":"ha","accepted_completions":["appell","barnetekke","griseflaks","hastverk","hjertebank","hjertelag","lampefeber","magem\u00e5l","mannsmot","medvind","nerver","n\u00e6ringsvett","orkesterplass","pokerfjes","primadonnanykker","skamvett","st\u00e5lkontroll","teft","utstr\u00e5ling"],"language":"nob"}
 {"idiom_start":"ha bange","accepted_completions":["anelser"],"language":"nob"}
 {"idiom_start":"ha begge beina p\u00e5","accepted_completions":["jorda"],"language":"nob"}
 {"idiom_start":"ha bukten og begge","accepted_completions":["endene"],"language":"nob"}
@@ -2825,9 +2722,7 @@
 {"idiom_start":"hadde jeg nesten","accepted_completions":["sagt"],"language":"nob"}
 {"idiom_start":"hakk i","accepted_completions":["plata"],"language":"nob"}
 {"idiom_start":"hal i og","accepted_completions":["dra"],"language":"nob"}
-{"idiom_start":"hale","accepted_completions":["innp\u00e5"],"language":"nob"}
 {"idiom_start":"halvparten kunne v\u00e6rt","accepted_completions":["nok"],"language":"nob"}
-{"idiom_start":"hamre","accepted_completions":["l\u00f8s"],"language":"nob"}
 {"idiom_start":"han ba om","accepted_completions":["det"],"language":"nob"}
 {"idiom_start":"han er ikke f\u00f8dt i","accepted_completions":["g\u00e5r"],"language":"nob"}
 {"idiom_start":"han fikk h\u00f8re","accepted_completions":["det"],"language":"nob"}
@@ -2836,23 +2731,16 @@
 {"idiom_start":"handle i god","accepted_completions":["tro"],"language":"nob"}
 {"idiom_start":"handle p\u00e5","accepted_completions":["bok","svarteb\u00f8rs"],"language":"nob"}
 {"idiom_start":"har du klave , f\u00e5r du","accepted_completions":["ku"],"language":"nob"}
-{"idiom_start":"hard","accepted_completions":["valuta"],"language":"nob"}
-{"idiom_start":"harve","accepted_completions":["over"],"language":"nob"}
 {"idiom_start":"hastverk er","accepted_completions":["lastverk"],"language":"nob"}
-{"idiom_start":"havets","accepted_completions":["s\u00f8lv"],"language":"nob"}
 {"idiom_start":"havne i","accepted_completions":["rennesteinen"],"language":"nob"}
 {"idiom_start":"havne midt i","accepted_completions":["sm\u00f8r\u00f8yet"],"language":"nob"}
 {"idiom_start":"havne p\u00e5","accepted_completions":["galeien","viddene"],"language":"nob"}
-{"idiom_start":"hei","accepted_completions":["sveis"],"language":"nob"}
 {"idiom_start":"heise hvitt","accepted_completions":["flagg"],"language":"nob"}
 {"idiom_start":"hekte seg","accepted_completions":["p\u00e5"],"language":"nob"}
 {"idiom_start":"hele dagen til","accepted_completions":["ende"],"language":"nob"}
-{"idiom_start":"hele","accepted_completions":["kostebinderiet","suppa","sulamitten"],"language":"nob"}
 {"idiom_start":"helle kaldt vann i","accepted_completions":["blodet"],"language":"nob"}
 {"idiom_start":"helle malurt i","accepted_completions":["begeret"],"language":"nob"}
 {"idiom_start":"helle olje p\u00e5","accepted_completions":["b\u00f8lgene"],"language":"nob"}
-{"idiom_start":"helt","accepted_completions":["pyton"],"language":"nob"}
-{"idiom_start":"helvete","accepted_completions":["heller"],"language":"nob"}
 {"idiom_start":"henge bjella p\u00e5","accepted_completions":["katten"],"language":"nob"}
 {"idiom_start":"henge i","accepted_completions":["klokkestrengen","stroppen"],"language":"nob"}
 {"idiom_start":"henge med","accepted_completions":["hodet","leppa","noen","geipen","nebbet"],"language":"nob"}
@@ -2867,8 +2755,6 @@
 {"idiom_start":"her hjelper ingen kj\u00e6re","accepted_completions":["mor"],"language":"nob"}
 {"idiom_start":"her i","accepted_completions":["steinr\u00f8ysa"],"language":"nob"}
 {"idiom_start":"her og","accepted_completions":["der"],"language":"nob"}
-{"idiom_start":"hevde","accepted_completions":["seg"],"language":"nob"}
-{"idiom_start":"heve","accepted_completions":["lista","pekefingeren","taffelet","\u00f8yenbrynene"],"language":"nob"}
 {"idiom_start":"heve sin","accepted_completions":["r\u00f8st"],"language":"nob"}
 {"idiom_start":"hevnen er","accepted_completions":["s\u00f8t"],"language":"nob"}
 {"idiom_start":"hevnens time er","accepted_completions":["kommet"],"language":"nob"}
@@ -2888,7 +2774,6 @@
 {"idiom_start":"holde gode","accepted_completions":["miner"],"language":"nob"}
 {"idiom_start":"holde hodet","accepted_completions":["kaldt"],"language":"nob"}
 {"idiom_start":"holde i","accepted_completions":["hevd","sjakk"],"language":"nob"}
-{"idiom_start":"holde","accepted_completions":["koken","krigsr\u00e5d","seg","skansen","stand","stikk","tett","tr\u00e5den","vann","v\u00e6ret"],"language":"nob"}
 {"idiom_start":"holde kruttet","accepted_completions":["t\u00f8rt"],"language":"nob"}
 {"idiom_start":"holde liv i","accepted_completions":["h\u00e5pet"],"language":"nob"}
 {"idiom_start":"holde nervene i","accepted_completions":["ro"],"language":"nob"}
@@ -2913,7 +2798,6 @@
 {"idiom_start":"holde \u00f8rene","accepted_completions":["stive"],"language":"nob"}
 {"idiom_start":"holde \u00f8yne og \u00f8rer","accepted_completions":["\u00e5pne"],"language":"nob"}
 {"idiom_start":"holde \u00f8ynene","accepted_completions":["\u00e5pne"],"language":"nob"}
-{"idiom_start":"hoppe","accepted_completions":["av","bukk","inn","paradis"],"language":"nob"}
 {"idiom_start":"hoppe av i","accepted_completions":["svingen"],"language":"nob"}
 {"idiom_start":"hoppe av","accepted_completions":["karusellen"],"language":"nob"}
 {"idiom_start":"hoppe over der gjerdet er","accepted_completions":["lavest"],"language":"nob"}
@@ -2921,19 +2805,16 @@
 {"idiom_start":"hoppe p\u00e5","accepted_completions":["noe"],"language":"nob"}
 {"idiom_start":"hoste opp","accepted_completions":["noe"],"language":"nob"}
 {"idiom_start":"hovmod st\u00e5r for","accepted_completions":["fall"],"language":"nob"}
-{"idiom_start":"huff","accepted_completions":["da"],"language":"nob"}
 {"idiom_start":"hummer og","accepted_completions":["kanari"],"language":"nob"}
 {"idiom_start":"humpe og","accepted_completions":["g\u00e5"],"language":"nob"}
 {"idiom_start":"hun er ingen hvem som","accepted_completions":["helst"],"language":"nob"}
 {"idiom_start":"hundre og ett er","accepted_completions":["ute"],"language":"nob"}
-{"idiom_start":"hva","accepted_completions":["behager"],"language":"nob"}
 {"idiom_start":"hva byr du","accepted_completions":["meg"],"language":"nob"}
 {"idiom_start":"hva er det for en","accepted_completions":["tone"],"language":"nob"}
 {"idiom_start":"hva er det som st\u00e5r","accepted_completions":["p\u00e5"],"language":"nob"}
 {"idiom_start":"hva hjertet er fullt av , l\u00f8per munnen over","accepted_completions":["med"],"language":"nob"}
 {"idiom_start":"hva kom f\u00f8rst , h\u00f8na eller","accepted_completions":["egget"],"language":"nob"}
 {"idiom_start":"hva skal det v\u00e6re godt","accepted_completions":["for"],"language":"nob"}
-{"idiom_start":"hvem","accepted_completions":["vet"],"language":"nob"}
 {"idiom_start":"hver evige","accepted_completions":["dag"],"language":"nob"}
 {"idiom_start":"hver fugl synger med sitt","accepted_completions":["nebb"],"language":"nob"}
 {"idiom_start":"hver sin","accepted_completions":["smak"],"language":"nob"}
@@ -2954,13 +2835,10 @@
 {"idiom_start":"h\u00e5p i hengende","accepted_completions":["sn\u00f8re"],"language":"nob"}
 {"idiom_start":"h\u00e5pet er","accepted_completions":["lysegr\u00f8nt"],"language":"nob"}
 {"idiom_start":"h\u00f8re englene","accepted_completions":["synge"],"language":"nob"}
-{"idiom_start":"h\u00f8re","accepted_completions":["hjemme","innom"],"language":"nob"}
 {"idiom_start":"h\u00f8re til dagens","accepted_completions":["orden"],"language":"nob"}
 {"idiom_start":"h\u00f8re til","accepted_completions":["sjeldenhetene"],"language":"nob"}
-{"idiom_start":"h\u00f8ste","accepted_completions":["laurb\u00e6r"],"language":"nob"}
 {"idiom_start":"h\u00f8yt henger de og sure er","accepted_completions":["de"],"language":"nob"}
 {"idiom_start":"h\u00f8yt og","accepted_completions":["lavt"],"language":"nob"}
-{"idiom_start":"i","accepted_completions":["adamsdrakt","beit","b\u00f8ttevis","dag","dusinvis","d\u00f8dvanne","evadrakt","grus","klartekst","lengden","rad","slag","sneglefart","vig\u00f8r","\u00f8yeblikket"],"language":"nob"}
 {"idiom_start":"i all","accepted_completions":["beskjedenhet"],"language":"nob"}
 {"idiom_start":"i alle regnbuens","accepted_completions":["farger"],"language":"nob"}
 {"idiom_start":"i angst og","accepted_completions":["beven"],"language":"nob"}
@@ -3029,7 +2907,6 @@
 {"idiom_start":"ikke et sekund for","accepted_completions":["tidlig"],"language":"nob"}
 {"idiom_start":"ikke fatte og","accepted_completions":["begripe"],"language":"nob"}
 {"idiom_start":"ikke finne seg i","accepted_completions":["noe"],"language":"nob"}
-{"idiom_start":"ikke","accepted_completions":["flisa","ueffen"],"language":"nob"}
 {"idiom_start":"ikke friste","accepted_completions":["skjebnen"],"language":"nob"}
 {"idiom_start":"ikke f\u00e5 frem et","accepted_completions":["ord"],"language":"nob"}
 {"idiom_start":"ikke gi en lyd fra","accepted_completions":["seg"],"language":"nob"}
@@ -3107,13 +2984,10 @@
 {"idiom_start":"ingen slinger i","accepted_completions":["valsen"],"language":"nob"}
 {"idiom_start":"ingen verdens","accepted_completions":["ting"],"language":"nob"}
 {"idiom_start":"ingen vet hvor haren","accepted_completions":["hopper"],"language":"nob"}
-{"idiom_start":"ingen","accepted_completions":["\u00e5rsak"],"language":"nob"}
 {"idiom_start":"intet svar er ogs\u00e5 et","accepted_completions":["svar"],"language":"nob"}
-{"idiom_start":"ja ,","accepted_completions":["bevares"],"language":"nob"}
 {"idiom_start":"ja , det skal jeg hilse og","accepted_completions":["si"],"language":"nob"}
 {"idiom_start":"ja , er du","accepted_completions":["gal"],"language":"nob"}
 {"idiom_start":"ja , si","accepted_completions":["det"],"language":"nob"}
-{"idiom_start":"ja","accepted_completions":["takk"],"language":"nob"}
 {"idiom_start":"jeg for min","accepted_completions":["del"],"language":"nob"}
 {"idiom_start":"jeg har ikke","accepted_completions":["ord","peiling"],"language":"nob"}
 {"idiom_start":"jeg har tenkt","accepted_completions":["tanken"],"language":"nob"}
@@ -3133,14 +3007,9 @@
 {"idiom_start":"jevnt og","accepted_completions":["trutt"],"language":"nob"}
 {"idiom_start":"jo , s\u00e5","accepted_completions":["menn"],"language":"nob"}
 {"idiom_start":"jo f\u00f8r , jo","accepted_completions":["heller"],"language":"nob"}
-{"idiom_start":"jon","accepted_completions":["Blund"],"language":"nob"}
-{"idiom_start":"jordisk","accepted_completions":["gods"],"language":"nob"}
 {"idiom_start":"jubelen st\u00e5r i","accepted_completions":["taket"],"language":"nob"}
 {"idiom_start":"juvelen i","accepted_completions":["krona"],"language":"nob"}
-{"idiom_start":"j\u00f8ye","accepted_completions":["seg"],"language":"nob"}
 {"idiom_start":"kan du fatte og","accepted_completions":["begripe"],"language":"nob"}
-{"idiom_start":"kari","accepted_completions":["Nordmann"],"language":"nob"}
-{"idiom_start":"kaste","accepted_completions":["anker","kortene","lodd"],"language":"nob"}
 {"idiom_start":"kaste bl\u00e5r i \u00f8ynene p\u00e5","accepted_completions":["noen","en"],"language":"nob"}
 {"idiom_start":"kaste gode penger etter","accepted_completions":["d\u00e5rlige"],"language":"nob"}
 {"idiom_start":"kaste lys over","accepted_completions":["noe"],"language":"nob"}
@@ -3151,7 +3020,6 @@
 {"idiom_start":"kaste stein n\u00e5r man sitter i","accepted_completions":["glasshus"],"language":"nob"}
 {"idiom_start":"kaste vrak p\u00e5","accepted_completions":["noe"],"language":"nob"}
 {"idiom_start":"keiserens nye","accepted_completions":["kl\u00e6r"],"language":"nob"}
-{"idiom_start":"kirsten","accepted_completions":["Giftekniv"],"language":"nob"}
 {"idiom_start":"kjefte og","accepted_completions":["smelle"],"language":"nob"}
 {"idiom_start":"kjempe for en god","accepted_completions":["sak"],"language":"nob"}
 {"idiom_start":"kjempe mann mot","accepted_completions":["mann"],"language":"nob"}
@@ -3161,7 +3029,6 @@
 {"idiom_start":"kjempe til siste","accepted_completions":["blodsdr\u00e5pe"],"language":"nob"}
 {"idiom_start":"kjenne lusa p\u00e5","accepted_completions":["gangen"],"language":"nob"}
 {"idiom_start":"kjenne sine","accepted_completions":["pappenheimere"],"language":"nob"}
-{"idiom_start":"kjente","accepted_completions":["strofer"],"language":"nob"}
 {"idiom_start":"kjerringa mot","accepted_completions":["str\u00f8mmen"],"language":"nob"}
 {"idiom_start":"kj\u00e6rlighet gj\u00f8r","accepted_completions":["blind"],"language":"nob"}
 {"idiom_start":"kj\u00e6rt barn har mange","accepted_completions":["navn"],"language":"nob"}
@@ -3174,18 +3041,13 @@
 {"idiom_start":"kj\u00f8tt og","accepted_completions":["blod"],"language":"nob"}
 {"idiom_start":"klage sin","accepted_completions":["n\u00f8d"],"language":"nob"}
 {"idiom_start":"klappe til","accepted_completions":["kai"],"language":"nob"}
-{"idiom_start":"klare","accepted_completions":["brasene"],"language":"nob"}
 {"idiom_start":"klare det kunststykket","accepted_completions":["\u00e5"],"language":"nob"}
-{"idiom_start":"klin","accepted_completions":["kokos"],"language":"nob"}
 {"idiom_start":"klokka er fem p\u00e5","accepted_completions":["tolv"],"language":"nob"}
 {"idiom_start":"klore til","accepted_completions":["seg"],"language":"nob"}
 {"idiom_start":"kl\u00f8 seg bak","accepted_completions":["\u00f8ret"],"language":"nob"}
 {"idiom_start":"kneise med","accepted_completions":["nakken"],"language":"nob"}
-{"idiom_start":"knekke","accepted_completions":["koden"],"language":"nob"}
 {"idiom_start":"knekke sammen av","accepted_completions":["latter"],"language":"nob"}
 {"idiom_start":"knipe igjen det ene","accepted_completions":["\u00f8yet"],"language":"nob"}
-{"idiom_start":"knuse","accepted_completions":["noen"],"language":"nob"}
-{"idiom_start":"knytte","accepted_completions":["nevene","vennskapsb\u00e5nd"],"language":"nob"}
 {"idiom_start":"koble inn","accepted_completions":["turboen"],"language":"nob"}
 {"idiom_start":"koke bort i","accepted_completions":["k\u00e5len"],"language":"nob"}
 {"idiom_start":"komme an","accepted_completions":["p\u00e5"],"language":"nob"}
@@ -3193,7 +3055,6 @@
 {"idiom_start":"komme fra fjern og","accepted_completions":["n\u00e6r"],"language":"nob"}
 {"idiom_start":"komme fra","accepted_completions":["hjertet"],"language":"nob"}
 {"idiom_start":"komme frem i","accepted_completions":["verden"],"language":"nob"}
-{"idiom_start":"komme","accepted_completions":["fykende","opp"],"language":"nob"}
 {"idiom_start":"komme f\u00f8rst til","accepted_completions":["m\u00f8lla"],"language":"nob"}
 {"idiom_start":"komme gjennom","accepted_completions":["n\u00e5l\u00f8yet"],"language":"nob"}
 {"idiom_start":"komme godt","accepted_completions":["med"],"language":"nob"}
@@ -3242,11 +3103,8 @@
 {"idiom_start":"komme ut \u00e5","accepted_completions":["kj\u00f8re"],"language":"nob"}
 {"idiom_start":"komme vel","accepted_completions":["med"],"language":"nob"}
 {"idiom_start":"kommer tid , kommer","accepted_completions":["r\u00e5d"],"language":"nob"}
-{"idiom_start":"konfirmere","accepted_completions":["noen"],"language":"nob"}
-{"idiom_start":"kong","accepted_completions":["Alkohol"],"language":"nob"}
 {"idiom_start":"kort og","accepted_completions":["godt"],"language":"nob"}
 {"idiom_start":"koste en","accepted_completions":["formue"],"language":"nob"}
-{"idiom_start":"koste","accepted_completions":["p\u00e5","skjorta"],"language":"nob"}
 {"idiom_start":"krake s\u00f8ker","accepted_completions":["make"],"language":"nob"}
 {"idiom_start":"kreti og","accepted_completions":["pleti"],"language":"nob"}
 {"idiom_start":"kronen p\u00e5","accepted_completions":["verket"],"language":"nob"}
@@ -3262,15 +3120,12 @@
 {"idiom_start":"kunne velge og","accepted_completions":["vrake"],"language":"nob"}
 {"idiom_start":"kunne vente","accepted_completions":["seg"],"language":"nob"}
 {"idiom_start":"kunnskap er","accepted_completions":["makt"],"language":"nob"}
-{"idiom_start":"kutte","accepted_completions":["navlestrengen"],"language":"nob"}
 {"idiom_start":"kvele noe i","accepted_completions":["f\u00f8dselen"],"language":"nob"}
-{"idiom_start":"kvesse","accepted_completions":["pennen"],"language":"nob"}
 {"idiom_start":"kvinnens eldste","accepted_completions":["yrke"],"language":"nob"}
 {"idiom_start":"kysse og","accepted_completions":["kline"],"language":"nob"}
 {"idiom_start":"kysten er","accepted_completions":["klar"],"language":"nob"}
 {"idiom_start":"la det skure og","accepted_completions":["g\u00e5"],"language":"nob"}
 {"idiom_start":"la det v\u00e6re","accepted_completions":["sagt"],"language":"nob"}
-{"idiom_start":"la","accepted_completions":["g\u00e5"],"language":"nob"}
 {"idiom_start":"la handling f\u00f8lge","accepted_completions":["ord"],"language":"nob"}
 {"idiom_start":"la humla","accepted_completions":["suse"],"language":"nob"}
 {"idiom_start":"la noe","accepted_completions":["ligge"],"language":"nob"}
@@ -3279,20 +3134,16 @@
 {"idiom_start":"la seg vippe av","accepted_completions":["pinnen"],"language":"nob"}
 {"idiom_start":"la tvilen komme tiltalte til","accepted_completions":["gode"],"language":"nob"}
 {"idiom_start":"la vente p\u00e5","accepted_completions":["seg"],"language":"nob"}
-{"idiom_start":"lade","accepted_completions":["batteriene"],"language":"nob"}
 {"idiom_start":"lage et","accepted_completions":["forsvinningsnummer"],"language":"nob"}
 {"idiom_start":"lage gull av","accepted_completions":["gr\u00e5stein"],"language":"nob"}
 {"idiom_start":"lage ris til egen","accepted_completions":["bak"],"language":"nob"}
-{"idiom_start":"lage","accepted_completions":["spetakkel","spillopper"],"language":"nob"}
 {"idiom_start":"lakke og","accepted_completions":["li"],"language":"nob"}
-{"idiom_start":"late","accepted_completions":["vannet"],"language":"nob"}
 {"idiom_start":"legge ansiktet i de rette","accepted_completions":["folder"],"language":"nob"}
 {"idiom_start":"legge beslag p\u00e5","accepted_completions":["noe","noen"],"language":"nob"}
 {"idiom_start":"legge bredsiden","accepted_completions":["til"],"language":"nob"}
 {"idiom_start":"legge b\u00e5nd p\u00e5","accepted_completions":["seg"],"language":"nob"}
 {"idiom_start":"legge en","accepted_completions":["slagplan"],"language":"nob"}
 {"idiom_start":"legge godviljen","accepted_completions":["til"],"language":"nob"}
-{"idiom_start":"legge","accepted_completions":["gullegget"],"language":"nob"}
 {"idiom_start":"legge hendene i","accepted_completions":["fanget"],"language":"nob"}
 {"idiom_start":"legge hodet i","accepted_completions":["bl\u00f8t"],"language":"nob"}
 {"idiom_start":"legge hodet p\u00e5","accepted_completions":["blokken","blokka"],"language":"nob"}
@@ -3335,14 +3186,10 @@
 {"idiom_start":"leve p\u00e5","accepted_completions":["krita","skyggesiden"],"language":"nob"}
 {"idiom_start":"leve p\u00e5 l\u00e5nt","accepted_completions":["tid"],"language":"nob"}
 {"idiom_start":"leve p\u00e5 stor","accepted_completions":["fot"],"language":"nob"}
-{"idiom_start":"leve","accepted_completions":["sammen"],"language":"nob"}
 {"idiom_start":"leve som en","accepted_completions":["greve"],"language":"nob"}
 {"idiom_start":"leve som hund og","accepted_completions":["katt"],"language":"nob"}
-{"idiom_start":"levere","accepted_completions":["varene"],"language":"nob"}
 {"idiom_start":"lide av","accepted_completions":["stormannsgalskap"],"language":"nob"}
 {"idiom_start":"lide en ublid","accepted_completions":["skjebne"],"language":"nob"}
-{"idiom_start":"lide","accepted_completions":["nederlag"],"language":"nob"}
-{"idiom_start":"ligge","accepted_completions":["bak","fremp\u00e5","lavt","paddeflat"],"language":"nob"}
 {"idiom_start":"ligge et hakk","accepted_completions":["over"],"language":"nob"}
 {"idiom_start":"ligge hulter til","accepted_completions":["bulter"],"language":"nob"}
 {"idiom_start":"ligge i","accepted_completions":["luften","l\u00f8ypa"],"language":"nob"}
@@ -3364,12 +3211,9 @@
 {"idiom_start":"lite eller","accepted_completions":["ingenting"],"language":"nob"}
 {"idiom_start":"litt etter","accepted_completions":["litt"],"language":"nob"}
 {"idiom_start":"liv og","accepted_completions":["lemmer"],"language":"nob"}
-{"idiom_start":"lodde","accepted_completions":["stemningen"],"language":"nob"}
 {"idiom_start":"loddet er","accepted_completions":["kastet"],"language":"nob"}
-{"idiom_start":"loppe","accepted_completions":["noen"],"language":"nob"}
 {"idiom_start":"love bot og","accepted_completions":["bedring"],"language":"nob"}
 {"idiom_start":"lovens \u00e5nd og lovens","accepted_completions":["bokstav"],"language":"nob"}
-{"idiom_start":"lufte","accepted_completions":["noe"],"language":"nob"}
 {"idiom_start":"luke bort","accepted_completions":["noe"],"language":"nob"}
 {"idiom_start":"lukke seg","accepted_completions":["inne"],"language":"nob"}
 {"idiom_start":"lukke seg inne i seg","accepted_completions":["selv"],"language":"nob"}
@@ -3378,7 +3222,6 @@
 {"idiom_start":"lure i","accepted_completions":["kulissene"],"language":"nob"}
 {"idiom_start":"lure noen trill","accepted_completions":["rundt"],"language":"nob"}
 {"idiom_start":"lykken st\u00e5r den kjekke","accepted_completions":["bi"],"language":"nob"}
-{"idiom_start":"lykkens","accepted_completions":["pamfilius"],"language":"nob"}
 {"idiom_start":"lynet sl\u00e5r","accepted_completions":["ned"],"language":"nob"}
 {"idiom_start":"lytte med et halvt","accepted_completions":["\u00f8re"],"language":"nob"}
 {"idiom_start":"lytte til fornuftens","accepted_completions":["stemme"],"language":"nob"}
@@ -3386,18 +3229,12 @@
 {"idiom_start":"lytte ved","accepted_completions":["d\u00f8rene"],"language":"nob"}
 {"idiom_start":"l\u00e6re i livets","accepted_completions":["skole"],"language":"nob"}
 {"idiom_start":"l\u00f8fte i","accepted_completions":["flokk"],"language":"nob"}
-{"idiom_start":"l\u00f8fte","accepted_completions":["pekefingeren","seg","\u00f8yenbrynene"],"language":"nob"}
 {"idiom_start":"l\u00f8fte seg selv etter","accepted_completions":["h\u00e5ret"],"language":"nob"}
 {"idiom_start":"l\u00f8pe beina av","accepted_completions":["seg"],"language":"nob"}
 {"idiom_start":"l\u00f8pe fra sin egen","accepted_completions":["skygge"],"language":"nob"}
 {"idiom_start":"l\u00f8pe i","accepted_completions":["vann"],"language":"nob"}
 {"idiom_start":"l\u00f8pe linen","accepted_completions":["ut"],"language":"nob"}
 {"idiom_start":"l\u00f8se den gordiske","accepted_completions":["knute"],"language":"nob"}
-{"idiom_start":"l\u00f8se","accepted_completions":["floken"],"language":"nob"}
-{"idiom_start":"l\u00f8st","accepted_completions":["krutt","snakk"],"language":"nob"}
-{"idiom_start":"l\u00f8vens","accepted_completions":["gap","huie","klo"],"language":"nob"}
-{"idiom_start":"mager","accepted_completions":["kost"],"language":"nob"}
-{"idiom_start":"maktens","accepted_completions":["tinde"],"language":"nob"}
 {"idiom_start":"male med bred","accepted_completions":["pensel"],"language":"nob"}
 {"idiom_start":"male som en","accepted_completions":["katt"],"language":"nob"}
 {"idiom_start":"malurt i","accepted_completions":["begeret"],"language":"nob"}
@@ -3411,18 +3248,15 @@
 {"idiom_start":"man vet hva man har , men ikke hva man","accepted_completions":["f\u00e5r"],"language":"nob"}
 {"idiom_start":"mang en god","accepted_completions":["dag"],"language":"nob"}
 {"idiom_start":"mange bekker sm\u00e5 gj\u00f8r en stor","accepted_completions":["\u00e5"],"language":"nob"}
-{"idiom_start":"mangle","accepted_completions":["gangsyn","ryggrad"],"language":"nob"}
 {"idiom_start":"mann og","accepted_completions":["mus"],"language":"nob"}
 {"idiom_start":"mannen i","accepted_completions":["huset"],"language":"nob"}
 {"idiom_start":"mannen med","accepted_completions":["hoven","lj\u00e5en"],"language":"nob"}
 {"idiom_start":"mannen p\u00e5","accepted_completions":["gaten","gulvet"],"language":"nob"}
 {"idiom_start":"mat for","accepted_completions":["guder"],"language":"nob"}
-{"idiom_start":"mate","accepted_completions":["krabbene"],"language":"nob"}
 {"idiom_start":"med andre","accepted_completions":["ord"],"language":"nob"}
 {"idiom_start":"med bevende","accepted_completions":["hjerte"],"language":"nob"}
 {"idiom_start":"med bind for","accepted_completions":["\u00f8ynene"],"language":"nob"}
 {"idiom_start":"med blandede","accepted_completions":["f\u00f8lelser"],"language":"nob"}
-{"idiom_start":"med","accepted_completions":["bravur","d\u00f8dsforakt","rakettfart","sjumilsst\u00f8vler"],"language":"nob"}
 {"idiom_start":"med bred","accepted_completions":["penn"],"language":"nob"}
 {"idiom_start":"med bristende","accepted_completions":["hjerte"],"language":"nob"}
 {"idiom_start":"med det blotte","accepted_completions":["\u00f8ye"],"language":"nob"}
@@ -3454,10 +3288,8 @@
 {"idiom_start":"med v\u00e5pen i","accepted_completions":["h\u00e5nd"],"language":"nob"}
 {"idiom_start":"med \u00e5pne","accepted_completions":["armer","\u00f8yne"],"language":"nob"}
 {"idiom_start":"med \u00e6ren i","accepted_completions":["behold"],"language":"nob"}
-{"idiom_start":"meg","accepted_completions":["her"],"language":"nob"}
 {"idiom_start":"meie sin egen","accepted_completions":["kake"],"language":"nob"}
 {"idiom_start":"mellom barken og","accepted_completions":["veden"],"language":"nob"}
-{"idiom_start":"mellom","accepted_completions":["br\u00f8dre","linjene"],"language":"nob"}
 {"idiom_start":"mellom oss","accepted_completions":["sagt"],"language":"nob"}
 {"idiom_start":"mellom to","accepted_completions":["permer"],"language":"nob"}
 {"idiom_start":"men hvor lenge var Adam i","accepted_completions":["paradis"],"language":"nob"}
@@ -3469,16 +3301,12 @@
 {"idiom_start":"midt p\u00e5 blanke","accepted_completions":["formiddagen"],"language":"nob"}
 {"idiom_start":"midt p\u00e5 svarte","accepted_completions":["natta","vinteren"],"language":"nob"}
 {"idiom_start":"midt p\u00e5","accepted_completions":["treet"],"language":"nob"}
-{"idiom_start":"mikkel","accepted_completions":["rev"],"language":"nob"}
 {"idiom_start":"min forstand st\u00e5r","accepted_completions":["stille"],"language":"nob"}
-{"idiom_start":"miste","accepted_completions":["bakkekontakten","fatningen","fotfestet","gangsynet","hodet","motet","piffen","tr\u00e5den","ansikt"],"language":"nob"}
-{"idiom_start":"mor","accepted_completions":["Norge"],"language":"nob"}
 {"idiom_start":"mot all sunn","accepted_completions":["fornuft"],"language":"nob"}
 {"idiom_start":"mot alle","accepted_completions":["odds"],"language":"nob"}
 {"idiom_start":"mot bedre","accepted_completions":["vitende"],"language":"nob"}
 {"idiom_start":"mot sin","accepted_completions":["vilje"],"language":"nob"}
 {"idiom_start":"musa som","accepted_completions":["br\u00f8lte"],"language":"nob"}
-{"idiom_start":"mutters","accepted_completions":["alene"],"language":"nob"}
 {"idiom_start":"mye skrik og lite","accepted_completions":["ull"],"language":"nob"}
 {"idiom_start":"mye st\u00e5r p\u00e5","accepted_completions":["spill"],"language":"nob"}
 {"idiom_start":"mye vil ha","accepted_completions":["mer"],"language":"nob"}
@@ -3490,23 +3318,18 @@
 {"idiom_start":"m\u00e5tte krype til","accepted_completions":["korset"],"language":"nob"}
 {"idiom_start":"m\u00e5tte til","accepted_completions":["pers"],"language":"nob"}
 {"idiom_start":"m\u00e5tte velge mellom pest og","accepted_completions":["kolera"],"language":"nob"}
-{"idiom_start":"m\u00f8rkets","accepted_completions":["fyrste"],"language":"nob"}
-{"idiom_start":"m\u00f8rklegge","accepted_completions":["noe"],"language":"nob"}
 {"idiom_start":"m\u00f8rkt som i en","accepted_completions":["sekk"],"language":"nob"}
 {"idiom_start":"m\u00f8te sin","accepted_completions":["overmann"],"language":"nob"}
 {"idiom_start":"m\u00f8tes til","accepted_completions":["holmgang"],"language":"nob"}
 {"idiom_start":"narr meg ikke til \u00e5","accepted_completions":["le"],"language":"nob"}
-{"idiom_start":"naturens","accepted_completions":["luner"],"language":"nob"}
 {"idiom_start":"naturens muntre","accepted_completions":["s\u00f8nn"],"language":"nob"}
 {"idiom_start":"nei , den er for","accepted_completions":["tjukk"],"language":"nob"}
 {"idiom_start":"nei , er du","accepted_completions":["gal"],"language":"nob"}
 {"idiom_start":"nei , si","accepted_completions":["det"],"language":"nob"}
 {"idiom_start":"nei , \u00e6rlig","accepted_completions":["talt"],"language":"nob"}
-{"idiom_start":"nei","accepted_completions":["takk"],"language":"nob"}
 {"idiom_start":"nervene st\u00e5r p\u00e5","accepted_completions":["h\u00f8ykant"],"language":"nob"}
 {"idiom_start":"noe er i","accepted_completions":["gj\u00e6re"],"language":"nob"}
 {"idiom_start":"noe for enhver","accepted_completions":["smak"],"language":"nob"}
-{"idiom_start":"noe","accepted_completions":["muffens"],"language":"nob"}
 {"idiom_start":"noe skj\u00e6rer","accepted_completions":["seg"],"language":"nob"}
 {"idiom_start":"noe \u00e5 bite","accepted_completions":["i"],"language":"nob"}
 {"idiom_start":"noen og","accepted_completions":["hver"],"language":"nob"}
@@ -3517,7 +3340,6 @@
 {"idiom_start":"notere seg for","accepted_completions":["noe"],"language":"nob"}
 {"idiom_start":"null komma","accepted_completions":["niks"],"language":"nob"}
 {"idiom_start":"nye koster feier","accepted_completions":["best"],"language":"nob"}
-{"idiom_start":"nye","accepted_completions":["krefter"],"language":"nob"}
 {"idiom_start":"nyte godt av","accepted_completions":["noe"],"language":"nob"}
 {"idiom_start":"n\u00e5 begynner det \u00e5 bli","accepted_completions":["moro"],"language":"nob"}
 {"idiom_start":"n\u00e5 er hundre og ett","accepted_completions":["ute"],"language":"nob"}
@@ -3545,17 +3367,13 @@
 {"idiom_start":"o , hellige","accepted_completions":["enfold"],"language":"nob"}
 {"idiom_start":"og dermed","accepted_completions":["basta"],"language":"nob"}
 {"idiom_start":"og fanden og hans","accepted_completions":["oldemor"],"language":"nob"}
-{"idiom_start":"ola","accepted_completions":["Nordmann"],"language":"nob"}
 {"idiom_start":"om blikk kunne","accepted_completions":["drepe"],"language":"nob"}
-{"idiom_start":"om","accepted_completions":["dagen","enn","forlatelse"],"language":"nob"}
 {"idiom_start":"om jeg s\u00e5 m\u00e5","accepted_completions":["si"],"language":"nob"}
-{"idiom_start":"onkel","accepted_completions":["politi"],"language":"nob"}
 {"idiom_start":"opp ad","accepted_completions":["dage"],"language":"nob"}
 {"idiom_start":"opp med","accepted_completions":["hodet"],"language":"nob"}
 {"idiom_start":"opp som en l\u00f8ve og ned som en","accepted_completions":["skinnfell"],"language":"nob"}
 {"idiom_start":"oppe i det","accepted_completions":["bl\u00e5"],"language":"nob"}
 {"idiom_start":"opprette ro og","accepted_completions":["orden"],"language":"nob"}
-{"idiom_start":"oppriktig","accepted_completions":["talt"],"language":"nob"}
 {"idiom_start":"ord blir","accepted_completions":["fattige"],"language":"nob"}
 {"idiom_start":"ord med","accepted_completions":["brodd"],"language":"nob"}
 {"idiom_start":"ord st\u00e5r mot","accepted_completions":["ord"],"language":"nob"}
@@ -3563,39 +3381,23 @@
 {"idiom_start":"over hals og","accepted_completions":["hode"],"language":"nob"}
 {"idiom_start":"over hodet p\u00e5","accepted_completions":["noen"],"language":"nob"}
 {"idiom_start":"over mitt","accepted_completions":["lik"],"language":"nob"}
-{"idiom_start":"over","accepted_completions":["tid"],"language":"nob"}
-{"idiom_start":"overkj\u00f8re","accepted_completions":["noen"],"language":"nob"}
 {"idiom_start":"overleve seg","accepted_completions":["selv"],"language":"nob"}
-{"idiom_start":"overta","accepted_completions":["klubba","stafettpinnen"],"language":"nob"}
 {"idiom_start":"pakke inn","accepted_completions":["noe"],"language":"nob"}
-{"idiom_start":"pakke","accepted_completions":["kofferten","sammen"],"language":"nob"}
-{"idiom_start":"passe","accepted_completions":["butikken"],"language":"nob"}
 {"idiom_start":"passe p\u00e5 som en","accepted_completions":["smed"],"language":"nob"}
-{"idiom_start":"passere","accepted_completions":["m\u00e5lstreken"],"language":"nob"}
-{"idiom_start":"pavens","accepted_completions":["skjegg"],"language":"nob"}
 {"idiom_start":"peke i retning","accepted_completions":["av"],"language":"nob"}
 {"idiom_start":"peke p\u00e5","accepted_completions":["noe"],"language":"nob"}
 {"idiom_start":"pengene eller","accepted_completions":["livet"],"language":"nob"}
 {"idiom_start":"pengene p\u00e5","accepted_completions":["bordet"],"language":"nob"}
-{"idiom_start":"pigge","accepted_completions":["av"],"language":"nob"}
 {"idiom_start":"pisk og","accepted_completions":["gulrot"],"language":"nob"}
 {"idiom_start":"pisse i buksa for \u00e5 holde","accepted_completions":["varmen"],"language":"nob"}
 {"idiom_start":"plapre ut med","accepted_completions":["noe"],"language":"nob"}
-{"idiom_start":"plaske","accepted_completions":["ned"],"language":"nob"}
-{"idiom_start":"plikten","accepted_completions":["kaller"],"language":"nob"}
 {"idiom_start":"plukke p\u00e5","accepted_completions":["noe"],"language":"nob"}
 {"idiom_start":"pokker i","accepted_completions":["vold"],"language":"nob"}
-{"idiom_start":"prate","accepted_completions":["piss"],"language":"nob"}
 {"idiom_start":"prelle av som vann p\u00e5","accepted_completions":["g\u00e5sa"],"language":"nob"}
 {"idiom_start":"prikken over i '","accepted_completions":["en"],"language":"nob"}
-{"idiom_start":"privatlivets","accepted_completions":["fred"],"language":"nob"}
-{"idiom_start":"prostituere","accepted_completions":["seg"],"language":"nob"}
 {"idiom_start":"pr\u00f8ve alle","accepted_completions":["midler"],"language":"nob"}
-{"idiom_start":"pr\u00f8ve","accepted_completions":["krefter","lykken"],"language":"nob"}
 {"idiom_start":"pr\u00f8ve p\u00e5 ny","accepted_completions":["frisk"],"language":"nob"}
-{"idiom_start":"pumpe","accepted_completions":["jern"],"language":"nob"}
 {"idiom_start":"p\u00e5 avgrunnens","accepted_completions":["rand"],"language":"nob"}
-{"idiom_start":"p\u00e5","accepted_completions":["barrikadene","djevelskap","folkemunne","forskudd","fote","frifot","gaffelen","grasrota","h\u00f8ykant","kant","kanten","kistebunnen","millimeteren","minuttet","morgenkvisten","netthinnen","plakaten","pletten","rappen","sekundet","sikt","skyggesiden","slump","spreng","talefot","tide","tuppene","t\u00e5","villspor","vippen","\u00e6resord","fallrepet"],"language":"nob"}
 {"idiom_start":"p\u00e5 ber\u00f8mmelsens","accepted_completions":["tinde"],"language":"nob"}
 {"idiom_start":"p\u00e5 bred","accepted_completions":["front"],"language":"nob"}
 {"idiom_start":"p\u00e5 b\u00f8lgen","accepted_completions":["bl\u00e5"],"language":"nob"}
@@ -3623,19 +3425,13 @@
 {"idiom_start":"p\u00e5 \u00f8verste","accepted_completions":["hylle"],"language":"nob"}
 {"idiom_start":"p\u00f8 om","accepted_completions":["p\u00f8"],"language":"nob"}
 {"idiom_start":"rake kastanjene ut av","accepted_completions":["ilden"],"language":"nob"}
-{"idiom_start":"rake","accepted_completions":["veien"],"language":"nob"}
 {"idiom_start":"rav ruskende","accepted_completions":["gal"],"language":"nob"}
-{"idiom_start":"redde","accepted_completions":["stumpene"],"language":"nob"}
-{"idiom_start":"reise","accepted_completions":["kjerringa","seg"],"language":"nob"}
 {"idiom_start":"reise seg av","accepted_completions":["asken"],"language":"nob"}
 {"idiom_start":"rekke ut en","accepted_completions":["h\u00e5nd"],"language":"nob"}
-{"idiom_start":"renters","accepted_completions":["rente"],"language":"nob"}
-{"idiom_start":"renvaske","accepted_completions":["seg"],"language":"nob"}
 {"idiom_start":"rett og","accepted_completions":["skjell","slett"],"language":"nob"}
 {"idiom_start":"ri sine egne","accepted_completions":["kjepphester"],"language":"nob"}
 {"idiom_start":"ri stormen","accepted_completions":["av"],"language":"nob"}
 {"idiom_start":"ridder av den bedr\u00f8velige","accepted_completions":["skikkelse"],"language":"nob"}
-{"idiom_start":"ride","accepted_completions":["ranke"],"language":"nob"}
 {"idiom_start":"ris til egen","accepted_completions":["bak"],"language":"nob"}
 {"idiom_start":"riset bak","accepted_completions":["speilet"],"language":"nob"}
 {"idiom_start":"risikere liv og","accepted_completions":["lemmer"],"language":"nob"}
@@ -3650,27 +3446,16 @@
 {"idiom_start":"rotere rundt sin egen","accepted_completions":["akse"],"language":"nob"}
 {"idiom_start":"rotte seg","accepted_completions":["sammen"],"language":"nob"}
 {"idiom_start":"rottene forlater det synkende","accepted_completions":["skip"],"language":"nob"}
-{"idiom_start":"russisk","accepted_completions":["rulett"],"language":"nob"}
 {"idiom_start":"rykke frem p\u00e5 bred","accepted_completions":["front"],"language":"nob"}
 {"idiom_start":"rykke i","accepted_completions":["lenkene"],"language":"nob"}
-{"idiom_start":"rykke","accepted_completions":["opp"],"language":"nob"}
-{"idiom_start":"rynke","accepted_completions":["pannen"],"language":"nob"}
 {"idiom_start":"r\u00e5de bot","accepted_completions":["p\u00e5"],"language":"nob"}
-{"idiom_start":"r\u00e5tne","accepted_completions":["opp"],"language":"nob"}
-{"idiom_start":"r\u00f8de","accepted_completions":["tall"],"language":"nob"}
-{"idiom_start":"sage","accepted_completions":["t\u00f8mmer"],"language":"nob"}
-{"idiom_start":"sale","accepted_completions":["om"],"language":"nob"}
 {"idiom_start":"samle i","accepted_completions":["lader"],"language":"nob"}
-{"idiom_start":"samle","accepted_completions":["krefter","st\u00f8v","troppene","tr\u00e5dene"],"language":"nob"}
-{"idiom_start":"samvittighetens","accepted_completions":["r\u00f8st"],"language":"nob"}
 {"idiom_start":"sand i","accepted_completions":["maskineriet"],"language":"nob"}
 {"idiom_start":"sann mine","accepted_completions":["ord"],"language":"nob"}
 {"idiom_start":"sant for","accepted_completions":["dyden"],"language":"nob"}
-{"idiom_start":"sareptas","accepted_completions":["krukke"],"language":"nob"}
 {"idiom_start":"satse p\u00e5 feil","accepted_completions":["hest"],"language":"nob"}
 {"idiom_start":"se b\u00e5de sol og","accepted_completions":["m\u00e5ne"],"language":"nob"}
 {"idiom_start":"se dagens","accepted_completions":["lys"],"language":"nob"}
-{"idiom_start":"se","accepted_completions":["fremover"],"language":"nob"}
 {"idiom_start":"se gjennom fingrene med","accepted_completions":["noe"],"language":"nob"}
 {"idiom_start":"se men ikke","accepted_completions":["r\u00f8re"],"language":"nob"}
 {"idiom_start":"se m\u00f8rkt","accepted_completions":["ut"],"language":"nob"}
@@ -3684,9 +3469,7 @@
 {"idiom_start":"seile under falskt","accepted_completions":["flagg"],"language":"nob"}
 {"idiom_start":"sekundene tikker og","accepted_completions":["g\u00e5r"],"language":"nob"}
 {"idiom_start":"sekundet )","accepted_completions":["."],"language":"nob"}
-{"idiom_start":"selvros","accepted_completions":["stinker"],"language":"nob"}
 {"idiom_start":"sende opp","accepted_completions":["r\u00f8yksignaler"],"language":"nob"}
-{"idiom_start":"senke","accepted_completions":["blikket","hodet","lista","skuldrene","stemmen"],"language":"nob"}
 {"idiom_start":"sent eller","accepted_completions":["aldri"],"language":"nob"}
 {"idiom_start":"sent og","accepted_completions":["tidlig"],"language":"nob"}
 {"idiom_start":"ser ikke ut i","accepted_completions":["m\u00e5neskinn"],"language":"nob"}
@@ -3694,7 +3477,6 @@
 {"idiom_start":"sette alle kluter","accepted_completions":["til"],"language":"nob"}
 {"idiom_start":"sette alt p\u00e5 ett","accepted_completions":["kort"],"language":"nob"}
 {"idiom_start":"sette bein under","accepted_completions":["seg"],"language":"nob"}
-{"idiom_start":"sette","accepted_completions":["bukkebein","dagsordenen","grenser","sj\u00f8bein","sluttstrek"],"language":"nob"}
 {"idiom_start":"sette en stopper for","accepted_completions":["noe"],"language":"nob"}
 {"idiom_start":"sette foten","accepted_completions":["ned"],"language":"nob"}
 {"idiom_start":"sette griller i hodet p\u00e5","accepted_completions":["noen"],"language":"nob"}
@@ -3726,11 +3508,9 @@
 {"idiom_start":"si et siste","accepted_completions":["farvel"],"language":"nob"}
 {"idiom_start":"si ja og","accepted_completions":["ha","amen"],"language":"nob"}
 {"idiom_start":"si mer enn tusen","accepted_completions":["ord"],"language":"nob"}
-{"idiom_start":"si","accepted_completions":["stopp"],"language":"nob"}
 {"idiom_start":"sikte for","accepted_completions":["h\u00f8yt"],"language":"nob"}
 {"idiom_start":"sikte mot","accepted_completions":["stjernene"],"language":"nob"}
 {"idiom_start":"sin vane","accepted_completions":["tro"],"language":"nob"}
-{"idiom_start":"sinnets","accepted_completions":["adel"],"language":"nob"}
 {"idiom_start":"siste ord er","accepted_completions":["sagt"],"language":"nob"}
 {"idiom_start":"sistemann p\u00e5","accepted_completions":["skansen"],"language":"nob"}
 {"idiom_start":"sitte godt i","accepted_completions":["det"],"language":"nob"}
@@ -3743,51 +3523,34 @@
 {"idiom_start":"sitte stille i","accepted_completions":["b\u00e5ten"],"language":"nob"}
 {"idiom_start":"sitte trangt i","accepted_completions":["det"],"language":"nob"}
 {"idiom_start":"sitte \u00f8verst ved","accepted_completions":["bordet"],"language":"nob"}
-{"idiom_start":"sivilisasjonens","accepted_completions":["vugge"],"language":"nob"}
 {"idiom_start":"skal det v\u00e6re , s\u00e5 skal det","accepted_completions":["v\u00e6re"],"language":"nob"}
 {"idiom_start":"skalke alle","accepted_completions":["luker"],"language":"nob"}
 {"idiom_start":"skalte og","accepted_completions":["valte"],"language":"nob"}
-{"idiom_start":"skape","accepted_completions":["furore","historie"],"language":"nob"}
 {"idiom_start":"skape seg en","accepted_completions":["fremtid"],"language":"nob"}
-{"idiom_start":"skatten","accepted_completions":["min"],"language":"nob"}
-{"idiom_start":"skeie","accepted_completions":["ut"],"language":"nob"}
-{"idiom_start":"skifte","accepted_completions":["beite"],"language":"nob"}
 {"idiom_start":"skikk og","accepted_completions":["bruk"],"language":"nob"}
 {"idiom_start":"skille klinten fra","accepted_completions":["hveten","hveden"],"language":"nob"}
-{"idiom_start":"skinne","accepted_completions":["gjennom"],"language":"nob"}
 {"idiom_start":"skit i","accepted_completions":["det"],"language":"nob"}
 {"idiom_start":"skit i Norge leve","accepted_completions":["Toten"],"language":"nob"}
-{"idiom_start":"skitt","accepted_completions":["au","fiske"],"language":"nob"}
 {"idiom_start":"skje saker og","accepted_completions":["ting"],"language":"nob"}
 {"idiom_start":"skj\u00e6re alle over \u00e9n","accepted_completions":["kam"],"language":"nob"}
-{"idiom_start":"skj\u00e6re","accepted_completions":["grimaser","igjennom"],"language":"nob"}
 {"idiom_start":"skj\u00e6re i","accepted_completions":["\u00f8rene"],"language":"nob"}
 {"idiom_start":"skj\u00e6re inn til","accepted_completions":["beinet"],"language":"nob"}
 {"idiom_start":"skj\u00f8nne hvor det b\u00e6rer","accepted_completions":["hen"],"language":"nob"}
 {"idiom_start":"skj\u00f8nne hvor landet","accepted_completions":["ligger"],"language":"nob"}
-{"idiom_start":"skj\u00f8nne","accepted_completions":["tegningen"],"language":"nob"}
 {"idiom_start":"skj\u00f8nner du ikke","accepted_completions":["norsk"],"language":"nob"}
-{"idiom_start":"skli","accepted_completions":["ut"],"language":"nob"}
-{"idiom_start":"skogens","accepted_completions":["konge"],"language":"nob"}
-{"idiom_start":"skrape","accepted_completions":["bunnen"],"language":"nob"}
 {"idiom_start":"skrape til","accepted_completions":["seg"],"language":"nob"}
 {"idiom_start":"skrekk og","accepted_completions":["gru"],"language":"nob"}
 {"idiom_start":"skremme vettet av","accepted_completions":["noen"],"language":"nob"}
 {"idiom_start":"skride til","accepted_completions":["verket"],"language":"nob"}
 {"idiom_start":"skriften p\u00e5","accepted_completions":["veggen"],"language":"nob"}
-{"idiom_start":"skrike","accepted_completions":["opp"],"language":"nob"}
-{"idiom_start":"skrikende","accepted_completions":["farger"],"language":"nob"}
 {"idiom_start":"skritt for","accepted_completions":["skritt"],"language":"nob"}
-{"idiom_start":"skrive","accepted_completions":["ned"],"language":"nob"}
 {"idiom_start":"skrive seg","accepted_completions":["fra"],"language":"nob"}
 {"idiom_start":"skrive s\u00e5 blekket","accepted_completions":["spruter"],"language":"nob"}
 {"idiom_start":"skru klokka","accepted_completions":["tilbake"],"language":"nob"}
 {"idiom_start":"skru seg","accepted_completions":["opp"],"language":"nob"}
 {"idiom_start":"skulle i","accepted_completions":["ilden"],"language":"nob"}
 {"idiom_start":"skulle jeg til \u00e5","accepted_completions":["si"],"language":"nob"}
-{"idiom_start":"skygge","accepted_completions":["banen","noen"],"language":"nob"}
 {"idiom_start":"skyt ikke p\u00e5","accepted_completions":["pianisten"],"language":"nob"}
-{"idiom_start":"skyte","accepted_completions":["fart"],"language":"nob"}
 {"idiom_start":"skyte hjertet opp i","accepted_completions":["livet"],"language":"nob"}
 {"idiom_start":"skyte med","accepted_completions":["skarpt"],"language":"nob"}
 {"idiom_start":"skyte seg en kule for","accepted_completions":["pannen"],"language":"nob"}
@@ -3795,19 +3558,13 @@
 {"idiom_start":"sk\u00e5re billige","accepted_completions":["poeng"],"language":"nob"}
 {"idiom_start":"slag i","accepted_completions":["slag"],"language":"nob"}
 {"idiom_start":"slaget er","accepted_completions":["tapt"],"language":"nob"}
-{"idiom_start":"slakke","accepted_completions":["t\u00f8ylene"],"language":"nob"}
-{"idiom_start":"slakte","accepted_completions":["gj\u00f8kalven"],"language":"nob"}
 {"idiom_start":"slangen i","accepted_completions":["paradiset"],"language":"nob"}
 {"idiom_start":"slenge med","accepted_completions":["leppa"],"language":"nob"}
-{"idiom_start":"slikke","accepted_completions":["sol"],"language":"nob"}
-{"idiom_start":"slippe","accepted_completions":["billig"],"language":"nob"}
 {"idiom_start":"slippe billig","accepted_completions":["unna"],"language":"nob"}
 {"idiom_start":"slippe en","accepted_completions":["vind"],"language":"nob"}
 {"idiom_start":"slippe gjennom","accepted_completions":["n\u00e5l\u00f8yet"],"language":"nob"}
 {"idiom_start":"slippe opp for","accepted_completions":["noe"],"language":"nob"}
-{"idiom_start":"sluke","accepted_completions":["ordene"],"language":"nob"}
 {"idiom_start":"slutte mens leken er","accepted_completions":["god"],"language":"nob"}
-{"idiom_start":"sl\u00e5","accepted_completions":["alarm","an","den","feil","flikkflakk","klikk","leir","opp","sprekker"],"language":"nob"}
 {"idiom_start":"sl\u00e5 barnet ut med","accepted_completions":["badevannet"],"language":"nob"}
 {"idiom_start":"sl\u00e5 fra","accepted_completions":["seg"],"language":"nob"}
 {"idiom_start":"sl\u00e5 h\u00e5nden av","accepted_completions":["noen","en"],"language":"nob"}
@@ -3836,16 +3593,12 @@
 {"idiom_start":"smake av","accepted_completions":["fugl"],"language":"nob"}
 {"idiom_start":"smelte som","accepted_completions":["sm\u00f8r"],"language":"nob"}
 {"idiom_start":"smil til","accepted_completions":["verden"],"language":"nob"}
-{"idiom_start":"smile","accepted_completions":["bredt"],"language":"nob"}
 {"idiom_start":"smile fra \u00f8re til","accepted_completions":["\u00f8re"],"language":"nob"}
-{"idiom_start":"smilets","accepted_completions":["land"],"language":"nob"}
 {"idiom_start":"smykke seg med l\u00e5nte","accepted_completions":["fj\u00e6r"],"language":"nob"}
 {"idiom_start":"sm\u00f8r p\u00e5","accepted_completions":["flesk"],"language":"nob"}
 {"idiom_start":"sm\u00f8re seg","accepted_completions":["bort"],"language":"nob"}
 {"idiom_start":"sm\u00f8re tjukt","accepted_completions":["p\u00e5"],"language":"nob"}
 {"idiom_start":"snakk for deg","accepted_completions":["selv"],"language":"nob"}
-{"idiom_start":"snakk","accepted_completions":["norsk","vekk"],"language":"nob"}
-{"idiom_start":"snakke","accepted_completions":["bredt","rent"],"language":"nob"}
 {"idiom_start":"snakke godt for","accepted_completions":["seg"],"language":"nob"}
 {"idiom_start":"snakke med seg","accepted_completions":["selv"],"language":"nob"}
 {"idiom_start":"snakke med store","accepted_completions":["bokstaver"],"language":"nob"}
@@ -3861,7 +3614,6 @@
 {"idiom_start":"snakke som en","accepted_completions":["foss"],"language":"nob"}
 {"idiom_start":"snakke ut med","accepted_completions":["noen"],"language":"nob"}
 {"idiom_start":"snipp , snapp ,","accepted_completions":["snute"],"language":"nob"}
-{"idiom_start":"snu","accepted_completions":["bunken"],"language":"nob"}
 {"idiom_start":"snu opp ned p\u00e5","accepted_completions":["noe"],"language":"nob"}
 {"idiom_start":"snu saken p\u00e5","accepted_completions":["hodet"],"language":"nob"}
 {"idiom_start":"snuble i egne","accepted_completions":["bein"],"language":"nob"}
@@ -3894,16 +3646,12 @@
 {"idiom_start":"sope inn","accepted_completions":["penger"],"language":"nob"}
 {"idiom_start":"sorgen og gleden de vandrer til","accepted_completions":["hope"],"language":"nob"}
 {"idiom_start":"sove bort","accepted_completions":["tiden"],"language":"nob"}
-{"idiom_start":"sove","accepted_completions":["middag"],"language":"nob"}
 {"idiom_start":"sove p\u00e5 sitt gr\u00f8nne","accepted_completions":["\u00f8re"],"language":"nob"}
 {"idiom_start":"sove som en","accepted_completions":["stein"],"language":"nob"}
-{"idiom_start":"spar","accepted_completions":["deg"],"language":"nob"}
 {"idiom_start":"spare seg til","accepted_completions":["fant"],"language":"nob"}
 {"idiom_start":"sparke i","accepted_completions":["grusen"],"language":"nob"}
 {"idiom_start":"sparke noen som ligger","accepted_completions":["nede"],"language":"nob"}
-{"idiom_start":"spikke","accepted_completions":["fliser"],"language":"nob"}
 {"idiom_start":"spile opp","accepted_completions":["\u00f8ynene"],"language":"nob"}
-{"idiom_start":"spille","accepted_completions":["annenfiolin","bajas","fallitt","skuespill","storkar","teater"],"language":"nob"}
 {"idiom_start":"spille ballen","accepted_completions":["videre"],"language":"nob"}
 {"idiom_start":"spille en","accepted_completions":["hovedrolle"],"language":"nob"}
 {"idiom_start":"spille for","accepted_completions":["galleriet"],"language":"nob"}
@@ -3916,12 +3664,9 @@
 {"idiom_start":"spillet er","accepted_completions":["tapt"],"language":"nob"}
 {"idiom_start":"spise sine","accepted_completions":["ord"],"language":"nob"}
 {"idiom_start":"splitte mine","accepted_completions":["bramseil"],"language":"nob"}
-{"idiom_start":"sporene","accepted_completions":["skremmer"],"language":"nob"}
 {"idiom_start":"spre seg som ringer i","accepted_completions":["vannet"],"language":"nob"}
 {"idiom_start":"spres for alle","accepted_completions":["vinder"],"language":"nob"}
 {"idiom_start":"springe i","accepted_completions":["\u00f8ynene"],"language":"nob"}
-{"idiom_start":"springe","accepted_completions":["lekk"],"language":"nob"}
-{"idiom_start":"spr\u00e5klig","accepted_completions":["ugress"],"language":"nob"}
 {"idiom_start":"spy edder og","accepted_completions":["galle"],"language":"nob"}
 {"idiom_start":"spytte i","accepted_completions":["nevene","glasset"],"language":"nob"}
 {"idiom_start":"sp\u00f8k til","accepted_completions":["side"],"language":"nob"}
@@ -3930,16 +3675,11 @@
 {"idiom_start":"sp\u00f8rre seg","accepted_completions":["for"],"language":"nob"}
 {"idiom_start":"stable seg p\u00e5","accepted_completions":["beina"],"language":"nob"}
 {"idiom_start":"stamme fra","accepted_completions":["steinalderen"],"language":"nob"}
-{"idiom_start":"stammens","accepted_completions":["hyl"],"language":"nob"}
 {"idiom_start":"stampe i","accepted_completions":["motvind"],"language":"nob"}
 {"idiom_start":"starte med blanke","accepted_completions":["ark"],"language":"nob"}
 {"idiom_start":"starte med to tomme","accepted_completions":["hender"],"language":"nob"}
 {"idiom_start":"starte p\u00e5 ny","accepted_completions":["frisk"],"language":"nob"}
-{"idiom_start":"stenge","accepted_completions":["d\u00f8ren"],"language":"nob"}
-{"idiom_start":"sterke","accepted_completions":["saker"],"language":"nob"}
 {"idiom_start":"stige i","accepted_completions":["gradene"],"language":"nob"}
-{"idiom_start":"stikk","accepted_completions":["den"],"language":"nob"}
-{"idiom_start":"stikke","accepted_completions":["av"],"language":"nob"}
 {"idiom_start":"stikke fingeren i","accepted_completions":["jorda","v\u00e6ret","jorden"],"language":"nob"}
 {"idiom_start":"stikke hodene","accepted_completions":["sammen"],"language":"nob"}
 {"idiom_start":"stikke hodet i","accepted_completions":["sanden"],"language":"nob"}
@@ -3950,24 +3690,17 @@
 {"idiom_start":"stille med blanke","accepted_completions":["ark"],"language":"nob"}
 {"idiom_start":"stille sp\u00f8rsm\u00e5l ved","accepted_completions":["noe"],"language":"nob"}
 {"idiom_start":"stille vann har dypest","accepted_completions":["grunn"],"language":"nob"}
-{"idiom_start":"stimle","accepted_completions":["sammen"],"language":"nob"}
 {"idiom_start":"stjele av","accepted_completions":["kassen"],"language":"nob"}
-{"idiom_start":"stjele","accepted_completions":["seg","showet"],"language":"nob"}
-{"idiom_start":"stokke","accepted_completions":["kortene"],"language":"nob"}
 {"idiom_start":"stole blindt p\u00e5","accepted_completions":["noen"],"language":"nob"}
 {"idiom_start":"stoppe mens leken er","accepted_completions":["god"],"language":"nob"}
 {"idiom_start":"store ord og fett","accepted_completions":["flesk"],"language":"nob"}
-{"idiom_start":"store","accepted_completions":["penger"],"language":"nob"}
 {"idiom_start":"storm i et","accepted_completions":["vannglass"],"language":"nob"}
 {"idiom_start":"stramme seg","accepted_completions":["opp"],"language":"nob"}
-{"idiom_start":"strekke","accepted_completions":["hals","v\u00e5pen"],"language":"nob"}
 {"idiom_start":"strekke seg etter","accepted_completions":["stjernene"],"language":"nob"}
 {"idiom_start":"stride mot all","accepted_completions":["fornuft"],"language":"nob"}
 {"idiom_start":"str\u00e5le som en","accepted_completions":["sol"],"language":"nob"}
-{"idiom_start":"str\u00f8mme","accepted_completions":["til"],"language":"nob"}
 {"idiom_start":"stum som en","accepted_completions":["fisk"],"language":"nob"}
 {"idiom_start":"styre og","accepted_completions":["stell"],"language":"nob"}
-{"idiom_start":"st\u00e5","accepted_completions":["av","brud","fjellst\u00f8tt","skolerett","skrevet"],"language":"nob"}
 {"idiom_start":"st\u00e5 bom","accepted_completions":["fast"],"language":"nob"}
 {"idiom_start":"st\u00e5 for","accepted_completions":["tur","d\u00f8ren"],"language":"nob"}
 {"idiom_start":"st\u00e5 f\u00f8rst i","accepted_completions":["k\u00f8en"],"language":"nob"}
@@ -3994,24 +3727,17 @@
 {"idiom_start":"st\u00e5 ved","accepted_completions":["makt"],"language":"nob"}
 {"idiom_start":"st\u00e5 \u00f8verst p\u00e5","accepted_completions":["dagsordenen"],"language":"nob"}
 {"idiom_start":"suge p\u00e5","accepted_completions":["karamellen","labben"],"language":"nob"}
-{"idiom_start":"summe","accepted_completions":["seg"],"language":"nob"}
-{"idiom_start":"sunt","accepted_completions":["bondevett"],"language":"nob"}
-{"idiom_start":"sure","accepted_completions":["oppst\u00f8t"],"language":"nob"}
 {"idiom_start":"surr og","accepted_completions":["rot"],"language":"nob"}
 {"idiom_start":"svare i hytt og","accepted_completions":["v\u00e6r"],"language":"nob"}
 {"idiom_start":"svare med samme","accepted_completions":["mynt"],"language":"nob"}
 {"idiom_start":"svart og","accepted_completions":["hvitt"],"language":"nob"}
 {"idiom_start":"svart som","accepted_completions":["bek"],"language":"nob"}
-{"idiom_start":"svarte","accepted_completions":["penger"],"language":"nob"}
-{"idiom_start":"sveige","accepted_completions":["noe"],"language":"nob"}
-{"idiom_start":"sverte","accepted_completions":["noen"],"language":"nob"}
 {"idiom_start":"sveve mellom himmel og","accepted_completions":["jord"],"language":"nob"}
 {"idiom_start":"sveve oppe i","accepted_completions":["skyene"],"language":"nob"}
 {"idiom_start":"sveve over","accepted_completions":["vannene"],"language":"nob"}
 {"idiom_start":"svi p\u00e5","accepted_completions":["pungen"],"language":"nob"}
 {"idiom_start":"sv\u00f8mme som en","accepted_completions":["fisk"],"language":"nob"}
 {"idiom_start":"sy puter under armene p\u00e5","accepted_completions":["noen"],"language":"nob"}
-{"idiom_start":"synge","accepted_completions":["rent"],"language":"nob"}
 {"idiom_start":"synge som en","accepted_completions":["engel"],"language":"nob"}
 {"idiom_start":"synke i","accepted_completions":["jorda"],"language":"nob"}
 {"idiom_start":"s\u00e5 det","accepted_completions":["forsl\u00e5r","suser","svir"],"language":"nob"}
@@ -4029,10 +3755,8 @@
 {"idiom_start":"s\u00e5nn er","accepted_completions":["livet"],"language":"nob"}
 {"idiom_start":"s\u00f8nder og","accepted_completions":["sammen"],"language":"nob"}
 {"idiom_start":"s\u00f8t som","accepted_completions":["honning"],"language":"nob"}
-{"idiom_start":"s\u00f8ta","accepted_completions":["bror"],"language":"nob"}
 {"idiom_start":"ta anst\u00f8t av","accepted_completions":["noe"],"language":"nob"}
 {"idiom_start":"ta beina","accepted_completions":["fatt"],"language":"nob"}
-{"idiom_start":"ta","accepted_completions":["b\u00f8lgen","fart","kaka","ordet","roret","sjumilssteg","telling"],"language":"nob"}
 {"idiom_start":"ta den h\u00f8ye","accepted_completions":["c"],"language":"nob"}
 {"idiom_start":"ta det med","accepted_completions":["ro"],"language":"nob"}
 {"idiom_start":"ta det onde ved","accepted_completions":["roten"],"language":"nob"}
@@ -4079,8 +3803,6 @@
 {"idiom_start":"ta vinden ut av","accepted_completions":["seilene"],"language":"nob"}
 {"idiom_start":"takk og","accepted_completions":["farvel"],"language":"nob"}
 {"idiom_start":"takk skal du","accepted_completions":["ha"],"language":"nob"}
-{"idiom_start":"takk","accepted_completions":["skjebne"],"language":"nob"}
-{"idiom_start":"takke","accepted_completions":["av"],"language":"nob"}
 {"idiom_start":"takke fanden for","accepted_completions":["det"],"language":"nob"}
 {"idiom_start":"takke ja til","accepted_completions":["noe"],"language":"nob"}
 {"idiom_start":"takke nei til","accepted_completions":["noe"],"language":"nob"}
@@ -4089,15 +3811,12 @@
 {"idiom_start":"tale i","accepted_completions":["g\u00e5ter","tunger"],"language":"nob"}
 {"idiom_start":"tale mot bedre","accepted_completions":["vitende"],"language":"nob"}
 {"idiom_start":"tale Roma midt","accepted_completions":["imot"],"language":"nob"}
-{"idiom_start":"tampen","accepted_completions":["brenner"],"language":"nob"}
 {"idiom_start":"tant og","accepted_completions":["fjas"],"language":"nob"}
 {"idiom_start":"tap og vinn med samme","accepted_completions":["sinn"],"language":"nob"}
-{"idiom_start":"tape","accepted_completions":["terreng"],"language":"nob"}
 {"idiom_start":"taushet er","accepted_completions":["gull"],"language":"nob"}
 {"idiom_start":"tegne seg p\u00e5","accepted_completions":["talerlista"],"language":"nob"}
 {"idiom_start":"telle p\u00e5","accepted_completions":["knappene"],"language":"nob"}
 {"idiom_start":"tenke i nye","accepted_completions":["baner"],"language":"nob"}
-{"idiom_start":"tenke","accepted_completions":["koffert"],"language":"nob"}
 {"idiom_start":"tenke seg","accepted_completions":["om"],"language":"nob"}
 {"idiom_start":"tenke seg om to","accepted_completions":["ganger"],"language":"nob"}
 {"idiom_start":"tenke seg til","accepted_completions":["noe"],"language":"nob"}
@@ -4106,13 +3825,10 @@
 {"idiom_start":"tenne p\u00e5","accepted_completions":["noe","noen"],"language":"nob"}
 {"idiom_start":"terningen er","accepted_completions":["kastet"],"language":"nob"}
 {"idiom_start":"tett som sild i","accepted_completions":["t\u00f8nne"],"language":"nob"}
-{"idiom_start":"tiden","accepted_completions":["flyr"],"language":"nob"}
 {"idiom_start":"tiden tikker og","accepted_completions":["g\u00e5r"],"language":"nob"}
 {"idiom_start":"tiden vil","accepted_completions":["vise"],"language":"nob"}
-{"idiom_start":"tidens","accepted_completions":["tann"],"language":"nob"}
 {"idiom_start":"til all","accepted_completions":["lykke"],"language":"nob"}
 {"idiom_start":"til det","accepted_completions":["kjedsommelige"],"language":"nob"}
-{"idiom_start":"til","accepted_completions":["doms","fots","fulle","n\u00f8d","overm\u00e5l"],"language":"nob"}
 {"idiom_start":"til en viss","accepted_completions":["grad"],"language":"nob"}
 {"idiom_start":"til ingen verdens","accepted_completions":["nytte"],"language":"nob"}
 {"idiom_start":"til lands og til","accepted_completions":["vanns"],"language":"nob"}
@@ -4121,24 +3837,18 @@
 {"idiom_start":"til spott og","accepted_completions":["spe"],"language":"nob"}
 {"idiom_start":"til \u00e5 ta og f\u00f8le","accepted_completions":["p\u00e5"],"language":"nob"}
 {"idiom_start":"tilbake i","accepted_completions":["manesjen"],"language":"nob"}
-{"idiom_start":"tilbe","accepted_completions":["noen"],"language":"nob"}
-{"idiom_start":"tine","accepted_completions":["opp"],"language":"nob"}
 {"idiom_start":"tjene penger som","accepted_completions":["gress"],"language":"nob"}
 {"idiom_start":"to alen av samme","accepted_completions":["stykket","stykke"],"language":"nob"}
 {"idiom_start":"to og to er","accepted_completions":["fire"],"language":"nob"}
 {"idiom_start":"to skritt frem og ett","accepted_completions":["tilbake"],"language":"nob"}
 {"idiom_start":"toe sine","accepted_completions":["hender"],"language":"nob"}
-{"idiom_start":"tone","accepted_completions":["flagg"],"language":"nob"}
 {"idiom_start":"tone ned","accepted_completions":["noe"],"language":"nob"}
-{"idiom_start":"tordenskjolds","accepted_completions":["soldater"],"language":"nob"}
-{"idiom_start":"tradisjonen","accepted_completions":["tro"],"language":"nob"}
 {"idiom_start":"trappe ned","accepted_completions":["noe"],"language":"nob"}
 {"idiom_start":"tre av p\u00e5 naturens","accepted_completions":["vegne"],"language":"nob"}
 {"idiom_start":"tre i","accepted_completions":["bakgrunnen","kraft"],"language":"nob"}
 {"idiom_start":"tre inn i de voksnes","accepted_completions":["rekker"],"language":"nob"}
 {"idiom_start":"treffe noen","accepted_completions":["hjemme"],"language":"nob"}
 {"idiom_start":"treffe spikeren p\u00e5","accepted_completions":["hodet"],"language":"nob"}
-{"idiom_start":"trekke","accepted_completions":["blankt","lodd","pusten","ut","vinnerloddet"],"language":"nob"}
 {"idiom_start":"trekke det korteste","accepted_completions":["str\u00e5"],"language":"nob"}
 {"idiom_start":"trekke det lengste","accepted_completions":["str\u00e5"],"language":"nob"}
 {"idiom_start":"trekke det tyngste","accepted_completions":["lasset"],"language":"nob"}
@@ -4157,44 +3867,30 @@
 {"idiom_start":"tro meg p\u00e5 mitt","accepted_completions":["ord"],"language":"nob"}
 {"idiom_start":"tro p\u00e5","accepted_completions":["julenissen"],"language":"nob"}
 {"idiom_start":"tromme med","accepted_completions":["fingrene"],"language":"nob"}
-{"idiom_start":"troppe","accepted_completions":["opp"],"language":"nob"}
 {"idiom_start":"trykke p\u00e5","accepted_completions":["knappen"],"language":"nob"}
-{"idiom_start":"tr\u00e5","accepted_completions":["til","vannet"],"language":"nob"}
 {"idiom_start":"tr\u00e5kke noen p\u00e5","accepted_completions":["t\u00e6rne"],"language":"nob"}
 {"idiom_start":"tull og","accepted_completions":["t\u00f8ys"],"language":"nob"}
 {"idiom_start":"tung om","accepted_completions":["hjertet"],"language":"nob"}
 {"idiom_start":"tungen p\u00e5","accepted_completions":["vektsk\u00e5len"],"language":"nob"}
-{"idiom_start":"tvers","accepted_completions":["igjennom"],"language":"nob"}
 {"idiom_start":"t\u00e5le dagens","accepted_completions":["lys"],"language":"nob"}
 {"idiom_start":"t\u00e6res av tidens","accepted_completions":["tann"],"language":"nob"}
-{"idiom_start":"t\u00f8rne","accepted_completions":["sammen","ut"],"language":"nob"}
 {"idiom_start":"t\u00f8rr bak","accepted_completions":["\u00f8rene"],"language":"nob"}
-{"idiom_start":"t\u00f8ye","accepted_completions":["strikken"],"language":"nob"}
 {"idiom_start":"ulv i","accepted_completions":["farekl\u00e6r"],"language":"nob"}
-{"idiom_start":"under","accepted_completions":["bordet","jorda","torva","t\u00f8ffelen"],"language":"nob"}
 {"idiom_start":"under dekke","accepted_completions":["av"],"language":"nob"}
 {"idiom_start":"under l\u00e5s og","accepted_completions":["sl\u00e5"],"language":"nob"}
 {"idiom_start":"under samme","accepted_completions":["hatt","tak"],"language":"nob"}
 {"idiom_start":"undrenes tid er ikke","accepted_completions":["forbi"],"language":"nob"}
-{"idiom_start":"unge","accepted_completions":["mann"],"language":"nob"}
-{"idiom_start":"urent","accepted_completions":["trav"],"language":"nob"}
 {"idiom_start":"ut i de sm\u00e5","accepted_completions":["timer"],"language":"nob"}
 {"idiom_start":"ut i det","accepted_completions":["bl\u00e5"],"language":"nob"}
 {"idiom_start":"ut i","accepted_completions":["verden"],"language":"nob"}
 {"idiom_start":"uta blank , inna","accepted_completions":["krank"],"language":"nob"}
-{"idiom_start":"utbrodere","accepted_completions":["noe"],"language":"nob"}
 {"idiom_start":"ute av","accepted_completions":["verden"],"language":"nob"}
 {"idiom_start":"uten lov og","accepted_completions":["dom"],"language":"nob"}
 {"idiom_start":"uten mat og drikke duger helten","accepted_completions":["ikke"],"language":"nob"}
 {"idiom_start":"uten sammenligning for","accepted_completions":["\u00f8vrig"],"language":"nob"}
-{"idiom_start":"uten","accepted_completions":["videre"],"language":"nob"}
 {"idiom_start":"uten \u00e5 fortrekke en","accepted_completions":["mine"],"language":"nob"}
-{"idiom_start":"uteske","accepted_completions":["noen"],"language":"nob"}
-{"idiom_start":"utfordre","accepted_completions":["skjebnen"],"language":"nob"}
 {"idiom_start":"utlevere seg","accepted_completions":["selv"],"language":"nob"}
-{"idiom_start":"vanens","accepted_completions":["makt"],"language":"nob"}
 {"idiom_start":"vann p\u00e5","accepted_completions":["m\u00f8lla"],"language":"nob"}
-{"idiom_start":"varmere","accepted_completions":["himmelstr\u00f8k"],"language":"nob"}
 {"idiom_start":"vasse i","accepted_completions":["penger"],"language":"nob"}
 {"idiom_start":"ved et skjebnens","accepted_completions":["lune"],"language":"nob"}
 {"idiom_start":"ved h\u00f8ylys","accepted_completions":["dag"],"language":"nob"}
@@ -4203,21 +3899,16 @@
 {"idiom_start":"veggene har","accepted_completions":["\u00f8rer"],"language":"nob"}
 {"idiom_start":"veie for og","accepted_completions":["imot"],"language":"nob"}
 {"idiom_start":"veie sine ord p\u00e5","accepted_completions":["gullvekt"],"language":"nob"}
-{"idiom_start":"veis","accepted_completions":["ende"],"language":"nob"}
-{"idiom_start":"vekke","accepted_completions":["gjenklang","noen"],"language":"nob"}
 {"idiom_start":"veksle et par","accepted_completions":["ord"],"language":"nob"}
-{"idiom_start":"vel","accepted_completions":["bl\u00e5st"],"language":"nob"}
 {"idiom_start":"vel \u00e5","accepted_completions":["merke"],"language":"nob"}
 {"idiom_start":"velge mellom pest og","accepted_completions":["kolera"],"language":"nob"}
 {"idiom_start":"vende noen","accepted_completions":["ryggen"],"language":"nob"}
 {"idiom_start":"vende ryggen","accepted_completions":["til"],"language":"nob"}
 {"idiom_start":"vende tilbake til gamle","accepted_completions":["synder","tomter"],"language":"nob"}
 {"idiom_start":"vende tomhendt","accepted_completions":["hjem"],"language":"nob"}
-{"idiom_start":"vente","accepted_completions":["seg"],"language":"nob"}
 {"idiom_start":"verden er ikke","accepted_completions":["stor"],"language":"nob"}
 {"idiom_start":"verden st\u00e5r ikke til","accepted_completions":["p\u00e5ske"],"language":"nob"}
 {"idiom_start":"verden vil","accepted_completions":["bedras"],"language":"nob"}
-{"idiom_start":"verdens","accepted_completions":["navle","tak","undergang"],"language":"nob"}
 {"idiom_start":"verdens st\u00f8rste","accepted_completions":["under"],"language":"nob"}
 {"idiom_start":"vi alminnelige","accepted_completions":["d\u00f8delige"],"language":"nob"}
 {"idiom_start":"vi er alle i samme","accepted_completions":["b\u00e5t"],"language":"nob"}
@@ -4225,32 +3916,23 @@
 {"idiom_start":"vi m\u00f8tes ved neste","accepted_completions":["korsvei"],"language":"nob"}
 {"idiom_start":"vifte med","accepted_completions":["\u00f8rene"],"language":"nob"}
 {"idiom_start":"ville ha b\u00e5de i pose og","accepted_completions":["sekk"],"language":"nob"}
-{"idiom_start":"villig","accepted_completions":["vekk"],"language":"nob"}
 {"idiom_start":"vinden har","accepted_completions":["snudd"],"language":"nob"}
-{"idiom_start":"vinne","accepted_completions":["gjenklang"],"language":"nob"}
 {"idiom_start":"vinne heder og","accepted_completions":["\u00e6re"],"language":"nob"}
 {"idiom_start":"vippe noen av","accepted_completions":["pinnen"],"language":"nob"}
 {"idiom_start":"virke som en","accepted_completions":["brannfakkel"],"language":"nob"}
-{"idiom_start":"visdommens","accepted_completions":["kilde"],"language":"nob"}
-{"idiom_start":"vise","accepted_completions":["ansikt","flagget","tenner","vei"],"language":"nob"}
 {"idiom_start":"vise for all","accepted_completions":["verden"],"language":"nob"}
 {"idiom_start":"vise gode","accepted_completions":["takter"],"language":"nob"}
 {"idiom_start":"vise seg fra sin beste","accepted_completions":["side"],"language":"nob"}
 {"idiom_start":"vise sitt sanne","accepted_completions":["ansikt","jeg"],"language":"nob"}
 {"idiom_start":"vite hvor skoen","accepted_completions":["trykker"],"language":"nob"}
-{"idiom_start":"vondt","accepted_completions":["blod"],"language":"nob"}
 {"idiom_start":"vondt skal vondt","accepted_completions":["fordrive"],"language":"nob"}
 {"idiom_start":"vri p\u00e5","accepted_completions":["ordene"],"language":"nob"}
-{"idiom_start":"vri","accepted_completions":["seg"],"language":"nob"}
 {"idiom_start":"vri seg som en","accepted_completions":["orm"],"language":"nob"}
 {"idiom_start":"vri seg","accepted_completions":["unna"],"language":"nob"}
 {"idiom_start":"v\u00e5ge seg ut p\u00e5 tynn","accepted_completions":["is"],"language":"nob"}
-{"idiom_start":"v\u00e5ge","accepted_completions":["skinnet"],"language":"nob"}
 {"idiom_start":"v\u00e5kne til","accepted_completions":["liv"],"language":"nob"}
 {"idiom_start":"v\u00e5re veier","accepted_completions":["krysses"],"language":"nob"}
 {"idiom_start":"v\u00e5re \u00f8yne","accepted_completions":["m\u00f8ttes"],"language":"nob"}
-{"idiom_start":"v\u00e6r","accepted_completions":["varsom"],"language":"nob"}
-{"idiom_start":"v\u00e6re","accepted_completions":["allemannseie","altetende","avblomstret","avholdende","bankers","blakk","bleik","blind","bl\u00e6rete","bombastisk","br\u00e5kjekk","dagligdags","dumdristig","dyptpl\u00f8yende","d\u00f8dsens","d\u00f8gnvill","edelmodig","egensindig","ellevill","eneveldig","ensporet","en\u00f8yd","eplekjekk","epokegj\u00f8rende","fandenivoldsk","fargel\u00f8s","firkantet","fisefin","flintskallet","forfinet","fortapt","forutinntatt","fredet","gal","giftig","glovarm","godtroende","gr\u00f8nn","hardhjertet","hardhudet","harry","heltemodig","herdet","hjertel\u00f8s","hjulbeint","hoven","hudl\u00f8s","hverdagskost","h\u00e5ndfast","h\u00e5rreisende","idiotsikker","in","i\u00f8refallende","i\u00f8ynefallende","jevnbyrdig","kar","klippefast","konge","krampaktig","kritthvit","kvikk","legendarisk","lettlivet","likeglad","lusen","l\u00f8smunnet","matnyttig","mett","munnrapp","nebbete","nesevis","n\u00e6rliggende","n\u00e6rtagende","omt\u00e5ket","oppe","overkommelig","prippen","p\u00e5seilet","rebelsk","rotl\u00f8s","rund","r\u00e5","r\u00e5flott","sammen","selvgod","selvinnlysende","sj\u00f8sterk","skadefro","skarpskodd","skeiv","slagferdig","sleivete","smalsporet","smidig","sm\u00e5borgerlig","sm\u00e5lig","sm\u00f8rblid","snakkesalig","snerpete","snorrett","snusfornuftig","spiselig","spissfindig","sprek","sprekkeferdig","stivnakket","stivsinnet","stormannsgal","stripete","str\u00f8ken","styrtrik","svartelistet","tafatt","talef\u00f8r","taletrengt","teatralsk","tekkelig","tilbakelent","toneangivende","tungnem","tungrodd","tungsindig","t\u00e5kete","t\u00f8rrvittig","umusikalsk","underdanig","underm\u00e5ls","usmakelig","uspiselig","utenfor","veggpryd","velbesl\u00e5tt","vidsynt","virkelighetsfjern","v\u00e5ken","\u00e5ndfull","\u00e5ndsfrav\u00e6rende","\u00e5ndsn\u00e6rv\u00e6rende","\u00e5rv\u00e5ken"],"language":"nob"}
 {"idiom_start":"v\u00e6re av det","accepted_completions":["onde"],"language":"nob"}
 {"idiom_start":"v\u00e6re bare","accepted_completions":["bl\u00e5b\u00e6r"],"language":"nob"}
 {"idiom_start":"v\u00e6re barn av sin","accepted_completions":["tid"],"language":"nob"}
@@ -4457,18 +4139,12 @@
 {"idiom_start":"v\u00e6re \u00e5pen for","accepted_completions":["noe"],"language":"nob"}
 {"idiom_start":"\u00e5 , du er en","accepted_completions":["engel"],"language":"nob"}
 {"idiom_start":"\u00e5 , jeg","accepted_completions":["ber"],"language":"nob"}
-{"idiom_start":"\u00e5nde","accepted_completions":["ut"],"language":"nob"}
-{"idiom_start":"\u00e5ndens","accepted_completions":["sverd"],"language":"nob"}
 {"idiom_start":"\u00e5pent og","accepted_completions":["\u00e6rlig"],"language":"nob"}
-{"idiom_start":"\u00e5pne","accepted_completions":["ballet","latterd\u00f8ren","munnen"],"language":"nob"}
 {"idiom_start":"\u00e5pner alle","accepted_completions":["d\u00f8rer"],"language":"nob"}
 {"idiom_start":"\u00e5r for","accepted_completions":["\u00e5r"],"language":"nob"}
 {"idiom_start":"\u00e5r om","accepted_completions":["annet"],"language":"nob"}
-{"idiom_start":"\u00e6rens","accepted_completions":["mark"],"language":"nob"}
 {"idiom_start":"\u00e6res den som \u00e6res","accepted_completions":["b\u00f8r"],"language":"nob"}
-{"idiom_start":"\u00e6rlig","accepted_completions":["talt"],"language":"nob"}
 {"idiom_start":"\u00e6rlighet varer","accepted_completions":["lengst"],"language":"nob"}
-{"idiom_start":"\u00f8se","accepted_completions":["ned"],"language":"nob"}
 {"idiom_start":"\u00f8se ut","accepted_completions":["penger"],"language":"nob"}
 {"idiom_start":"\u00f8ve vold mot","accepted_completions":["noen"],"language":"nob"}
 {"idiom_start":"\u00f8ye for \u00f8ye , tann for","accepted_completions":["tann"],"language":"nob"}
@@ -4762,23 +4438,17 @@
 {"idiom_start":"den femte","accepted_completions":["kolonne"],"language":"nob"}
 {"idiom_start":"den som sover , synder","accepted_completions":["ikke"],"language":"nob"}
 {"idiom_start":"dra dit peppern","accepted_completions":["gror"],"language":"nob"}
-{"idiom_start":"drikke","accepted_completions":["bryllup"],"language":"nob"}
-{"idiom_start":"duvende","accepted_completions":["bryster"],"language":"nob"}
 {"idiom_start":"elefanten i","accepted_completions":["rommet"],"language":"nob"}
 {"idiom_start":"element\u00e6rt , min kj\u00e6re","accepted_completions":["Watson"],"language":"nob"}
 {"idiom_start":"en for alle , alle for","accepted_completions":["en"],"language":"nob"}
 {"idiom_start":"ess i","accepted_completions":["ermet"],"language":"nob"}
-{"idiom_start":"fru","accepted_completions":["Blom"],"language":"nob"}
 {"idiom_start":"f\u00e5 vann i","accepted_completions":["munnen"],"language":"nob"}
-{"idiom_start":"f\u00f8lge","accepted_completions":["slavisk"],"language":"nob"}
 {"idiom_start":"gatens l\u00f8se","accepted_completions":["fugler"],"language":"nob"}
 {"idiom_start":"glimre ved sitt","accepted_completions":["fr\u00e5v\u00e6r"],"language":"nob"}
-{"idiom_start":"godt","accepted_completions":["parti"],"language":"nob"}
 {"idiom_start":"g\u00e5 hus","accepted_completions":["forbi"],"language":"nob"}
 {"idiom_start":"g\u00e5 inn i ditt","accepted_completions":["l\u00f8nnkammer"],"language":"nob"}
 {"idiom_start":"g\u00e5 sport","accepted_completions":["i"],"language":"nob"}
 {"idiom_start":"helt i","accepted_completions":["hundre"],"language":"nob"}
-{"idiom_start":"hokus","accepted_completions":["pokus"],"language":"nob"}
 {"idiom_start":"hugge over den gordiske","accepted_completions":["knute"],"language":"nob"}
 {"idiom_start":"h\u00f8na eller","accepted_completions":["egget"],"language":"nob"}
 {"idiom_start":"h\u00f8ste som man","accepted_completions":["s\u00e5r"],"language":"nob"}
@@ -4794,10 +4464,8 @@
 {"idiom_start":"kort i","accepted_completions":["ermet"],"language":"nob"}
 {"idiom_start":"la det g\u00e5 sport","accepted_completions":["i"],"language":"nob"}
 {"idiom_start":"lik i","accepted_completions":["lasten"],"language":"nob"}
-{"idiom_start":"l\u00f8s","accepted_completions":["kanon"],"language":"nob"}
 {"idiom_start":"man h\u00f8ster som man","accepted_completions":["s\u00e5r"],"language":"nob"}
 {"idiom_start":"misforst\u00e5 meg","accepted_completions":["rett"],"language":"nob"}
-{"idiom_start":"mo","accepted_completions":["alene"],"language":"nob"}
 {"idiom_start":"nattens l\u00f8se","accepted_completions":["fugler"],"language":"nob"}
 {"idiom_start":"ni til","accepted_completions":["fire-liv"],"language":"nob"}
 {"idiom_start":"norsk nordmann fra","accepted_completions":["Norge"],"language":"nob"}
@@ -4806,8 +4474,6 @@
 {"idiom_start":"politikk og","accepted_completions":["p\u00f8lser"],"language":"nob"}
 {"idiom_start":"ridderen av den bedr\u00f8velige","accepted_completions":["skikkelse"],"language":"nob"}
 {"idiom_start":"ridende rytter til","accepted_completions":["hest"],"language":"nob"}
-{"idiom_start":"r\u00f8d","accepted_completions":["tr\u00e5d"],"language":"nob"}
-{"idiom_start":"severin","accepted_completions":["Suveren"],"language":"nob"}
 {"idiom_start":"si meg hva du spiser , og jeg skal si deg hvem du","accepted_completions":["er"],"language":"nob"}
 {"idiom_start":"sine meningers","accepted_completions":["mot"],"language":"nob"}
 {"idiom_start":"skille mellom sn\u00f8rr og","accepted_completions":["barter"],"language":"nob"}
@@ -4816,7 +4482,6 @@
 {"idiom_start":"skudd for","accepted_completions":["baugen"],"language":"nob"}
 {"idiom_start":"sn\u00f8rr og","accepted_completions":["barter"],"language":"nob"}
 {"idiom_start":"spise hatten","accepted_completions":["sin"],"language":"nob"}
-{"idiom_start":"stante","accepted_completions":["pede"],"language":"nob"}
 {"idiom_start":"st\u00f8v p\u00e5","accepted_completions":["hjernen"],"language":"nob"}
 {"idiom_start":"s\u00e5 vind og h\u00f8ste","accepted_completions":["storm"],"language":"nob"}
 {"idiom_start":"ta sin hatt og","accepted_completions":["g\u00e5"],"language":"nob"}
@@ -5029,7 +4694,6 @@
 {"idiom_start":"dra sin","accepted_completions":["kos"],"language":"nob"}
 {"idiom_start":"du store kineser","accepted_completions":["!"],"language":"nob"}
 {"idiom_start":"et sk\u00e5r i","accepted_completions":["gleden"],"language":"nob"}
-{"idiom_start":"fra","accepted_completions":["arildstid"],"language":"nob"}
 {"idiom_start":"f\u00e5 det glatte","accepted_completions":["lag"],"language":"nob"}
 {"idiom_start":"f\u00e5 vind i","accepted_completions":["seilene"],"language":"nob"}
 {"idiom_start":"f\u00f8re i","accepted_completions":["marken"],"language":"nob"}
@@ -5051,7 +4715,6 @@
 {"idiom_start":"komme h\u00f8yt p\u00e5","accepted_completions":["str\u00e5"],"language":"nob"}
 {"idiom_start":"med hud og","accepted_completions":["h\u00e5r"],"language":"nob"}
 {"idiom_start":"over en lav","accepted_completions":["sko"],"language":"nob"}
-{"idiom_start":"polsk","accepted_completions":["riksdag"],"language":"nob"}
 {"idiom_start":"p\u00e5 lykke og","accepted_completions":["fromme"],"language":"nob"}
 {"idiom_start":"sette seg p\u00e5 sin h\u00f8ye","accepted_completions":["hest"],"language":"nob"}
 {"idiom_start":"sette sitt lys under","accepted_completions":["en"],"language":"nob"}
