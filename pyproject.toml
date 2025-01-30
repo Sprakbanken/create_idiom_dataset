@@ -5,7 +5,7 @@ description = "Create idiom dataset from several idiom collections"
 authors = [
     {name = "Tita", email = "tita.enstad@nb.no"},
 ]
-dependencies = ["pandas>=2.2.3", "tqdm>=4.67.1", "nb-tokenizer>=0.1.0", "datasets>=3.2.0", "pytest>=8.3.4", "ruff>=0.9.3"]
+dependencies = ["pandas>=2.2.3", "tqdm>=4.67.1", "nb-tokenizer>=0.1.0", "datasets>=3.2.0", "pytest>=8.3.4", "ruff>=0.9.3", "ipykernel>=6.29.5"]
 requires-python = ">=3.12"
 readme = "README.md"
 license = {text = "MIT"}
