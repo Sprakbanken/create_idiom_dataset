@@ -1,6 +1,8 @@
 # Create idiom dataset 
 
-This repository contains code to create a frequency curated idiom dataset from a collection of idiom books
+This repository contains code to create a frequency curated idiom dataset from a collection of idiom books  
+The dataset at [idiom_dataset](idiom_dataset) is the same as [Sprakbanken/Norwegian_idioms](https://huggingface.co/datasets/Sprakbanken/Norwegian_idioms)
+
 
 ## Setup and install
 You can easily install with pdm like this:
