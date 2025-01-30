@@ -339,24 +339,25 @@ def create_idiom_dataset():
     idiom_comp_task_df.to_json(
         args.dataset_output_dir / "data.jsonl", lines=True, orient="records"
     )
+    logger.debug(
+        "Number of idioms in idiom completion task: %s", len(idiom_comp_task_df)
+    )
 
     logger.info("Creating original + translated idiom completion task")
     all_df = pd.concat(
         [idiom_df[["idiom", "language"]], translated_idiom_df[["idiom", "language"]]]
     ).drop_duplicates()
 
-    logger.info(
-        "Number of idioms when combining original and translated idioms: %s",
-        len(all_df),
-    )
-    for lang, df_ in all_df.groupby("language"):
-        logger.info("Number of %s idioms: %s", lang, len(df_))
-
     all_idiom_comp_task_df = idiom_df_to_idiom_completion_task(idiom_df=all_df)
     all_idiom_comp_task_df.to_json(
         args.dataset_output_dir / "original_and_translated_data.jsonl",
         lines=True,
         orient="records",
+    )
+
+    logger.debug(
+        "Number of idioms in original + translated idiom completion task: %s",
+        len(all_idiom_comp_task_df),
     )
 
     with open(args.dataset_output_dir / "README.md", "w") as f:
